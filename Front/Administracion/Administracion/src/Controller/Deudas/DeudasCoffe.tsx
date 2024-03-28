@@ -39,6 +39,8 @@ export function DeudasCoffe(){
 
       }
       return (
+        <div>
+          <BusquedaCoffe data={deudas} />
         <Box
       sx={{
         width: '100%',
@@ -46,10 +48,10 @@ export function DeudasCoffe(){
         display: 'grid',
         gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
         gap: 2,
-        mt:10,
+        mt:3,
         ml:3,
       }}
-    >  <BusquedaCoffe data={deudas}/>
+    >  
             {deudas.map((item:DeudaClientesEntity)=>{
                 return <CardDeudas key={item.ci} 
                                    titulo={item.nombre} 
@@ -62,6 +64,7 @@ export function DeudasCoffe(){
                                    />
             })}
     </Box>
+    </div>
       )
 
 
