@@ -25,7 +25,7 @@ export function BusquedaCoffe(props:any){
   setResultado(resultadosFiltrados);
 
   // Muestra los resultados en un alert (esto podría ser mejorado)
-  alert(JSON.stringify(resultadosFiltrados));
+  //alert(JSON.stringify(resultadosFiltrados));
 }
 function agregar(cliente:any){
   setCliente(cliente)
