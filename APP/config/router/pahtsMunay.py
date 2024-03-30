@@ -5,7 +5,7 @@ class PathMunay():
     logs=None
     
     def __init__(self):
-        self.root='/home/munay/MUNAYSYSTEM3.0'
+        self.root='/home/jarvis/Escritorio/MUNAYSYSTEM3.0'
         self.logs=f'{self.root}/APP/Logs/'
         
     def getRoot(self):
