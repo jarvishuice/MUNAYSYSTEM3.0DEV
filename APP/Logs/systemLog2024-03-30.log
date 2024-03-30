@@ -1,0 +1,86 @@
+ [35m[2024-03-30 09:49:06.302992]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.310600]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-03-30 09:49:06.310719]:[32merror al intentar registrar el producto 
+ [35m[2024-03-30 09:49:06.310799]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.311022]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.336193]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.349807]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-03-30 09:49:06.350115]:[32merror al intentar registrar el producto 
+ [35m[2024-03-30 09:49:06.350511]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.351063]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.372609]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.379709]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-03-30 09:49:06.380627]:[32merror al leer las ventas por producto  
+ [35m[2024-03-30 09:49:06.381265]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.384565]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.416294]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.424166]:[32mse ecncontraron (29) deudas  en la sede cfm .....!
+ [35m[2024-03-30 09:49:06.424802]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.425538]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-03-30 09:49:06.445499]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.452347]:[32m[0;31m errror al extraer los pedidos del dia   
+ [35m[2024-03-30 09:49:06.452471]:[32merror al extraer los pedidos del dia  
+ [35m[2024-03-30 09:49:06.452562]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.452931]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.477378]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.487416]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-03-30 09:49:06.487562]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.487800]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.509392]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.530491]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-03-30 09:49:06.530906]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.531434]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.553403]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.561310]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-03-30 09:49:06.561414]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-03-30 09:49:06.561493]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.561740]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.582251]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:06.594281]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-03-30 09:49:06.594387]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:06.594589]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:06.594891]:[32m[0;31m Error en la conexión a la base de datos: unable to open database file
+ [35m[2024-03-30 09:49:06.594985]:[32mERROR DE CONEXION A LA BASE DE DATOS...
+ [35m[2024-03-30 09:49:25.583667]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.590113]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-03-30 09:49:25.590205]:[32merror al intentar registrar el producto 
+ [35m[2024-03-30 09:49:25.590288]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.590494]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.610934]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.621904]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-03-30 09:49:25.622011]:[32merror al intentar registrar el producto 
+ [35m[2024-03-30 09:49:25.622095]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.622499]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.644136]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.650503]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-03-30 09:49:25.650589]:[32merror al leer las ventas por producto  
+ [35m[2024-03-30 09:49:25.650649]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.650925]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.674131]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.683070]:[32mse ecncontraron (29) deudas  en la sede cfm .....!
+ [35m[2024-03-30 09:49:25.684221]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.685143]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-03-30 09:49:25.705363]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.714509]:[32m[0;31m errror al extraer los pedidos del dia   
+ [35m[2024-03-30 09:49:25.714720]:[32merror al extraer los pedidos del dia  
+ [35m[2024-03-30 09:49:25.714827]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.715245]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.736439]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.747080]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-03-30 09:49:25.747286]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.747724]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.768982]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.788404]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-03-30 09:49:25.788731]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.788985]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.813016]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.819044]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-03-30 09:49:25.819151]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-03-30 09:49:25.819221]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.819411]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.843428]:[32mConexión exitosa a la base de datos
+ [35m[2024-03-30 09:49:25.855506]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-03-30 09:49:25.855843]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-03-30 09:49:25.856102]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-03-30 09:49:25.856270]:[32m[0;31m Error en la conexión a la base de datos: unable to open database file
+ [35m[2024-03-30 09:49:25.856347]:[32mERROR DE CONEXION A LA BASE DE DATOS...

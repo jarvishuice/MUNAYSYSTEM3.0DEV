@@ -10,7 +10,7 @@ class ConectionsSqliteInterface(ConectionDbInterface):
     def connect(self):
         try:
             # Replace this with your SQLite database path
-            self.conn = sqlite3.connect("/home/munay/MUNAYSYSTEM3.0/APP/assets/userAccion/user.db")
+            self.conn = sqlite3.connect("/home/jarvis/Escritorio/MUNAYSYSTEM3.0/APP/assets/userAccion/user.db")
             return ResponseInternal.responseInternal(status=True, mesagge="Conexión exitosa a la base de datos", response="conexión exitosa")
         except sqlite3.OperationalError as err:
             return ResponseInternal.responseInternal(status=False, mesagge=f"{self.ERROR} Error en la conexión a la base de datos: {err}", response=None)
