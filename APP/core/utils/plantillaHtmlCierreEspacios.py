@@ -200,6 +200,7 @@ class PlantillaHTMLCierreJornada():
         {self.style}
         <body>
         <div>
+        <img src="https://www.nestvzla.com/page/Home_files/i.png"/>
         <p> fecha de emision: {datetime.datetime.today()}</p>
          <center> <h1> Reporte del Fin de Jornada Espacios {sede.upper()}</h1> 
           <h3> {datetime.date.today()}</h3><br/>

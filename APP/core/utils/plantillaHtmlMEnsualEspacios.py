@@ -192,6 +192,7 @@ class PlantillaHTMLMensual():
         {self.style}
         <body>
         <div>
+        <img src="https://www.nestvzla.com/page/Home_files/i.png"/>
         <p> fecha de emision: {datetime.datetime.today()}</p>
          <center> <h1> Reporte Mensual Jornada Espacios {sede.upper()} {mes}-{year}</h1> 
           <h3> {datetime.date.today()}</h3><br/>
