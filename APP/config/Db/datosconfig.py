@@ -1,5 +1,4 @@
 
- 
 class CredentialDb():
     user=None
     db=None

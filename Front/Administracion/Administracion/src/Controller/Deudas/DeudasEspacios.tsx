@@ -4,10 +4,11 @@ import { DeudaClientesEntity } from "../../core/Entities/clients/dedudaClientes"
 import { DeudasClientesEspaciosDAO } from "../../core/Implements/clients/deudasClientesEspaciosDAO";
 import {Cargando} from "../../screens/Cargando";
 import Box from '@mui/joy/Box';
+import { BusquedaEspacios } from "./busquedaEspacios";
 
 const sede= localStorage.getItem("sede")??"inica seccion"
 export function DeudasEspacios(){
-    const contenedorTarjetas= screen.width >= 800 ? 1300:600;
+    const contenedorTarjetas= screen.width >= 800 ? "97%":600;
     const [loading,setLoading]=useState(false)
     const [deudas,setDeudas] = useState<DeudaClientesEntity[]|[]>([])
     async function fecthDeudas(){
@@ -34,6 +35,8 @@ export function DeudasEspacios(){
     return <Cargando/>}
     
     return(
+        <div>
+        <BusquedaEspacios data={deudas} />
         <Box 
             sx={{
                 width: '100%',
@@ -41,7 +44,7 @@ export function DeudasEspacios(){
                 display: 'grid',
                 gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))',
                 gap: 2,
-                mt:10,
+                mt:3,
                 ml:3,}}>
                         {deudas.map((item:DeudaClientesEntity)=>{
                 return <CardDeudasEspacios key={item.ci} 
@@ -54,6 +57,6 @@ export function DeudasEspacios(){
                                
                                    />
             })}
-        </Box>
+        </Box> </div>
         )
 }

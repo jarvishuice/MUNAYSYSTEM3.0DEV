@@ -11,7 +11,7 @@ export function DeudasCoffe(){
     const sede = localStorage.getItem('sede') ?? 'por favor inicie sesión para poder crear una orden';
     const [deudas,setDeudas]= useState<DeudaClientesEntity[]>([]);
     const [cargando,setCargando] = useState(false)
-    const contenedorTarjetas= screen.width >= 800 ? 1300:600;
+    const contenedorTarjetas= screen.width >= 800 ? "97%":600;
 
 
     async function fecthDeuda() {
