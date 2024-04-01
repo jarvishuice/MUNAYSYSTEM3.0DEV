@@ -281,7 +281,7 @@ GROUP BY i.nombre;
 left join productos  p3 on nombre=p3.nombre 
 left join clientes c on c.nombre=c.nombre
 left join ordenes o  on o.id =o.id
-where  p3.id = idproducto and c.id=o.idcliente  and o.id=p2.idorden  and date(o.fechapedido) =>'{inicio}'and date(o.fechapedido)>='{fin}' and o.sede='{sede}';      
+where  p3.id = idproducto and c.id=o.idcliente  and o.id=p2.idorden  and date(o.fechapedido) >='{inicio}'and date(o.fechapedido)>='{fin}' and o.sede='{sede}';      
               
                                 """)
               
