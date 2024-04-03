@@ -1,12 +1,12 @@
 import { PATHMUNAYSYSY } from "../../Config/routes/pathsMuanaysys";
 import { IFrameReporte } from "../../components/IframeReporte";
-import Fab from '@mui/material/Fab';
-import AddIcon from '@mui/icons-material/Add';
 import Input from '@mui/joy/Input';
-import { Alert, Button, FormLabel, Stack } from "@mui/joy";
-import { FormControl } from "@mui/joy";
+import { Alert, Button, Stack } from "@mui/joy";
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import React, { useState } from "react";
+import Fab from '@mui/material/Fab';
+import AddIcon from '@mui/icons-material/Add';
+import DownloadIcon from '@mui/icons-material/Download';
 
 const sede =  localStorage.getItem("sede")??"sede"
 const paths = new PATHMUNAYSYSY();
@@ -17,6 +17,7 @@ const date= new Date()
 const fecha= `${date.getDay()}-${date.getMonth()+1}-${date.getFullYear()}`
 const ulrReporteIframe=`${API}${prefijo}html/filter/range/${sede}/${fecha}/${fecha}`
 const urlBase=`${API}${prefijo}html/filter/range/${sede}`
+const urlBaseDescarga=`${API}${prefijo}filter/range`
 function RangoFecha(props:any){
 const[Finicio,setFinicio] = useState(fecha)
 const[Ffin,setFfin] = useState(fecha)
@@ -33,7 +34,7 @@ return (
  <Input value={Finicio}  onChange={cambioFinicio} type="date"/>
 
    <Input  value={Ffin} onChange={cambioFfin}  type="date"/>
-   <Button  color="primary" onClick={()=>props.url(`${urlBase}/${Finicio}/${Ffin}`)} >
+   <Button  color="primary" onClick={()=>{props.url(`${urlBase}/${Finicio}/${Ffin}`),props.urlDescarga(`${urlBaseDescarga}/${sede}/${Finicio}/${Ffin}`)}} >
      <CheckCircleIcon/> Generar {String(Finicio)} a {String(Ffin)}
    </Button>
 </Stack>
@@ -47,11 +48,18 @@ export function ReportesUnificados(){
     function cambioUrl(url:string){
     setUrl(url);
     }
+    const[urlDescarga,setUrlDescarga]=useState(`${ulrReporteIframe}`)
+    function cambioUrlDescarga(url:string){
+    setUrlDescarga(url);
+    }
     return(
     <div> 
 
-      <center> <RangoFecha url={cambioUrl}></RangoFecha></center> 
-         <IFrameReporte url={url}/>
+      <center> <RangoFecha url={cambioUrl} urlDescarga={cambioUrlDescarga}></RangoFecha></center> 
+      <Fab onClick={()=>window.open(urlDescarga)} size="small" color="primary" aria-label="add" sx={{mt:10,ml:"90%",zIndex:99,display:"scroll", position:"fixed"}}>
+        <DownloadIcon />
+      </Fab>
+         <IFrameReporte url={urlDescarga}></IFrameReporte>
         
     </div>
     

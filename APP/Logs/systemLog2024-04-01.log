@@ -5797,3 +5797,39 @@ LINE 6: ...nte  and o.id=p2.idorden  and date(o.fechapedido) =>'01-03-2...
  [35m[2024-04-01 15:43:25.822949]:[32mYA cunminaron los hilos ........... 
  [35m[2024-04-01 15:43:26.356820]:[32mreporte de cierrede joranan by fecha  espacios generado con exito
  [35m[2024-04-01 15:43:26.356918]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-01 15:57:07.414734]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.415761]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.416120]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.427432]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.466272]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.539496]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.541085]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.552906]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.567307]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.567653]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.579783]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.685656]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-01 15:57:07.691325]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.702678]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.724355]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.728162]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.768125]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.778034]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-01 15:57:07.778252]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-01 15:57:07.783596]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.801630]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.825131]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.825751]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.841077]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.864071]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.864211]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.866450]:[32mnew implement IPagos
+ [35m[2024-04-01 15:57:07.881483]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.885793]:[32mnew implement IOrdenes
+ [35m[2024-04-01 15:57:07.910446]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.910868]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.958976]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.964230]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.964557]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.967860]:[32mnew implement IClientes
+ [35m[2024-04-01 15:57:07.967980]:[32mnew implement IClientes
