@@ -20,6 +20,7 @@ import AnalyticsIcon from '@mui/icons-material/Analytics';
 import PeopleIcon from '@mui/icons-material/People';
 import "../App.css";
 import ModalClose from '@mui/joy/ModalClose';
+import SummarizeIcon from '@mui/icons-material/Summarize';
 
 import { Outlet,Link } from "react-router-dom";
 
@@ -152,6 +153,27 @@ export function SideBar(props: any): any {
                 >
                   <ItemsEspacios></ItemsEspacios>
                 </ListItemButton>
+              </ListItem>
+              <ListItem>
+                <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
+                <Link to="gerencia/reportes">
+                 <Accordion >
+                <ListItemButton 
+                className="itemsLista"
+                  selected={index === 1}
+                  color={index === 1 ? 'primary' : undefined}
+                  onClick={() => {setIndex(1),setOpen(false)}}
+                >
+                  <ListItemDecorator>
+                    <SummarizeIcon/>
+                  </ListItemDecorator>
+                  <ListItemContent>REPORTES</ListItemContent>
+           
+                </ListItemButton>
+                
+                </Accordion>
+                </Link>
+                </AccordionGroup>
               </ListItem>
             </List>
 

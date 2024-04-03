@@ -5,7 +5,7 @@ import { Alert, Button, Stack } from "@mui/joy";
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import React, { useState } from "react";
 import Fab from '@mui/material/Fab';
-import AddIcon from '@mui/icons-material/Add';
+
 import DownloadIcon from '@mui/icons-material/Download';
 
 const sede =  localStorage.getItem("sede")??"sede"
@@ -59,7 +59,7 @@ export function ReportesUnificados(){
       <Fab onClick={()=>window.open(urlDescarga)} size="small" color="primary" aria-label="add" sx={{mt:10,ml:"90%",zIndex:99,display:"scroll", position:"fixed"}}>
         <DownloadIcon />
       </Fab>
-         <IFrameReporte url={urlDescarga}></IFrameReporte>
+         <IFrameReporte url={url}></IFrameReporte>
         
     </div>
     
