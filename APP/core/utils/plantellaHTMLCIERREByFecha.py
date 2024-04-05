@@ -144,6 +144,9 @@ class PlantillaHTMLCierreJornada():
         .total {
           font-weight: bold;
         }
+         img{
+          max-width:150px;
+        }
         
         </style>"""
         

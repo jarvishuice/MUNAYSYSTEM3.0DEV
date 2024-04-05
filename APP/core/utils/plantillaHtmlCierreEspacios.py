@@ -92,7 +92,7 @@ class PlantillaHTMLCierreJornada():
             self.pagos+=f"""<tr><td>{i.cliente}</td><td>{i.monto} $</td><td>{round((i.monto) * (i.cotizacion),2)} bs</td><td>{i.cotizacion}</td><td>{i.motivo}</td><td>{i.metodo}</td> <td>{i.banco}</td><td>{i.referencia}</td></tr>"""
             
             match i.metodo:
-             case 'PAY-PAL':
+             case 'PAY PALL':
                 self.totalPAYPAL+=i.monto
              case 'ZELLE':
                    self.totalZELLE+=i.monto
@@ -151,7 +151,9 @@ class PlantillaHTMLCierreJornada():
         .total {
           font-weight: bold;
         }
-        
+         img{
+          max-width:150px;
+        }
         </style>"""
         
         # Crear hilos para procesar las órdenes abiertas y el punto count

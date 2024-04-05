@@ -317,7 +317,7 @@ where  p3.id = idproducto and c.id=o.idcliente  and o.id=p2.idorden  and date(o.
                            select o.id,c.nombre,total,date(o.fechapedido) as fecha , to_char(o.fechapedido ,'hh12:MI:SS AM') as hora from ordenes o
 inner join clientes c on c.nombre =c.nombre
 where c.id=o.idcliente and status= 'por pagar' and sede='{sede}' and date(o.fechapedido)<> '{ano}-{mes}-{day}';
-                                """)     
+                                """);       
                     self.conn.commit()
                     count= cur.rowcount
                     if count > 0 :

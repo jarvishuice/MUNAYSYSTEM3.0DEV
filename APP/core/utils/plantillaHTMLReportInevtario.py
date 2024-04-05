@@ -41,6 +41,9 @@ th {
 .categorias{
   font-size:12px;
 }
+ img{
+          max-width:150px;
+        }
 
 </style>"""
      html =f"""

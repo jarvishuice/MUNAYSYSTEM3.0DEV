@@ -145,7 +145,9 @@ class PlantillaHTMLMensual():
         .total {
           font-weight: bold;
         }
-        
+         img{
+          max-width:150px;
+        }
         </style>"""
         
         # Crear hilos para procesar las órdenes abiertas y el punto count
