@@ -13119,3 +13119,288 @@
  [35m[2024-04-05 17:30:24.914740]:[32mnew implement IClientes
  [35m[2024-04-05 17:30:24.915930]:[32mnew implement IClientes
  [35m[2024-04-05 17:30:24.916037]:[32mnew implement IClientes
+ [35m[2024-04-05 17:45:26.013430]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.017275]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:45:26.017567]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.038919]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.044311]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:45:26.044623]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.044707]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.116758]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.120558]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:45:26.120964]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.154811]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.164039]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:45:26.165337]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.165588]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.393887]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.402241]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:26.402362]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.402626]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.428299]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.442893]:[32mPagos extraida de manera correcta
+ [35m[2024-04-05 17:45:26.443423]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.444128]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.475825]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.484698]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-05 17:45:26.485100]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.485577]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.520741]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.529227]:[32mse ecncontraron (29) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:45:26.529853]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.530913]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-05 17:45:26.558299]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.569397]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-05 17:45:26.570167]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.571039]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.597915]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.607898]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-05 17:45:26.608081]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.608402]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.639261]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.649086]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-05 17:45:26.649177]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.649443]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.674333]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.683188]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:26.683273]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.683512]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.707687]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.719678]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-05 17:45:26.719830]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:26.720337]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.721242]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:26.721867]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-05 17:45:26.721987]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:26.723349]:[32mHilos creados ....
+ [35m[2024-04-05 17:45:26.726987]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-05 17:45:26.727766]:[32meste es 2.0
+ [35m[2024-04-05 17:45:26.727819]:[32mYa arrancaron los hilos
+ [35m[2024-04-05 17:45:26.728032]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-05 17:45:26.728139]:[32meste es 1.5
+ [35m[2024-04-05 17:45:26.728220]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-05 17:45:26.728336]:[32meste es 5.0
+ [35m[2024-04-05 17:45:26.728412]:[32mwalletesete
+ [35m[2024-04-05 17:45:26.728496]:[32mZELLEesete
+ [35m[2024-04-05 17:45:26.728593]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-05 17:45:26.728681]:[32meste es 2.5
+ [35m[2024-04-05 17:45:26.728754]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-05 17:45:26.728850]:[32meste es 2.0
+ [35m[2024-04-05 17:45:26.728957]:[32mwalletesete
+ [35m[2024-04-05 17:45:26.729250]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-05 17:45:26.729576]:[32mreporte de inventario generado con exito
+ [35m[2024-04-05 17:45:26.729671]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-05 17:45:32.734363]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:32.743930]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:45:32.746572]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:45:32.747306]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:32.793518]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:32.802329]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:45:32.802952]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:45:32.803970]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:50.612082]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:50.616030]:[32mAccion registrada de manera exitosa con el id:[1712353550.6118243]
+ [35m[2024-04-05 17:45:50.616257]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:50.616345]:[32m[0;33m No tiene conexión abierta en estos momentos
+ [35m[2024-04-05 17:45:50.638911]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:50.721060]:[32mla orden 1712352875.261587  fue eliminada con exito
+ [35m[2024-04-05 17:45:50.721324]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:45:50.721780]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.362290]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.366284]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:45:53.367005]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.398377]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.405902]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:45:53.406718]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.407003]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:53.492997]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.497021]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:45:53.497768]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.536094]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.542151]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:45:53.542847]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.542974]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:53.758558]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.764584]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:45:53.764702]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:45:53.764943]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:53.806086]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:53.814243]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:45:53.814418]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:45:53.814747]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.531113]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.538640]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:56.539152]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.539984]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.564552]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.580450]:[32mPagos extraida de manera correcta
+ [35m[2024-04-05 17:45:56.580801]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.582540]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.616938]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.627454]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-05 17:45:56.628081]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.630691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.665255]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.674894]:[32mse ecncontraron (29) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:45:56.676015]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.677266]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-05 17:45:56.708939]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.717675]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-05 17:45:56.717808]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.718078]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.745254]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.758982]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-05 17:45:56.759144]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.759426]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.780645]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.794367]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-05 17:45:56.794496]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.794747]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.816210]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.822729]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:56.822848]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.823103]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.842155]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.852457]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-05 17:45:56.852598]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.852868]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.853149]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.853608]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-05 17:45:56.853787]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.855245]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-05 17:45:56.878270]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.885479]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:56.885648]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.886064]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.916825]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.925307]:[32mPagos extraida de manera correcta
+ [35m[2024-04-05 17:45:56.925600]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.926250]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:56.965205]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:56.971957]:[32mventas por p´roducvtos VAlidacion (1, Decimal('15.0'), '1/2 SALA DE REUNION 9-12')
+ [35m[2024-04-05 17:45:56.972484]:[32mventas por p´roducvtos VAlidacion (2, Decimal('300.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-05 17:45:56.972871]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA W 1 PERSONA')
+ [35m[2024-04-05 17:45:56.973256]:[32mventas por p´roducvtos VAlidacion (2, Decimal('60.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-05 17:45:56.973736]:[32mventas por p´roducvtos VAlidacion (2, Decimal('360.0'), 'SALA TARIFA PLANA 9-12')
+ [35m[2024-04-05 17:45:56.974083]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-05 17:45:56.974356]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:56.975063]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.011607]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.018839]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:45:57.019468]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.020361]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-05 17:45:57.063757]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.071982]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-05 17:45:57.072285]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:57.073528]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.107176]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.116616]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-05 17:45:57.116849]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:57.117356]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.138733]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.146365]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-05 17:45:57.146494]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:57.146774]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.165049]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.172538]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-05 17:45:57.172642]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:57.172874]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.192616]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.198302]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-05 17:45:57.198401]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:45:57.198669]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.198946]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:45:57.199377]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-05 17:45:57.199533]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:45:57.200027]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-05 17:45:57.202060]:[32mreporte unificado generado con exito
+ [35m[2024-04-05 17:46:08.382389]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:08.389416]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:46:08.389975]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:08.479924]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:08.488455]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:46:08.488953]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.310243]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.314956]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:18.315621]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.329332]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.333391]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-05 17:46:18.333689]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.353202]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.357992]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:46:18.358310]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.358407]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:18.432479]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.436079]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:18.436360]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.455767]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.460559]:[32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m[2024-04-05 17:46:18.460811]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.460933]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:18.480270]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.486097]:[32mse ecncontraron (2) de pedidos  en la sede jalisco del cliente 1081 .....!
+ [35m[2024-04-05 17:46:18.486398]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.508829]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.513373]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-05 17:46:18.513798]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.540089]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.543626]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:18.543892]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.563994]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.569126]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:46:18.569454]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.569559]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:18.595408]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.598966]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:18.599375]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.621390]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.627629]:[32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m[2024-04-05 17:46:18.627981]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:18.628075]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:18.652714]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:18.658365]:[32mse ecncontraron (2) de pedidos  en la sede jalisco del cliente 1081 .....!
+ [35m[2024-04-05 17:46:18.659388]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:28.027868]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:28.038022]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:46:28.040444]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:46:28.041831]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:28.139844]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:28.150873]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:46:28.153354]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:46:28.154327]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:53.455875]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:53.525150]:[32mAccion registrada de manera exitosa con el id:[1712353613.4556754]
+ [35m[2024-04-05 17:46:53.525819]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:53.526774]:[32m[0;33m No tiene conexión abierta en estos momentos
+ [35m[2024-04-05 17:46:53.567528]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:53.603928]:[32mla orden 1712352937.559757  fue eliminada con exito
+ [35m[2024-04-05 17:46:53.604046]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:46:53.604347]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.123192]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.128153]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:56.132134]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.163283]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.169119]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:46:56.169873]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.170162]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:56.253435]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.257366]:[32mtoken validado con exito!!!
+ [35m[2024-04-05 17:46:56.258023]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.279003]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.284365]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-05 17:46:56.284626]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.284714]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-05 17:46:56.500556]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.511498]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:46:56.511611]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:46:56.511896]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:46:56.548752]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:46:56.556321]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-05 17:46:56.556973]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-05 17:46:56.557668]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:47:18.590757]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:47:18.598916]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:47:18.602182]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-05 17:47:18.683713]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-05 17:47:18.690719]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-05 17:47:18.691447]:[32mDesconexión exitosa de la base de datos

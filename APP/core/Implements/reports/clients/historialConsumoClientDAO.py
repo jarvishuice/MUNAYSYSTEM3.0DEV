@@ -7,7 +7,8 @@ from config.Db.conectionsPsqlInterface import ConectionsPsqlInterface
 import pdfkit
 import traceback
 
-class HistorialClientReport(ConectionsPsqlInterface,IReportClient):
+new_var = IReportClient
+class HistorialClientReport(ConectionsPsqlInterface):
     OPTIONS = {
                       'page-size': 'Letter', 
       'margin-top': '0.75in',
@@ -25,14 +26,14 @@ class HistorialClientReport(ConectionsPsqlInterface,IReportClient):
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido, 
-                                FROM ordenes where idCliente={idCliente} and sede='{sede}' 
+                    cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido 
+                                FROM ordenes where idcliente={idCliente} and sede='{sede}' 
                                 and status='por pagar' order by fechapedido desc;""")
                     count = cur.rowcount
                     if count > 0:
                         
                         for i in cur:
-                            data.append(Ordenes(id=str(i[0]),total=float(i[1]),sede=str(i[2]),fechapedido=str(i[3]),status=str(i[5])))
+                            data.append(Ordenes(id=str(i[0]),monto=float(i[2]),sede=str(i[1]),fpedido=str(i[4]),status=str(i[3])))
                         return ResponseInternal.responseInternal(True,f"se ecncontraron ({count}) en la sede {sede}",data)
                     else:
                         return ResponseInternal.responseInternal(False,f" {self.WARNING}no se encontraron ordenes abiertas del cliente {idCliente} en la sede {sede} ",data)
@@ -52,14 +53,15 @@ class HistorialClientReport(ConectionsPsqlInterface,IReportClient):
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido, 
+                    cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido ,fechapago
                                 FROM ordenes where idCliente={idCliente} and sede='{sede}' 
                                 and status='pagado' order by fechapedido desc;""")
                     count = cur.rowcount
                     if count > 0:
                         
                         for i in cur:
-                            data.append(Ordenes(id=str(i[0]),total=float(i[1]),sede=str(i[2]),fechapedido=str(i[3]),status=str(i[5])))
+                            
+                            data.append(Ordenes(id=str(i[0]),sede=str(i[1]),monto=float(i[2]),status=i[3],fpedido=str(i[4]),fpagado=str(i[4])))
                         return ResponseInternal.responseInternal(True,f"se ecncontraron ({count}) en la sede {sede}",data)
                     else:
                         return ResponseInternal.responseInternal(False,f" {self.WARNING}no se encontraron ordenes cerradas del cliente {idCliente} en la sede {sede} ",data)
@@ -79,25 +81,23 @@ class HistorialClientReport(ConectionsPsqlInterface,IReportClient):
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido, 
-                                FROM ordenes where idCliente={idCliente} and sede='{sede}' 
-                                and status='por pagar' order by fechapedido desc;""")
+                    cur.execute(f"""select * from obtener_datos_pagos_by_cliente({idCliente}, '{sede}')""")
                     count = cur.rowcount
                     if count > 0:
                         
                         for i in cur:
-                            data.append(Ordenes(id=str(i[0]),total=float(i[1]),sede=str(i[2]),fechapedido=str(i[3]),status=str(i[5])))
-                        return ResponseInternal.responseInternal(True,f"se ecncontraron ({count}) en la sede {sede}",data)
+                            data.append(Pagos(id=str(i[0]),monto=float(i[1]),fecha=str(i[2]),hora=str(i[3]),sede=str(i[4]),metodo=str(i[5]),referencia=str(i[6]),motivo=i[7],tasa=round(float(i[8]),2)))
+                        return ResponseInternal.responseInternal(True,f"se ecncontraron ({count}) pagos  en la sede {sede}",data)
                     else:
                         return ResponseInternal.responseInternal(False,f" {self.WARNING}no se encontraron ordenes abiertas del cliente {idCliente} en la sede {sede} ",data)
         except self.INTERFACE_ERROR as e :
-            Logs.WirterTask(f"{self.ERROR}{traceback.print_exc()} error de interface en la abse de datos en la funcion {self.__getOrdenesAbiertasCoffe.__name__ } details {e}")
+            Logs.WirterTask(f"{self.ERROR}{traceback.print_exc()} error de interface en la base de datos en la funcion {self.__getPagosCoffe.__name__ } details {e}")
             return ResponseInternal.responseInternal(False,"ERROR de interface en la base de datos ",None)
         except self.DATABASE_ERROR as e:
-            Logs.WirterTask(f"{self.ERROR} {traceback.print_exc()}error en la base de datos  en {self.__getOrdenesAbiertasCoffe.__name__}detail{e}")
+            Logs.WirterTask(f"{self.ERROR} {traceback.print_exc()}error en la base de datos  en {self.__getPagosCoffe.__name__}detail{e}")
             return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
         finally:
-            Logs.WirterTask(f"Finalizada la ejecucion de {self.__getOrdenesAbiertasCoffe.__name__ }")
+            Logs.WirterTask(f"Finalizada la ejecucion de {self.__getPagosCoffe.__name__ }")
             self.disconnect()
     def __getPedidosCoffe(self, sede: str, idCliente):
         data=[]
@@ -106,7 +106,7 @@ class HistorialClientReport(ConectionsPsqlInterface,IReportClient):
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""select c.nombre,pe.idorden ,o.fechapedido,o.sede,p.nombre,pe.cantidad,pe.total,o.status from ordenes o 
+                    cur.execute(f"""select c.nombre,pe.idorden ,o.fechapedido,p.nombre,pe.cantidad,pe.total,o.status from ordenes o 
 inner join clientes c on c.nombre = c.nombre
 inner join productos p on p.nombre = p.nombre
 inner join pedidos pe on pe.cantidad = pe.cantidad and pe.total = pe.total and pe.idorden =pe.idorden 
@@ -116,7 +116,9 @@ order by o.fechapedido  desc""")
                     if count > 0:
                         
                         for i in cur:
-                            data.append(Pedidos(idOrden=str(i[1]),fPedido=str(i[2]),producto=str(i[4]),cantidad=round(float(i[5]),2)),total=round(float(i[6])),status=str(i[7]))
+                            
+                            data.append(Pedidos(idOrden=str(i[1]),fPedido=str(i[2]),producto=str(i[3]),cantidad=float(i[4]),total=float(i[5]),status=str(i[6])))
+                            #data.append(Pedidos(idOrden=str(i[1]),fPedido=str(i[2]),producto=str(i[-4]),cantidad=round(float(i[-3]),2)),total=round(float(i[6])),status=str(i[-1]))
                         return ResponseInternal.responseInternal(True,f"se ecncontraron ({count}) pedidos en la sede {sede}",data)
                     else:
                         return ResponseInternal.responseInternal(False,f" {self.WARNING}no se encontraron pedidos del cliente {idCliente} en la sede {sede} ",data)
@@ -136,7 +138,7 @@ order by o.fechapedido  desc""")
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""select id,monto from wallet where idcliente = {idCliente}  and monto <> 0""")
+                    cur.execute(f"""select id,monto from wallet where idcliente = {idCliente} and monto <> 0  """)
                     count = cur.rowcount
                     if count > 0:
                         
@@ -154,3 +156,30 @@ order by o.fechapedido  desc""")
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getWalletOperacionesCoffe.__name__ }")
             self.disconnect()
+    def generarReporteClientCoffe(self,sede:str,idCliente:int):
+        datos= ClientReportEntity(ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
+                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente)["response"],
+                                  pagos=self.__getPagosCoffe(sede,idCliente)["response"],
+                                  pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
+                                  walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
+        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",datos)
+    def __getOrdenesAbiertasEspacios(self, sede: str, idCliente):
+        return super().__getOrdenesAbiertasEspacios(sede, idCliente)
+    def __getOrdenesCerradasEspacios(self, sede: str, idCliente):
+        return super().__getOrdenesCerradasEspacios(sede, idCliente)
+    def __getPagosEspacios(self, sede: str, idCliente):
+        return super().__getPagosEspacios(sede, idCliente)
+    def __getPedidosEspacios(self, sede: str, idCliente):
+        return super().__getPedidosEspacios(sede, idCliente)
+    def __getWalletOperacionesEspacios(self, sede: str, idCliente):
+        return super().__getWalletOperacionesEspacios(sede, idCliente)
+    def generarReporteClientCoffeHTML(self, sede: str, idCliente: int):
+        return super().generarReporteClientCoffeHTML(sede, idCliente)
+    def generarReporteClientEspacioHTML(self, sede: str, idCliente: int):
+        return super().generarReporteClientEspacioHTML(sede, idCliente)
+    def generarReporteClientEspacioPDF(self, sede: str, idCliente: int):
+        return super().generarReporteClientEspacioPDF(sede, idCliente)
+    def generarReporteClientCoffePDF(self, sede: str, idCliente: int):
+        return super().generarReporteClientCoffePDF(sede, idCliente)
+    def generarReporteClientEspacioExcel(self, sede: str, idCliente: int):
+        return super().generarReporteClientEspacioExcel(sede, idCliente)

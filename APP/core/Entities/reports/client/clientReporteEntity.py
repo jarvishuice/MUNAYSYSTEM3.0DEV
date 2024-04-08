@@ -13,8 +13,9 @@ class Pagos(BaseModel):
     monto:str
     fecha:str
     hora:str
-    metodo:str
     sede:str
+    metodo:str
+    referencia:str
     motivo:str
     tasa:float
 class Wallet(BaseModel):

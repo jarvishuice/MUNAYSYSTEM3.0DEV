@@ -69,3 +69,7 @@ delete from ordenes where id='{idOrden}'
 inner join clientes c on c.nombre =c.nombre
 where c.id=o.idcliente and o.sede='{sede}' and o.status = 'por pagar'  order  by o.fechapedido desc 
 ```
+10. consulta para estraer los pagos realizados por un ciente segun la sede 
+```sql
+select * from obtener_datos_pagos_by_cliente(7, 'jalisco') 
+```

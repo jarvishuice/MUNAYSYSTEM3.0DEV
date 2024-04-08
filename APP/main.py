@@ -27,6 +27,7 @@ from controllers.api.router.abonos.abonosRouter import ABONOS
 from controllers.api.router.reports.coffeshop.cierreHTMLRouter import ReportCierreHTML
 from controllers.api.router.actividadUsuario.acxtividdRouter import Actividad
 from controllers.api.router.reports.unificado.reportUnificadoRouter import GERENCIA
+from controllers.api.router.reports.cliente.reporteOperacionesClientesCoffeRouter import ReportClientConsumo
 origins = ["*"]
 autenticacion=OAuth2PasswordBearer(tokenUrl="token")
 
@@ -40,6 +41,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.include_router(ReportClientConsumo)
 app.include_router(GERENCIA)
 app.include_router(Actividad)
 app.include_router(ReportCierreHTML)

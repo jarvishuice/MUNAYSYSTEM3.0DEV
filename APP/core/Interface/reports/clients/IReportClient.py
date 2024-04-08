@@ -3,8 +3,7 @@ from abc import ABC,abstractmethod
 
 class IReportClient(ABC):
     
-    def __init__(self) -> None:
-        super().__init__()
+
     @abstractmethod
     def __getOrdenesAbiertasCoffe(self, sede:str,idCliente:int): ...
     @abstractmethod
