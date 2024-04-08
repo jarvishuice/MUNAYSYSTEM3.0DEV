@@ -1,4 +1,5 @@
 import datetime
+from core.utils.plantillaHTMLHistorialCliente import PlantillaHTMLHistorialCliente
 from core.config.ResponseInternal import ResponseInternal
 from config.Logs.LogsActivity import Logs
 from core.Entities.reports.client.clientReporteEntity import *
@@ -17,8 +18,34 @@ class HistorialClientReport(ConectionsPsqlInterface):
       'margin-left': '0.75in'
                     }
     WARNING=Logs.Warnings
+    plantilla=PlantillaHTMLHistorialCliente()
     def __init__(self):
         super().__init__() 
+    def __getCliente(self,id):
+        try:
+            cliente = None
+            conexion=self.connect()
+            if conexion['status'] == True:
+                with self.conn.cursor() as cur:
+                    cur.execute(f"""select nombre,ci,tlf,correo from clientes where id={id}""")
+                    count = cur.rowcount
+                    if count > 0:
+                        
+                        for i in cur:
+                            cliente=Cliente(id=id,nombre=str(i[0]),ci=str(i[1]),tlf=str(i[2]),correo=str(i[3]))
+                        return ResponseInternal.responseInternal(True,f"se ecncontro  ningun cliente con el id:{id}",cliente)
+                    else:
+                        return ResponseInternal.responseInternal(False,f" {self.WARNING}no se encontro al  cliente {id} ",None)
+        except self.INTERFACE_ERROR as e :
+            Logs.WirterTask(f"{self.ERROR}{traceback.print_exc()} error de interface en la abse de datos en la funcion {self.__getCliente.__name__ } details {e}")
+            return ResponseInternal.responseInternal(False,"ERROR de interface en la base de datos ",None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} {traceback.print_exc()}error en la base de datos  en {self.__getCliente.__name__}detail{e}")
+            return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
+        finally:
+            Logs.WirterTask(f"Finalizada la ejecucion de {self.__getCliente.__name__ }")
+            self.disconnect()
+        
     def __getOrdenesAbiertasCoffe(self, sede: str, idCliente: int):
         data=[]
         try:
@@ -157,12 +184,23 @@ order by o.fechapedido  desc""")
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getWalletOperacionesCoffe.__name__ }")
             self.disconnect()
     def generarReporteClientCoffe(self,sede:str,idCliente:int):
-        datos= ClientReportEntity(ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
+        datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
+                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
                                   ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente)["response"],
                                   pagos=self.__getPagosCoffe(sede,idCliente)["response"],
                                   pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
                                   walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
-        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",datos)
+        html =self.plantilla.getHtml(sede,datos)
+        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",html)
+    def generarReporteClientCoffeHTML(self, sede: str, idCliente: int):
+        datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
+                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
+                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente)["response"],
+                                  pagos=self.__getPagosCoffe(sede,idCliente)["response"],
+                                  pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
+                                  walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
+        html =self.plantilla.getHtml(sede,datos)
+        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",html)
     def __getOrdenesAbiertasEspacios(self, sede: str, idCliente):
         return super().__getOrdenesAbiertasEspacios(sede, idCliente)
     def __getOrdenesCerradasEspacios(self, sede: str, idCliente):
@@ -173,8 +211,7 @@ order by o.fechapedido  desc""")
         return super().__getPedidosEspacios(sede, idCliente)
     def __getWalletOperacionesEspacios(self, sede: str, idCliente):
         return super().__getWalletOperacionesEspacios(sede, idCliente)
-    def generarReporteClientCoffeHTML(self, sede: str, idCliente: int):
-        return super().generarReporteClientCoffeHTML(sede, idCliente)
+  
     def generarReporteClientEspacioHTML(self, sede: str, idCliente: int):
         return super().generarReporteClientEspacioHTML(sede, idCliente)
     def generarReporteClientEspacioPDF(self, sede: str, idCliente: int):

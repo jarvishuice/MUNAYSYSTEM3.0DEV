@@ -119,7 +119,7 @@ export function SideBar(props: any): any {
                 <ListItemButton 
                 className="itemsLista"
                   selected={index === 1}
-                  color={index === 1 ? 'primary' : undefined}
+                  color={index === 1 ? 'success' : undefined}
                   onClick={() => {setIndex(1),setOpen(false)}}
                 >
                   <ListItemDecorator>
@@ -137,7 +137,7 @@ export function SideBar(props: any): any {
                 
                 <ListItemButton className="itemsLista"
                   selected={index === 2}
-                  color={index === 2 ? 'primary' : undefined}
+                  color={index === 2 ? 'success' : undefined}
                   onClick={() => setIndex(2)}
                 >
                   <ItemsCoffeshop></ItemsCoffeshop>
@@ -148,7 +148,7 @@ export function SideBar(props: any): any {
                 
                 <ListItemButton className="itemsLista"
                   selected={index === 3}
-                  color={index === 3 ? 'primary' : undefined}
+                  color={index === 3 ? 'warning' : undefined}
                   onClick={() => setIndex(3)}
                 >
                   <ItemsEspacios></ItemsEspacios>
@@ -161,7 +161,7 @@ export function SideBar(props: any): any {
                 <ListItemButton 
                 className="itemsLista"
                   selected={index === 1}
-                  color={index === 1 ? 'primary' : undefined}
+                  color={index === 1 ? 'success' : undefined}
                   onClick={() => {setIndex(1),setOpen(false)}}
                 >
                   <ListItemDecorator>

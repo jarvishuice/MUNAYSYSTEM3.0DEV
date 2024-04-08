@@ -28,9 +28,17 @@ class Pedidos(BaseModel):
     cantidad:float
     total:float
     status:str
+class Cliente(BaseModel):
+    id:int
+    nombre:str
+    ci:Optional[str]
+    tlf:Optional[str]
+    correo:Optional[str]
     
         
 class ClientReportEntity(BaseModel):
+   
+    cliente:Cliente
     ordenesAbiertas:Optional[list[Ordenes]]
     ordenesCerradas:Optional[list[Ordenes]]
     pagos:Optional[list[Pagos]]
