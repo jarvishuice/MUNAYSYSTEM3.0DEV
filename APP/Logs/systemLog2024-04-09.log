@@ -3299,3 +3299,39 @@
  [35m[2024-04-09 14:33:14.644330]:[32mDesconexión exitosa de la base de datos
  [35m[2024-04-09 14:33:14.644869]:[32mRecarga de (10.0 $) al  wallet  del cliente 7 realizada de manera satisfactoria
  [35m[2024-04-09 14:33:14.645217]:[32mfinalizada  la recarga de wallet !!!
+ [35m[2024-04-09 14:34:34.126727]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.126924]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.127019]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.131178]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.158059]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.231598]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.233946]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.252148]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.269504]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.269655]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.293432]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.382764]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-09 14:34:34.390203]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.398465]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.414962]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.418918]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.455026]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.463764]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-09 14:34:34.463891]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-09 14:34:34.470471]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.484810]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.498849]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.498958]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.510739]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.528837]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.528991]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.529884]:[32mnew implement IPagos
+ [35m[2024-04-09 14:34:34.541534]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.545588]:[32mnew implement IOrdenes
+ [35m[2024-04-09 14:34:34.583358]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.583455]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.636010]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.641250]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.641625]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.645443]:[32mnew implement IClientes
+ [35m[2024-04-09 14:34:34.645659]:[32mnew implement IClientes
