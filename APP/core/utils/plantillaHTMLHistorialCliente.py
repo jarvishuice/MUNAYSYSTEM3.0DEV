@@ -27,6 +27,14 @@ class PlantillaHTMLHistorialCliente():
             for i in datos.pagos:
                 bolos = round((float(i.monto) * float(i.tasa)),2)
                 self.Pagos+=f"""<tr><td >{i.id}</td><td>{i.monto}$</td><td>{bolos}Bs</td><td>{i.fecha}</td><td>{i.hora}</td><td>{i.metodo.upper()}</td><td>{i.referencia}</td><td>{i.motivo}</td><td>{i.tasa}</td></tr>"""
+    def __procesarPedidos(self,datos:ClientReportEntity):
+        self.PedidosAbiertos=""
+        self.pedidos = ""
+        if datos.pedidos is not None:
+            for i in datos.pedidos:
+                if i.status == "por pagar":
+                    self.PedidosAbiertos+=f"""<tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td></tr>"""
+                self.pedidos+=f""" <tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td><td>{i.status}</td></tr>"""
     def getHtml(self,sede,datos:ClientReportEntity):
         self.style = """<style>
         body {
@@ -69,14 +77,17 @@ class PlantillaHTMLHistorialCliente():
         hOrdenesAbiertas= threading.Thread(target=self.__procesarOrdenesAbiertas,args=(datos,))
         hOrdenesCerradas= threading.Thread(target=self.__procesarOrdenesCerradas,args=(datos,))
         hPagos= threading.Thread(target=self.__procesarPagos,args=(datos,))
+        hPedidos = threading.Thread(target=self.__procesarPedidos,args=(datos,))
         #puesta en marcha de los hilos 
         hOrdenesAbiertas.start()
         hOrdenesCerradas.start()
         hPagos.start()
+        hPedidos.start()
         #cierre de los hilos 
         hOrdenesAbiertas.join()
         hOrdenesCerradas.join()
         hPagos.join()
+        hPedidos.join()
         html= f"""<!DOCTYPE html>
         <html>
         <head>
@@ -105,17 +116,27 @@ class PlantillaHTMLHistorialCliente():
           <tr><th>id</th><th>monto</th><th>fecha apertura</th></tr>
           {self.OrdenesAbiertas}
           </table>
+          <center><h2>DETALLES DE ORDENES POR PAGAR</h2></center>
+          <table>
+          <tr><th>Id Orden</th><th>Fecha</th><th>Producto</th><th>Cantidad</th><th>Total$</th></tr>
+          {self.PedidosAbiertos}
+          </table>
           <center> <h2> ORDENES CERRADAS</h2> </center>
           <table>
           <tr><th>id</th><th>Monto</th><th>Fecha apertura</th><th>Fecha de cierre</th></tr>
           {self.OrdenesCerradas}
           </table>
-          
+          <center><h2>DETALLES DE ORDENES </h2></center>
+          <table>
+          <tr><th>Id Orden</th><th>Fecha</th><th>Producto</th><th>Cantidad</th><th>Total$</th><th>Status</th></tr>
+          {self.pedidos}
+          </table>
           <center><h2>PAGOS</h2></center>
           <table>
           <tr><th>Id</th><th>Monto $</th><th>Monto Bs</th><th>Fecha</th><th>Hora</th><th>Metodo</th><th> Referencia</th><th>Motivo</th><th>Tasa</th></tr>
           {self.Pagos}
           </table>
+          
           </body>
         </html>"""
         return html     
