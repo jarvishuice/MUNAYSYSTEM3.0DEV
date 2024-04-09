@@ -21,6 +21,7 @@ import { EspaciosPOSScreen } from './screens/EspaciosPOSScreen.tsx';
 import { DeudasEspaciosScreen } from './screens/deudasEspaciosScreen.tsx';
 import { ReportesEspaciosScreen } from './screens/reportesEspaciosScreen.tsx';
 import { ReportesGerenciaScreen } from './screens/ReportesGerenciaScreen.tsx';
+import { RecargaWalletCoffeScreen } from './screens/recargaWalletCoffeScreen.tsx';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -63,7 +64,10 @@ const router = createBrowserRouter([
       element:<ReportesEspaciosScreen/>
       },
       {path:"gerencia/reportes",
-    element:<ReportesGerenciaScreen/>}
+    element:<ReportesGerenciaScreen/>},
+    {path:"wallet/coffe",
+    element:<RecargaWalletCoffeScreen/>}
+
 
     ]
   },
