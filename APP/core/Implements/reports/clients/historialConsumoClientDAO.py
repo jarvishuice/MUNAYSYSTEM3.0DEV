@@ -191,7 +191,9 @@ order by o.fechapedido  desc""")
                                   pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
                                   walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
         html =self.plantilla.getHtml(sede,datos)
-        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",html)
+        output_path =f"assets/reports/coffeshop/cierre/HistoricoCliente{idCliente}{sede}{datetime.datetime.today()}.pdf"
+        pdf=pdfkit.from_string(html,output_path,options=self.OPTIONS)
+        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",output_path)
     def generarReporteClientCoffeHTML(self, sede: str, idCliente: int):
         datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
                                   ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],

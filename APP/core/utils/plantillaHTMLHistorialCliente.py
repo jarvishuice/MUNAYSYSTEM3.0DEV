@@ -35,6 +35,14 @@ class PlantillaHTMLHistorialCliente():
                 if i.status == "por pagar":
                     self.PedidosAbiertos+=f"""<tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td></tr>"""
                 self.pedidos+=f""" <tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td><td>{i.status}</td></tr>"""
+    def __procesarWallet(self,datos:ClientReportEntity):
+       self.wallet = ""
+       self.totalWallet = 0
+       if datos.walletOperaciones is not None:
+           for i in datos.walletOperaciones:
+               self.wallet+=f"""<tr><td>{i.id}</td><td>{i.monto}$</td></tr>"""
+               self.totalWallet +=round(float(i.monto),2)
+               
     def getHtml(self,sede,datos:ClientReportEntity):
         self.style = """<style>
         body {
@@ -60,34 +68,36 @@ class PlantillaHTMLHistorialCliente():
         .total {
           font-weight: bold;
         }
-         img{
-          max-width:150px;
-        }
+         img {
+    display: flex;
+    max-width: 100%;
+    height: auto;
+}
         .parrafo{
         display: flex;
         justify-content: flex-end;
         margin-top:0px;
         }
-        .imagen{
-            max-width:150px;
-            display: inline;
-        }
+       
         </style>"""
         #definicion de hilos  de ejecucion para vaciado de data 
         hOrdenesAbiertas= threading.Thread(target=self.__procesarOrdenesAbiertas,args=(datos,))
         hOrdenesCerradas= threading.Thread(target=self.__procesarOrdenesCerradas,args=(datos,))
         hPagos= threading.Thread(target=self.__procesarPagos,args=(datos,))
         hPedidos = threading.Thread(target=self.__procesarPedidos,args=(datos,))
+        hWallet = threading.Thread(target=self.__procesarWallet,args=(datos,))
         #puesta en marcha de los hilos 
         hOrdenesAbiertas.start()
         hOrdenesCerradas.start()
         hPagos.start()
         hPedidos.start()
+        hWallet.start()
         #cierre de los hilos 
         hOrdenesAbiertas.join()
         hOrdenesCerradas.join()
         hPagos.join()
         hPedidos.join()
+        hWallet.join()
         html= f"""<!DOCTYPE html>
         <html>
         <head>
@@ -96,7 +106,7 @@ class PlantillaHTMLHistorialCliente():
         {self.style}
         <body>
         <div>
-        <div class="imgen"><img src="https://www.nestvzla.com/page/Home_files/i.png"/></div>
+        <div class="imagen"></div>
        <div class="parrafo"> <p >cliente:{datos.cliente.nombre}</br>
              ci/rif:{datos.cliente.ci}</br>
              correo:{datos.cliente.correo}</br>
@@ -110,6 +120,7 @@ class PlantillaHTMLHistorialCliente():
           <center><h2> RESUMEN DE OPERACIONES</h2></center> 
           <table>
           <tr><th>TOTAL ORDENES CERRADAS $</th><th>{self.totalCerrado}$</tr>
+          <tr><th>SALDO WALLET</th><th>{self.totalWallet}$</th><tr>
           </table>
           <center> <h2> ORDENES ABIERTAS</h2> </center>
           <table>
@@ -136,7 +147,11 @@ class PlantillaHTMLHistorialCliente():
           <tr><th>Id</th><th>Monto $</th><th>Monto Bs</th><th>Fecha</th><th>Hora</th><th>Metodo</th><th> Referencia</th><th>Motivo</th><th>Tasa</th></tr>
           {self.Pagos}
           </table>
-          
+          <center><h2> OPERACION </h2></center>
+          <table>
+          <tr><th>Id</th><th>Monto $</th></tr>
+          {self.wallet}
+          </table>
           </body>
         </html>"""
         return html     

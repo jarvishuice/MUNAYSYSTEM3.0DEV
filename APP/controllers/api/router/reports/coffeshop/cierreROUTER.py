@@ -18,3 +18,6 @@ async def reporteInventario(sede):
         return FileResponse(path=archivo,media_type='application/pdf', filename=f'CierreDeJornada{sede}.pdf')
      else:
          raise HTTPException(400,f"{trigger['mesagge']}")
+      
+      
+      
