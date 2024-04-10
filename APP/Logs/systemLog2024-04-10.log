@@ -1,0 +1,1742 @@
+ [35m[2024-04-10 16:56:32.195830]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:32.196461]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:32.196844]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:32.259049]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:32.568382]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:33.312527]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:33.378141]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:33.415361]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:33.437989]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:33.438117]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:33.479170]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:33.923162]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 16:56:33.943231]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.021951]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.093567]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.115707]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.180892]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.208153]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 16:56:34.208279]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 16:56:34.227997]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.302765]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.418479]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.418615]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.468893]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.569290]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:34.569420]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.571161]:[32mnew implement IPagos
+ [35m[2024-04-10 16:56:34.592948]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:34.611043]:[32mnew implement IOrdenes
+ [35m[2024-04-10 16:56:34.727926]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.728103]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.890420]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.906894]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.907004]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.913481]:[32mnew implement IClientes
+ [35m[2024-04-10 16:56:34.913595]:[32mnew implement IClientes
+ [35m[2024-04-10 16:57:02.951973]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:03.123558]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 16:57:03.123872]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:03.713923]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:03.963397]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 16:57:03.963986]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:03.964287]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:04.611468]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:04.789999]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 16:57:04.790262]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:05.385814]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:05.632989]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 16:57:05.633294]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:05.633386]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:16.252917]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:16.423042]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 16:57:16.423369]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:17.055303]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:17.333350]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 16:57:17.333724]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:17.333832]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:18.519500]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:18.692155]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 16:57:18.692475]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:19.287816]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:19.544490]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 16:57:19.544855]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:19.544951]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:20.192542]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:20.782779]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 16:57:20.783156]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:21.908461]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:22.517939]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 16:57:22.518534]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:28.297041]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:28.549975]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 16:57:28.550283]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:28.550932]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:29.177874]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:29.733634]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 16:57:29.733809]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:29.734209]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:30.614013]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:30.879309]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 16:57:30.879456]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:30.879709]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:32.091495]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:32.277354]:[32mse ecncontraron (39) deudas  en la sede jalisco .....!
+ [35m[2024-04-10 16:57:32.278232]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:32.279698]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-10 16:57:32.887638]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:33.251703]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-10 16:57:33.251817]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:33.252089]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:33.866084]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:34.126640]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-10 16:57:34.126889]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:34.127662]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:34.723766]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:34.999001]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-10 16:57:34.999153]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:34.999412]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:35.610940]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:35.867552]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 16:57:35.867711]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:35.868305]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:36.460652]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:36.719597]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 16:57:36.719924]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:36.720880]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:38.634866]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:39.664627]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-10 16:57:39.664861]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:39.667696]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-10 16:57:40.276218]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:40.523132]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 16:57:40.523286]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:40.523834]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:41.128251]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:41.374050]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 16:57:41.374163]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:41.374446]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:41.990966]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:42.236789]:[32mventas por p´roducvtos VAlidacion (1, Decimal('25.0'), 'DAY_PASS 12 HORAS +VISITAS')
+ [35m[2024-04-10 16:57:42.236934]:[32mventas por p´roducvtos VAlidacion (1, Decimal('15.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-10 16:57:42.237028]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 16:57:42.237106]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:42.237345]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:42.818845]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:42.987642]:[32mse ecncontraron (17) deudas  en la sede jalisco .....!
+ [35m[2024-04-10 16:57:42.988905]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:42.990952]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-10 16:57:43.582021]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:43.828229]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-10 16:57:43.828344]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:43.954256]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:44.541518]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:44.790769]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-10 16:57:44.790868]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:44.791102]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:45.391971]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:45.638006]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-10 16:57:45.638110]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:45.638367]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:46.246662]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:46.492069]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-10 16:57:46.492206]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-10 16:57:46.492290]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:46.492549]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:47.083944]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:47.323967]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 16:57:47.324176]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 16:57:47.324665]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:47.325001]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:47.325475]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-10 16:57:47.325636]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:47.326278]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-10 16:57:47.329040]:[32mreporte unificado generado con exito
+ [35m[2024-04-10 16:57:47.947844]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:48.610830]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 16:57:48.611216]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:57:49.440483]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:57:50.107943]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 16:57:50.108569]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:37.491444]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:37.658519]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 16:58:37.658715]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 16:58:37.659132]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:38.439678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:38.613932]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 16:58:38.614143]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 16:58:38.614622]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:39.231620]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:39.525151]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 16:58:39.525252]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 16:58:39.525502]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:40.271518]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:40.454576]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 16:58:40.455100]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 16:58:40.456063]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:41.082207]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:41.820546]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 16:58:41.820666]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 16:58:41.821021]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:42.859482]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:58:43.048173]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 16:58:43.048290]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 16:58:43.048606]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:58:43.883736]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 16:59:35.886779]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:36.047271]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 16:59:36.047392]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 16:59:36.047642]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:36.624126]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:36.787348]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 16:59:36.787767]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 16:59:36.788634]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:37.362605]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:37.609074]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 16:59:37.609195]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 16:59:37.609473]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:38.194294]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:38.363206]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 16:59:38.363313]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 16:59:38.363564]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:38.943029]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:39.204682]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 16:59:39.204929]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 16:59:39.205347]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:39.773472]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:39.934406]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 16:59:39.934514]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 16:59:39.934769]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:39.937340]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 16:59:55.546928]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:55.720960]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 16:59:55.721103]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 16:59:55.721396]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:56.310048]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:56.474720]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 16:59:56.474822]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 16:59:56.475059]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:57.083328]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:57.334801]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 16:59:57.334959]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 16:59:57.335354]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:57.931489]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:58.164645]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 16:59:58.164757]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 16:59:58.165025]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 16:59:58.901056]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 16:59:59.336860]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 16:59:59.336962]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 16:59:59.337194]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:00:00.019288]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:00:00.246941]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:00:00.247043]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:00:00.247275]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:00:00.250729]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:07:03.758444]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.758629]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:03.758729]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.766590]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:03.795013]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:03.869978]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:03.872940]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.891528]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.902748]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.902999]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:03.914822]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.165817]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:07:04.195573]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.273195]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.354762]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.359714]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.424062]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.456957]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:04.457320]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:04.468791]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.488834]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.527488]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.527807]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.549078]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.575249]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:04.575720]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.581679]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:04.606786]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:04.612115]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:04.674868]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.675213]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.756189]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.766576]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.766780]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.771455]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:04.771574]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:08.773420]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.773624]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:08.773711]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.779865]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:08.808157]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:08.877296]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:08.881247]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.901988]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.911651]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.911757]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:08.925452]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.002546]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:07:09.009168]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.018867]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.034903]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.037159]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.062363]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.069108]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:09.069241]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:09.074169]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.088558]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.104522]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.104667]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.115377]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.136824]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:09.136977]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.137894]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:09.153363]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:09.156481]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:09.174307]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.174391]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.208964]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.212828]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.212942]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.214168]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:09.214258]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.360614]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.360810]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.360944]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.366857]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.385344]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.427830]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.429114]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.439527]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.445121]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.445214]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.452951]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.498044]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:07:29.502338]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.508557]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.518488]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.520076]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.538188]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.542498]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:29.542595]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:07:29.545627]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.554205]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.562674]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.562795]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.568380]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.578471]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.578566]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.579126]:[32mnew implement IPagos
+ [35m[2024-04-10 17:07:29.587022]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.589361]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:07:29.606906]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.607002]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.640271]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.643370]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.643494]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.644814]:[32mnew implement IClientes
+ [35m[2024-04-10 17:07:29.644911]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.245146]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.245354]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.245450]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.249372]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.265607]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.311747]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.313097]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.323263]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.329022]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.329098]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.336869]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.383773]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:08:00.388101]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.394330]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.404413]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.406004]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.424313]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.428596]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:08:00.428675]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:08:00.431600]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.439821]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.448078]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.448159]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.453818]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.463865]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.463943]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.464566]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:00.471724]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.473904]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:00.489871]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.489964]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.523922]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.527054]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.527157]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.528501]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:00.528584]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.574272]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.574455]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.574548]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.579127]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.603735]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.667655]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.669491]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.685692]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.691382]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.691479]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.699579]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.746284]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:08:45.750615]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.756734]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.766604]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.768265]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.787039]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.791969]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:08:45.792084]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:08:45.795080]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.803402]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.811932]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.812042]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.818889]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.829439]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.829532]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.830073]:[32mnew implement IPagos
+ [35m[2024-04-10 17:08:45.837420]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.839619]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:08:45.855731]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.855873]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.894442]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.897696]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.897793]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.898988]:[32mnew implement IClientes
+ [35m[2024-04-10 17:08:45.899070]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.161505]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.161691]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.161784]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.165851]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.182081]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.224911]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.226255]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.235890]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.242162]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.242256]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.250007]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.295133]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:09:04.299422]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.305494]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.315394]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.317025]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.335324]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.339401]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:04.339502]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:04.342617]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.350987]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.359166]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.359272]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.368652]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.381076]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.381175]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.381750]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:04.389299]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.391766]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:04.407980]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.408111]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.441286]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.444372]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.444509]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.445877]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:04.445993]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:14.985005]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:14.985218]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:14.985357]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:14.989414]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.007170]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.055205]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.056696]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.069106]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.079106]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.079482]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.092192]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.148629]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:09:15.153066]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.159347]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.169707]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.171326]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.189726]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.194133]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:15.194230]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:15.197236]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.205422]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.213915]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.214009]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.220706]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.232746]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.232843]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.233402]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:15.240795]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.243065]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:15.260748]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.260869]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.303717]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.306966]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.307048]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.308309]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:15.308378]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.589362]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.589611]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.589730]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.594632]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.611027]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.651717]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.653072]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.662501]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.669292]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.669418]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.677196]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.722396]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:09:17.726817]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.732828]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.742823]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.744453]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.762669]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.766828]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:17.766923]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:17.770072]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.778403]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.786687]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.786789]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.794225]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.805196]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.805298]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.805820]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:17.812935]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.815091]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:17.832988]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.833089]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.876442]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.879469]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.879547]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.880784]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:17.880854]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:23.505034]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:23.665223]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 17:09:23.665327]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:09:23.665546]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:24.235253]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:24.412368]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 17:09:24.412469]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:09:24.412688]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:24.991148]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:25.246548]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 17:09:25.246866]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:09:25.247363]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:25.836365]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:26.005409]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 17:09:26.005539]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:09:26.005807]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:26.899818]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:27.151335]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 17:09:27.151474]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:09:27.151747]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:27.721707]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:09:27.886325]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:09:27.886671]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:09:27.887487]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:09:27.902230]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:09:43.438434]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.438830]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.439090]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.443962]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.470398]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.519423]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.520791]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.530185]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.536127]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.536220]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.543868]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.602067]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:09:43.606584]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.613811]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.625791]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.628889]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.649244]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.655025]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:43.655172]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:09:43.661433]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.675308]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.685093]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.685188]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.691004]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.702147]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.702243]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.702826]:[32mnew implement IPagos
+ [35m[2024-04-10 17:09:43.710383]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.712638]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:09:43.731278]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.731369]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.764417]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.768252]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.768363]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.770322]:[32mnew implement IClientes
+ [35m[2024-04-10 17:09:43.770439]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:18.800941]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.801191]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:18.801341]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.807128]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:18.837918]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:18.924454]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:18.926688]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.945876]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.956426]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.956739]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:18.972241]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.067079]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:10:19.076791]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.088547]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.100580]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.103206]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.132340]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.140731]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:19.140867]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:19.146069]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.161581]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.176952]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.177257]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.187597]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.209321]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:19.209439]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.210132]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:19.219882]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:19.222715]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:19.254401]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.254563]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.314732]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.318305]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.318404]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.320211]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:19.320345]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.225747]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.225948]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.226037]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.232081]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.260607]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.328506]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.330533]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.352870]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.362975]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.363085]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.377540]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.452269]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:10:22.456749]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.463228]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.480364]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.482091]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.504403]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.512631]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:22.512821]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:22.518201]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.534031]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.545578]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.545695]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.554476]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.565533]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.565613]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.566155]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:22.575865]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.578102]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:22.594485]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.594564]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.627598]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.630583]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.630677]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.631880]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:22.631968]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:44.841258]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:44.850909]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:44.851201]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:44.860211]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:44.922827]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:45.018281]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:45.021040]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.039027]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.051868]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.052163]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.068908]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.160628]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:10:45.170907]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.186686]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.211258]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.215062]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.261938]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.270929]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:45.271304]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:10:45.277458]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.293373]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.309226]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.309645]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.320631]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.340495]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:45.341067]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.342265]:[32mnew implement IPagos
+ [35m[2024-04-10 17:10:45.350644]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:45.352978]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:10:45.368840]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.368939]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.414765]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.417994]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.418103]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.419582]:[32mnew implement IClientes
+ [35m[2024-04-10 17:10:45.419679]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.386868]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.387063]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.387275]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.391735]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.408362]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.460627]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.462400]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.473812]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.479411]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.479514]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.487573]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.532545]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:11:06.536827]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.543854]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.553796]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.555423]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.573643]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.577750]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:06.577849]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:06.580842]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.589082]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.597208]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.597305]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.602918]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.612770]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.612895]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.613473]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:06.620476]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.622577]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:06.637790]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.637936]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.685063]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.690001]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.690084]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.691358]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:06.691425]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.733726]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.733865]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.733919]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.737922]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.753802]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.796531]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.798601]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.808351]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.814682]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.814781]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.822518]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.878392]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:11:07.882660]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.888804]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.898595]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.900260]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.918750]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.922852]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:07.922952]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:07.925990]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.934144]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.942664]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.942782]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.950124]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.960116]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.960223]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.960780]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:07.968116]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.970355]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:07.986210]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:07.986317]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:08.040397]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:08.044436]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:08.044519]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:08.045929]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:08.046003]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.597499]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.597761]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.597896]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.605141]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.622835]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.664045]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.665348]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.674672]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.680894]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.680992]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.688720]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.739085]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:11:57.743906]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.750512]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.761630]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.763362]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.781985]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.788102]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:57.788218]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:11:57.792965]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.806340]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.814519]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.814615]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.824391]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.838454]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.838551]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.839118]:[32mnew implement IPagos
+ [35m[2024-04-10 17:11:57.846510]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.848698]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:11:57.864970]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.865061]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.898779]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.902340]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.902472]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.903626]:[32mnew implement IClientes
+ [35m[2024-04-10 17:11:57.903737]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:05.747277]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.747483]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:05.747591]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.753757]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:05.782133]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:05.849633]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:05.851369]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.867873]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.876506]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.876612]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.889362]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.965188]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:12:05.973389]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:05.986778]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.007627]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.011638]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.039901]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.046790]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:06.047152]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:06.052386]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.067688]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.082661]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:06.082999]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:06.093349]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:06.112667]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:06.112972]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:06.113921]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:06.128273]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:06.132542]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:06.155371]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.155575]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.193463]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.198347]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.198464]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.199997]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:06.200126]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.572743]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.572962]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.573047]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.578916]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.606345]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.672709]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.674445]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.690923]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.699267]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.699400]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.712134]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.792283]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:12:12.800260]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.812375]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.831897]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.834236]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.859591]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.865853]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:12.865961]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:12.870473]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.884641]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.898965]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.899094]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.908362]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.923833]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.923938]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.924461]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:12.931972]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.934086]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:12.949852]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.949942]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.989537]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.993279]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.993387]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.994625]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:12.994714]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.619574]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.619728]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.619787]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.624419]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.645134]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.686519]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.687776]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.697904]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.703289]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.703369]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.711033]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.755736]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:12:19.760088]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.766124]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.775954]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.777614]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.795722]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.799783]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:19.799885]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:19.802901]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.811037]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.819154]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.819253]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.825071]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.835415]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.835515]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.836106]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:19.843449]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.845601]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:19.861038]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.861163]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.893819]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.896846]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.896965]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.898142]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:19.898258]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.553965]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.554144]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.554233]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.558271]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.574488]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.616182]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.617507]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.628484]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.633896]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.633993]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.641771]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.687006]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:12:29.691318]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.697665]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.707623]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.709805]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.733607]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.741002]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:29.741311]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:29.746118]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.759998]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.773614]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.773722]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.782919]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.800343]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.800457]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.801182]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:29.813917]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.817310]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:29.845287]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.845404]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.906704]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.910366]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.910493]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.911898]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:29.912003]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:34.698431]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:34.858803]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 17:12:34.858961]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:12:34.859211]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:35.429926]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:35.602042]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 17:12:35.602442]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:12:35.603505]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:36.200410]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:36.444096]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 17:12:36.444209]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:12:36.444460]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:37.019660]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:37.189189]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 17:12:37.189621]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:12:37.190555]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:37.783791]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:38.033989]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 17:12:38.034100]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:12:38.034321]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:38.615255]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:38.776823]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:12:38.777166]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:12:38.778081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:38.793482]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:12:48.748588]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.748800]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:48.748908]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.755629]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:48.784639]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:48.841914]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:48.844387]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.865423]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.875561]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.876117]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.891002]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.954965]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:12:48.964720]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:48.971851]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:48.982994]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:48.984858]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.007676]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.013286]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:49.013390]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:12:49.018351]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.031813]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.041024]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:49.041141]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:49.047220]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:49.057533]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:49.057628]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:49.058220]:[32mnew implement IPagos
+ [35m[2024-04-10 17:12:49.066248]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:49.068443]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:12:49.085205]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.085311]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.119521]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.124126]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.124271]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.125443]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:49.125562]:[32mnew implement IClientes
+ [35m[2024-04-10 17:12:52.406801]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:52.567517]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 17:12:52.567628]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:12:52.567844]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:53.137827]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:53.605453]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 17:12:53.605615]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:12:53.605856]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:54.177185]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:54.428438]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 17:12:54.428781]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:12:54.429715]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:55.017428]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:55.183900]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 17:12:55.184113]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:12:55.184371]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:55.759336]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:56.015143]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 17:12:56.015455]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:12:56.016159]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:56.582005]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:12:56.857287]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:12:56.857433]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:12:56.857710]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:12:56.862797]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:13:13.662582]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:13.825683]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 17:13:13.825800]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:13:13.826048]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:14.393950]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:14.557284]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 17:13:14.557599]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:13:14.558281]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:15.143135]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:15.384120]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 17:13:15.384234]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:13:15.384504]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:15.974660]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:16.139474]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 17:13:16.139579]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:13:16.139793]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:16.707384]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:16.966772]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 17:13:16.967840]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:13:16.969118]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:17.537791]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:17.700005]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:13:17.700369]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:13:17.701015]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:17.716419]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:13:54.323951]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:54.485167]:[32mse ecncontro  ningun cliente con el id:1017
+ [35m[2024-04-10 17:13:54.485541]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:13:54.486353]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:55.066025]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:55.229520]:[32mse ecncontraron (8) en la sede jalisco
+ [35m[2024-04-10 17:13:55.229653]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:13:55.229922]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:55.811276]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:56.055415]:[32mse ecncontraron (132) en la sede jalisco
+ [35m[2024-04-10 17:13:56.055555]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:13:56.055815]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:56.624898]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:56.792620]:[32mse ecncontraron (41) pagos  en la sede jalisco
+ [35m[2024-04-10 17:13:56.793848]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:13:56.794835]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:57.361556]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:57.609113]:[32mse ecncontraron (199) pedidos en la sede jalisco
+ [35m[2024-04-10 17:13:57.609564]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:13:57.609820]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:58.196999]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:13:58.358153]:[32mse ecncontraron (9) operaciones de wallet  de cliente # 1017
+ [35m[2024-04-10 17:13:58.358307]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:13:58.358570]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:13:58.980246]:[32mse genero el reporte de cliente 1017
+ [35m[2024-04-10 17:17:16.167291]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:16.328322]:[32mse ecncontro  ningun cliente con el id:1007
+ [35m[2024-04-10 17:17:16.328488]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:17:16.328817]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:17.191037]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:17.354471]:[32mse ecncontraron (1) en la sede jalisco
+ [35m[2024-04-10 17:17:17.354773]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:17:17.355410]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:17.938367]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:18.112025]:[32mse ecncontraron (113) en la sede jalisco
+ [35m[2024-04-10 17:17:18.112173]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:17:18.112894]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:18.705137]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:18.875368]:[32mse ecncontraron (71) pagos  en la sede jalisco
+ [35m[2024-04-10 17:17:18.875844]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:17:18.876898]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:19.441452]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:19.695693]:[32mse ecncontraron (153) pedidos en la sede jalisco
+ [35m[2024-04-10 17:17:19.695874]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:17:19.696691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:20.281681]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:17:20.441970]:[32mse ecncontraron (8) operaciones de wallet  de cliente # 1007
+ [35m[2024-04-10 17:17:20.442077]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:17:20.442358]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:17:21.050759]:[32mse genero el reporte de cliente 1007
+ [35m[2024-04-10 17:19:41.813074]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:42.366754]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:42.367239]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:42.368283]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:42.973855]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:43.240276]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 17:19:43.240569]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:43.240998]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:43.838791]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:44.109780]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:19:44.110227]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:44.111103]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:44.774270]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:44.938005]:[32mse ecncontraron (38) deudas  en la sede jalisco .....!
+ [35m[2024-04-10 17:19:44.938257]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:44.938649]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-10 17:19:45.594215]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:45.869696]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-10 17:19:45.869831]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:45.870061]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:47.525447]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:48.595496]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-10 17:19:48.595607]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:48.595840]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:49.323276]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:49.704070]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-10 17:19:49.704184]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:49.711938]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:50.300773]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:50.570419]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:50.570876]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:50.571730]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:51.191833]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:51.446312]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 17:19:51.446416]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:51.446786]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:51.447708]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:51.448367]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-10 17:19:51.448530]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:51.449605]:[32mHilos creados ....
+ [35m[2024-04-10 17:19:51.451112]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:19:51.452478]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.453279]:[32mYa arrancaron los hilos
+ [35m[2024-04-10 17:19:51.453412]:[32meste es 6.0
+ [35m[2024-04-10 17:19:51.453501]:[32mPAGO MOVILesete
+ [35m[2024-04-10 17:19:51.453598]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.453685]:[32meste es 4.5
+ [35m[2024-04-10 17:19:51.453760]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.453842]:[32meste es 5.5
+ [35m[2024-04-10 17:19:51.453912]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.453994]:[32meste es 13.5
+ [35m[2024-04-10 17:19:51.454064]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.454142]:[32meste es 5.0
+ [35m[2024-04-10 17:19:51.454219]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.454301]:[32meste es 4.5
+ [35m[2024-04-10 17:19:51.454370]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:19:51.454448]:[32meste es 6.0
+ [35m[2024-04-10 17:19:51.454518]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:19:51.454695]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-10 17:19:51.454873]:[32mreporte de inventario generado con exito
+ [35m[2024-04-10 17:19:51.454953]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-10 17:19:53.089005]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:53.424197]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:53.424630]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:53.425576]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:54.637722]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:55.369035]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 17:19:55.369138]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:55.369397]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:56.701033]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:57.091105]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:57.091269]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:57.091724]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:58.038391]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:58.349320]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:58.349992]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:58.351169]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:19:59.084122]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:19:59.469446]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:19:59.469974]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:19:59.471124]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:00.800079]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:01.414598]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 17:20:01.414706]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:01.414948]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:03.347436]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:03.609986]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:03.610092]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:03.610334]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:03.610660]:[32mHilos creados ....
+ [35m[2024-04-10 17:20:03.611446]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:20:03.611491]:[32mYa arrancaron los hilos
+ [35m[2024-04-10 17:20:03.611641]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.611723]:[32meste es 6.0
+ [35m[2024-04-10 17:20:03.611798]:[32mPAGO MOVILesete
+ [35m[2024-04-10 17:20:03.611871]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.611945]:[32meste es 4.5
+ [35m[2024-04-10 17:20:03.612016]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.612106]:[32meste es 5.5
+ [35m[2024-04-10 17:20:03.612179]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.612252]:[32meste es 13.5
+ [35m[2024-04-10 17:20:03.612321]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.612391]:[32meste es 5.0
+ [35m[2024-04-10 17:20:03.612464]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.612538]:[32meste es 4.5
+ [35m[2024-04-10 17:20:03.612607]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:03.612678]:[32meste es 6.0
+ [35m[2024-04-10 17:20:03.612747]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:20:03.612969]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-10 17:20:04.044386]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-10 17:20:35.350695]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.351022]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.351420]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.362022]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.402432]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.480283]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.481872]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.494531]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.502943]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.503074]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.514643]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.608354]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:20:35.615165]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.623681]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.657800]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.664567]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.700359]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.725255]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:20:35.725817]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:20:35.738989]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.778897]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.802297]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.802616]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.814550]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.826433]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.826515]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.827224]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:35.836644]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.839008]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:35.858008]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.858102]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.894866]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.901864]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.901964]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.904812]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:35.904907]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:38.554161]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:38.801624]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:38.801930]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:38.802567]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:39.713730]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:40.201918]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 17:20:40.202056]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:40.202339]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:40.792572]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:41.054851]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:41.055345]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:41.056547]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:41.668786]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:41.931348]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:41.931459]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:41.931699]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:42.541753]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:42.812608]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:42.813013]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:42.813830]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:43.459420]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:43.711896]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 17:20:43.712903]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:43.713827]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:44.330523]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:20:44.587622]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:20:44.587740]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:20:44.587987]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:20:44.588282]:[32mHilos creados ....
+ [35m[2024-04-10 17:20:44.589109]:[32mYa arrancaron los hilos
+ [35m[2024-04-10 17:20:44.589165]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:20:44.589260]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.589338]:[32meste es 6.0
+ [35m[2024-04-10 17:20:44.589413]:[32mPAGO MOVILesete
+ [35m[2024-04-10 17:20:44.589486]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.589558]:[32meste es 4.5
+ [35m[2024-04-10 17:20:44.589640]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.589711]:[32meste es 5.5
+ [35m[2024-04-10 17:20:44.589780]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.589853]:[32meste es 13.5
+ [35m[2024-04-10 17:20:44.589922]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.589993]:[32meste es 5.0
+ [35m[2024-04-10 17:20:44.590066]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.590139]:[32meste es 4.5
+ [35m[2024-04-10 17:20:44.590206]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:20:44.590277]:[32meste es 6.0
+ [35m[2024-04-10 17:20:44.590345]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:20:44.590541]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-10 17:20:45.126704]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-10 17:20:59.651799]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.651979]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:59.652117]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.656181]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:59.674248]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:59.719631]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:59.721053]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.735142]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.744981]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.745258]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.769922]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.848981]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-10 17:20:59.855499]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.865198]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.883453]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.885593]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.908433]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.912568]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:20:59.912647]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-10 17:20:59.915625]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.923855]:[32mnew implement IClientes
+ [35m[2024-04-10 17:20:59.932734]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.932847]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.942117]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.961505]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:20:59.961614]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.962526]:[32mnew implement IPagos
+ [35m[2024-04-10 17:20:59.995241]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:21:00.002132]:[32mnew implement IOrdenes
+ [35m[2024-04-10 17:21:00.078211]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.078381]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.180988]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.189911]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.190042]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.192571]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:00.192709]:[32mnew implement IClientes
+ [35m[2024-04-10 17:21:01.674062]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:01.938251]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:21:01.938577]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:01.939300]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:03.158353]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:03.777895]:[32mPagos extraida de manera correcta
+ [35m[2024-04-10 17:21:03.778066]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:03.778445]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:04.475690]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:04.759892]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:21:04.760308]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:04.761131]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:05.410055]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:05.671595]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:21:05.671702]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:05.671940]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:06.275659]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:06.531792]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:21:06.531919]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:06.532191]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:07.195835]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:07.448203]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 17:21:07.449253]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:07.451514]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:08.075980]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:08.354449]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:21:08.354548]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:21:08.354782]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:08.355170]:[32mHilos creados ....
+ [35m[2024-04-10 17:21:08.356520]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:21:08.356572]:[32mYa arrancaron los hilos
+ [35m[2024-04-10 17:21:08.356870]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357099]:[32meste es 6.0
+ [35m[2024-04-10 17:21:08.357174]:[32mPAGO MOVILesete
+ [35m[2024-04-10 17:21:08.357235]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357296]:[32meste es 4.5
+ [35m[2024-04-10 17:21:08.357355]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357412]:[32meste es 5.5
+ [35m[2024-04-10 17:21:08.357469]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357526]:[32meste es 13.5
+ [35m[2024-04-10 17:21:08.357582]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357637]:[32meste es 5.0
+ [35m[2024-04-10 17:21:08.357698]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357757]:[32meste es 4.5
+ [35m[2024-04-10 17:21:08.357811]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-10 17:21:08.357866]:[32meste es 6.0
+ [35m[2024-04-10 17:21:08.357919]:[32mEFECTIVO $esete
+ [35m[2024-04-10 17:21:08.358049]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-10 17:21:08.608882]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-10 17:21:34.643094]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:35.382795]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 17:21:35.383156]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:21:36.395938]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:21:37.014005]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 17:21:37.014515]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:23.776916]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:23.942695]:[32mse ecncontro  ningun cliente con el id:1528
+ [35m[2024-04-10 17:22:23.942907]:[32mFinalizada la ejecucion de __getCliente
+ [35m[2024-04-10 17:22:23.943365]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:24.748447]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:24.914445]:[32mse ecncontraron (4) en la sede jalisco
+ [35m[2024-04-10 17:22:24.914613]:[32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m[2024-04-10 17:22:24.914896]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:25.499152]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:25.685074]:[32mse ecncontraron (43) en la sede jalisco
+ [35m[2024-04-10 17:22:25.685216]:[32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m[2024-04-10 17:22:25.685537]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:26.275045]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:26.445147]:[32mse ecncontraron (26) pagos  en la sede jalisco
+ [35m[2024-04-10 17:22:26.445519]:[32mFinalizada la ejecucion de __getPagosCoffe
+ [35m[2024-04-10 17:22:26.446726]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:27.039582]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:27.219332]:[32mse ecncontraron (64) pedidos en la sede jalisco
+ [35m[2024-04-10 17:22:27.219448]:[32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m[2024-04-10 17:22:27.227965]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:28.313873]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:22:28.481250]:[32mse ecncontraron (26) operaciones de wallet  de cliente # 1528
+ [35m[2024-04-10 17:22:28.481356]:[32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m[2024-04-10 17:22:28.481597]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:22:28.853634]:[32mse genero el reporte de cliente 1528
+ [35m[2024-04-10 17:45:55.258243]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:55.423911]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:45:55.424057]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:55.424351]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:55.995298]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:56.237761]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:45:56.238240]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:56.239431]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:56.880742]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:56.939837]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:57.040085]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 17:45:57.040346]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:57.182434]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:45:57.182774]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:57.183780]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:57.762305]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:57.926407]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:45:57.926631]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:57.927355]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:58.511868]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:58.671804]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:45:58.671944]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:58.672204]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:45:59.247460]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:45:59.488616]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:45:59.489126]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:45:59.490244]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:46:00.089599]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:46:00.135601]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:46:00.250317]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 17:46:00.253424]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:46:00.382335]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:46:00.382769]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:46:00.383438]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:46:01.007619]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:46:01.171968]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:46:01.172115]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:46:01.172391]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:04.946965]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:05.196487]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (30) coincidencias
+ [35m[2024-04-10 17:47:05.197228]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:05.197492]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-10 17:47:05.820175]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:05.983673]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-10 17:47:05.984674]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:06.607163]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:06.857914]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (30) coincidencias
+ [35m[2024-04-10 17:47:06.858731]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:06.859245]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-10 17:47:07.466094]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:07.634077]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-10 17:47:07.634370]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:15.795452]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:15.954784]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 17:47:15.955205]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:16.533678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:16.786356]:[32mBusqueda del cliente [jose] realizada con exito s eencotraron 92 coincidencas
+ [35m[2024-04-10 17:47:16.786629]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:17.957837]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:18.117328]:[32mConsulta de saldo exitosa del cliente (12) su saldo es 0
+ [35m[2024-04-10 17:47:18.117674]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:24.997895]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:25.157378]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 17:47:25.157650]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:25.737902]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:25.899768]:[32mBusqueda del cliente [jose aponte] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-10 17:47:25.900090]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:27.890124]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:28.049886]:[32mConsulta de saldo exitosa del cliente (1364) su saldo es 12.5
+ [35m[2024-04-10 17:47:28.050653]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:31.592132]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:31.757340]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-10 17:47:31.757738]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-10 17:47:31.758640]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:32.345138]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:47:32.507009]:[32mordenes de la sede jalisco extraida con exito 
+ [35m[2024-04-10 17:47:32.507217]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-10 17:47:32.507580]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:47:59.870280]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:00.111924]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (30) coincidencias
+ [35m[2024-04-10 17:48:00.113032]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:00.113474]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-10 17:48:00.721960]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:00.882452]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-10 17:48:00.882733]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:01.469623]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:01.708857]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (30) coincidencias
+ [35m[2024-04-10 17:48:01.709153]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:01.709243]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-10 17:48:02.327685]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:02.488261]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-10 17:48:02.488681]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:12.034477]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:12.196391]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 17:48:12.197349]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:12.792912]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:12.954989]:[32mBusqueda del cliente [jose aponte] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-10 17:48:12.955308]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:21.713732]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:21.874149]:[32mConsulta de saldo exitosa del cliente (1364) su saldo es 12.5
+ [35m[2024-04-10 17:48:21.874454]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:26.275097]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:26.550535]:[32mBusqueda de producto de la categoria  (sala) se encontraron (46) coincidencias
+ [35m[2024-04-10 17:48:26.550859]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:26.550988]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-10 17:48:56.760305]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:56.760452]:[32m[0;33morden cargada como cargo a cuenyta 
+ [35m[2024-04-10 17:48:57.678329]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:58.018482]:[32mPedido creado de manera exitosa :[idOrden=1712785736.182001 idProducto=95 cantidad=2 total=60.0]
+ [35m[2024-04-10 17:48:58.018769]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:58.592867]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:48:58.937275]:[32mPedido creado de manera exitosa :[idOrden=1712785736.182001 idProducto=187 cantidad=1 total=15.0]
+ [35m[2024-04-10 17:48:58.937582]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:48:58.937696]:[32mpedidos registrado con exito 
+ [35m[2024-04-10 17:48:58.937778]:[32mfinalizada el registro de multiples pedidos 
+ [35m[2024-04-10 17:48:58.937859]:[32mOrden_espacios creada de manera exitosa con el id:[1712785736.182001]
+ [35m[2024-04-10 17:48:58.938067]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:02.025007]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:02.183950]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-10 17:49:02.184392]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:09.321584]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:09.561526]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-04-10 17:49:09.561665]:[32merror al intentar registrar el producto 
+ [35m[2024-04-10 17:49:09.561747]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:09.561989]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:10.146030]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:10.386528]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-04-10 17:49:10.386634]:[32merror al intentar registrar el producto 
+ [35m[2024-04-10 17:49:10.386698]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:10.386919]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:10.951929]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:11.191752]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 17:49:11.192387]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:11.193676]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:11.778105]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:11.941141]:[32mse ecncontraron (17) deudas  en la sede jalisco .....!
+ [35m[2024-04-10 17:49:11.941430]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:11.941762]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-10 17:49:12.522030]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:12.766645]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-10 17:49:12.766983]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:12.767725]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:13.343034]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:13.585176]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-10 17:49:13.585297]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:13.585551]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:14.179468]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:14.423055]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-10 17:49:14.423231]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:14.423622]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:15.005290]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:15.246476]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 17:49:15.246617]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:15.246851]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:15.824255]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:16.069391]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-10 17:49:16.069569]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:16.069994]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:16.070495]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:16.071092]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-10 17:49:16.071310]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:16.639344]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:49:16.879426]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-04-10 17:49:16.879531]:[32merror al intentar registrar el producto 
+ [35m[2024-04-10 17:49:16.879607]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 17:49:16.879909]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:49:16.880298]:[32mHilos creados ....
+ [35m[2024-04-10 17:49:16.882823]:[32mYa arrancaron los hilos
+ [35m[2024-04-10 17:49:16.884086]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-10 17:49:16.884289]:[32mreporte de inventario generado con exito
+ [35m[2024-04-10 17:49:16.884371]:[32mfinalizado el reporte de inventario de la sede jalisco
+ [35m[2024-04-10 17:52:02.447688]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:52:02.998403]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 17:52:02.998747]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:52:03.890842]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:52:04.471374]:[32mleyendo todos los clientes se encontraron 1677 clientes registrados  !!
+ [35m[2024-04-10 17:52:04.472175]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 17:58:13.315619]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 17:58:13.645790]:[32mexito al actualizar el  clientre 1369  !!
+ [35m[2024-04-10 17:58:13.646169]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:09.856628]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:10.017241]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:10.017669]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:10.590081]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:10.832012]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:10.832900]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:10.833220]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:11.454103]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:11.615907]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:11.616813]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:12.199678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:12.438669]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:12.439069]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:12.439184]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:13.062634]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:13.222073]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:13.222379]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:13.784994]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:14.023280]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:14.023650]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:14.023755]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:14.712983]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:14.873228]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:14.873592]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:15.439438]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:15.677904]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:15.679028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:15.680180]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:30.362987]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:30.524482]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:30.524851]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:31.104977]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:31.344770]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:31.345059]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:31.345148]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:31.958156]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:32.117424]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:32.117701]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:32.683509]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:32.921984]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:32.922797]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:32.923095]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:33.552472]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:33.711870]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:33.712169]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:34.281304]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:34.536724]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:34.536997]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:34.537100]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:35.159008]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:35.319914]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:35.320442]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:35.893330]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:36.132004]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:02:36.132500]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:36.132688]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:02:47.556194]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:47.716682]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:02:47.717167]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:02:48.302930]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:02:48.467720]:[32mBusqueda del cliente [geofrey] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-10 18:02:48.469314]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:03:22.188344]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:03:22.347724]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:03:22.348024]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:03:22.916204]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:03:23.303462]:[32mpago regiustrado de manera satisfactoira 1712786602.9162686
+ [35m[2024-04-10 18:03:23.303745]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:03:23.303844]:[32mfinalizado el registro del pago 1712786602.9162686
+ [35m[2024-04-10 18:03:24.198072]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:03:24.527131]:[32mrecarga  de wallet realizado de manera correcta (id=1712786603.303994 idcliente=1563 monto=6.5 idpago='1712786602.9162686' status='aplicado') 
+ [35m[2024-04-10 18:03:24.527419]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:03:24.527513]:[32mRecarga de (6.5 $) al  wallet  del cliente 1563 realizada de manera satisfactoria
+ [35m[2024-04-10 18:03:24.527578]:[32mfinalizada  la recarga de wallet !!!
+ [35m[2024-04-10 18:03:38.244185]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:03:38.526137]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-10 18:03:38.527031]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:03:39.225323]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:03:39.564815]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-10 18:03:39.565252]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:26.549291]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:26.565865]:[32mAccion registrada de manera exitosa con el id:[1712786666.5489872]
+ [35m[2024-04-10 18:04:26.566136]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:26.566280]:[32m[0;33m No tiene conexión abierta en estos momentos
+ [35m[2024-04-10 18:04:27.170769]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:27.509641]:[32mno se pudo actualizar el cliente  puede que no exista ningun cliente con dicho id  
+ [35m[2024-04-10 18:04:27.510604]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:27.510929]:[32m ha finalizado la ejecucion de la ediccion de pagos 
+ [35m[2024-04-10 18:04:37.426548]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:37.587793]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:04:37.588120]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:37.836926]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:38.099113]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-10 18:04:38.099717]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:38.711539]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:38.955188]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:04:38.955558]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:38.955664]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:04:39.533214]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:39.787284]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-10 18:04:39.788104]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:40.435370]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:40.597358]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:04:40.597683]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:41.188231]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:04:41.434446]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-10 18:04:41.435513]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:04:41.435915]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:42.752637]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:43.019728]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 18:05:43.020230]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:43.020991]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:43.801079]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:43.984696]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 18:05:43.984852]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:43.985107]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:44.626225]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:44.672513]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:44.795732]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:05:44.796533]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:44.929426]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 18:05:44.929534]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:44.929777]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:45.551857]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:46.084188]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 18:05:46.084297]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:46.084533]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:46.661237]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:46.826488]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 18:05:46.827000]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:46.828647]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:47.504580]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:47.758806]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 18:05:47.758965]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:47.759208]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:48.457006]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:48.506979]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:48.672539]:[32mtoken validado con exito!!!
+ [35m[2024-04-10 18:05:48.673460]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:48.736413]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-10 18:05:48.736647]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:48.737139]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-10 18:05:49.411178]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-10 18:05:49.588949]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-10 18:05:49.589141]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-10 18:05:49.589481]:[32mDesconexión exitosa de la base de datos

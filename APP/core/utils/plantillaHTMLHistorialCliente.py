@@ -9,9 +9,11 @@ class PlantillaHTMLHistorialCliente():
         pass
     def __procesarOrdenesAbiertas(self,datos:ClientReportEntity):
         self.OrdenesAbiertas = ''
+        self.totalOrdenesAbiertas = 0
         if datos.ordenesAbiertas is not None:
             for i in datos.ordenesAbiertas:
                 self.OrdenesAbiertas+=f"""<tr><td >{i.id}</td><td>{i.monto}$</td><td>{i.fpedido}</td></tr>"""
+                self.totalOrdenesAbiertas+=round(float(i.monto),2)
         return self.OrdenesAbiertas
     def __procesarOrdenesCerradas(self,datos:ClientReportEntity):
         self.OrdenesCerradas=" "
@@ -30,10 +32,12 @@ class PlantillaHTMLHistorialCliente():
     def __procesarPedidos(self,datos:ClientReportEntity):
         self.PedidosAbiertos=""
         self.pedidos = ""
+        self.totalPedidosAbiertos=0
         if datos.pedidos is not None:
             for i in datos.pedidos:
                 if i.status == "por pagar":
                     self.PedidosAbiertos+=f"""<tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td></tr>"""
+                    self.totalPedidosAbiertos+= i.total               
                 self.pedidos+=f""" <tr><td>{i.idOrden}</td><td>{i.fPedido}</td><td>{i.producto}</td><td>{i.cantidad}</td><td>{i.total}$</td><td>{i.status}</td></tr>"""
     def __procesarWallet(self,datos:ClientReportEntity):
        self.wallet = ""
@@ -126,11 +130,13 @@ class PlantillaHTMLHistorialCliente():
           <table>
           <tr><th>id</th><th>monto</th><th>fecha apertura</th></tr>
           {self.OrdenesAbiertas}
+          <tr> <th>Total:</th><th>{self.totalOrdenesAbiertas}$</th></tr>
           </table>
           <center><h2>DETALLES DE ORDENES POR PAGAR</h2></center>
           <table>
           <tr><th>Id Orden</th><th>Fecha</th><th>Producto</th><th>Cantidad</th><th>Total$</th></tr>
           {self.PedidosAbiertos}
+          <tr><th colspan=4> Total</th><th>{self.totalPedidosAbiertos}$</th></tr>
           </table>
           <center> <h2> ORDENES CERRADAS</h2> </center>
           <table>
