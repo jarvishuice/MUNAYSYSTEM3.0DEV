@@ -11,7 +11,7 @@ import { PagosEntity } from "../../core/Entities/pagos/pagosEntity";
 import { PagosEspaciosDAO } from '../../core/Implements/pagos/pagosEspaciosDAO';
 
 const controlador = new PagosEspaciosDAO()
-const credenciales = JSON.parse(localStorage.getItem("user"))??"inicie seccion"
+const credenciales = JSON.parse(localStorage.getItem("user")??"{'k':'0',}")??"inicie"
 // console.log(controlador);
 // alert("este es el json:  "+typeof(pagoData)+ JSON.stringify(pagoData))
 

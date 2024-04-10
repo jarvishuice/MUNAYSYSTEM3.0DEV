@@ -12,7 +12,7 @@ import { OrdenesEntity } from '../core/Entities/ordenes/ordenesEntity';
 import { OrdenesDAO } from '../core/Implements/Ordenes/ordenesDAO';
 export  function FormEditOrder(props:any) {
   const sede =localStorage.getItem("sede")??"inicie seccion"
-  const credenciales = JSON.parse(localStorage.getItem("user"))??{
+  const credenciales = JSON.parse(localStorage.getItem("user")??"{k:0}")??{
     "id": 0,
     "nombre": "seleccione un cliente",
     "apellido": "",
