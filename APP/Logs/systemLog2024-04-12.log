@@ -1124,3 +1124,716 @@
  [35m[2024-04-12 13:51:41.790263]:[32mnew implement IClientes
  [35m[2024-04-12 13:51:41.793002]:[32mnew implement IClientes
  [35m[2024-04-12 13:51:41.793100]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:03.378731]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.380067]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:03.380423]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.391660]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:03.426198]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:03.541825]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:03.545702]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.570274]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.622910]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.623167]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:03.723417]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.216258]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-12 15:33:04.275779]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.336500]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.424122]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.445345]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.488619]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.498285]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-12 15:33:04.498409]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-12 15:33:04.504793]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.521744]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.538847]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.538955]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.549726]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.570368]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:04.570475]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.571377]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:04.580621]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:04.583714]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:04.608359]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.608453]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.657605]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.663010]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.663138]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.666345]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:04.666529]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:12.435780]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.435961]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:12.436169]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.440854]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:12.465409]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:12.518664]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:12.520266]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.532258]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.540547]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.540688]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.555366]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.763762]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-12 15:33:12.810958]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:12.868447]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:12.918219]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:12.934898]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.017590]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.032795]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-12 15:33:13.034489]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-12 15:33:13.057277]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.106053]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.178206]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:13.178842]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:13.227020]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:13.279646]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:13.280361]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:13.283043]:[32mnew implement IPagos
+ [35m[2024-04-12 15:33:13.319321]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:13.325751]:[32mnew implement IOrdenes
+ [35m[2024-04-12 15:33:13.385584]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.385785]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.523385]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.533332]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.533493]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.536147]:[32mnew implement IClientes
+ [35m[2024-04-12 15:33:13.536310]:[32mnew implement IClientes
+ [35m[2024-04-12 15:37:07.502695]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:07.830434]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:37:07.830947]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:37:07.831064]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:37:16.081206]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:16.416775]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:37:16.417257]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:37:16.417407]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:37:54.362917]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:54.705655]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:37:54.706201]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:37:54.706338]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:37:55.356704]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:55.524562]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:37:55.525616]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:37:56.114667]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:56.436826]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:37:56.438446]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:37:56.438955]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:37:57.098884]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:37:57.260521]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:37:57.261052]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:40:24.721866]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:40:25.043269]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:40:25.043565]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:40:25.043647]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:40:25.615602]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:40:25.775958]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:40:25.776869]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:40:26.354828]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:40:26.688509]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:40:26.688836]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:40:26.688919]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:40:27.321290]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:40:27.480868]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:40:27.481718]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:43:48.804587]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:43:49.126868]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:43:49.127282]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:43:49.127377]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:43:49.723441]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:43:49.995754]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:43:49.996071]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:43:50.588148]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:43:50.910533]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:43:50.910988]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:43:50.911157]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:43:51.615023]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:43:51.775352]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:43:51.775785]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:44:22.615643]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:44:22.940598]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:44:22.941840]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:44:22.942291]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:44:29.129305]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:44:29.872799]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:44:29.873351]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:44:29.873562]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:44:40.069838]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:44:40.445015]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:44:40.445349]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:44:40.445435]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:45:16.307127]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:45:16.629967]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:45:16.630353]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:45:16.630454]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:45:23.414636]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:45:23.745615]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:45:23.746504]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:45:23.747768]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:48:52.679023]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:48:52.839062]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:48:52.839969]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:48:53.514142]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:48:53.766675]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:48:53.767006]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:48:53.767124]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 15:48:54.407620]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:48:54.569843]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:48:54.570180]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:48:55.140493]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:48:55.381121]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:48:55.381565]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:48:55.381724]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 15:49:19.846423]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:20.072655]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:49:20.074963]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:20.485251]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:20.809294]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:49:20.809543]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:20.809643]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:49:21.381639]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:21.625689]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:49:21.626005]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:21.626099]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 15:49:22.212380]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:22.371731]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:49:22.372028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:23.010808]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:23.341920]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 15:49:23.342256]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:23.342368]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 15:49:23.936275]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:23.940806]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:24.098569]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:49:24.099107]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:24.101579]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 15:49:24.102542]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:24.691302]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:49:24.937418]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:49:24.937737]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:49:24.937828]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 15:56:38.084659]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:56:38.308781]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:56:38.309607]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:56:38.904059]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:56:39.150090]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:56:39.150430]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:56:39.150525]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 15:56:39.792699]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:56:39.952812]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 15:56:39.953110]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:56:40.950753]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 15:56:41.193529]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 15:56:41.194035]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 15:56:41.194152]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:07:32.621745]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:07:32.781404]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:07:32.781682]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:07:33.348885]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:07:33.587962]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:07:33.588420]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:07:33.588612]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:07:34.386349]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:07:34.548951]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:07:34.549975]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:07:35.656587]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:07:35.900658]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:07:35.901491]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:07:35.901812]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:08.664501]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:08.824786]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:08.825225]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:09.405584]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:09.647282]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-12 16:08:09.647638]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:09.647728]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:10.272226]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:10.432712]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:10.433867]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:11.015013]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:11.257130]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-12 16:08:11.258501]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:11.258861]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:19.995569]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:20.156186]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:20.157615]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:20.732777]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:20.974486]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-12 16:08:20.974837]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:20.974955]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:21.727986]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:21.894636]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:21.894940]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:22.479812]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:22.728602]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-12 16:08:22.729493]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:22.729848]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:29.888295]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:30.048064]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:30.048349]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:30.637060]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:30.887395]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:08:30.888013]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:30.888220]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:31.468889]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:31.710852]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:31.711295]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:31.712028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:32.297171]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:32.552240]:[32mPagos extraida de manera correcta
+ [35m[2024-04-12 16:08:32.552373]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:32.552611]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:33.128630]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:33.372904]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-12 16:08:33.373173]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:33.373679]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:33.948612]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:34.120776]:[32mse ecncontraron (34) deudas  en la sede jalisco .....!
+ [35m[2024-04-12 16:08:34.122209]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:34.124519]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-12 16:08:34.702729]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:35.150015]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-12 16:08:35.150409]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:35.150830]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:35.723766]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:36.395402]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-12 16:08:36.395561]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:36.396205]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:36.972080]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:37.218620]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-12 16:08:37.218779]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:37.219186]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:37.924164]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:38.165855]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:38.166022]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:38.167393]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:38.745050]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:38.989293]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-12 16:08:38.989398]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:38.989630]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:38.990510]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:38.991295]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-12 16:08:38.991442]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:38.992607]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-12 16:08:39.578485]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:39.821441]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:39.821622]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:39.821964]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:40.534710]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:40.776928]:[32mPagos extraida de manera correcta
+ [35m[2024-04-12 16:08:40.777035]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:40.777282]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:41.345764]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:41.589392]:[32mventas por p´roducvtos VAlidacion (1, Decimal('15.0'), '1/2 SALA DE REUNION 9-12')
+ [35m[2024-04-12 16:08:41.590114]:[32mventas por p´roducvtos VAlidacion (2, Decimal('300.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-12 16:08:41.590978]:[32mventas por p´roducvtos VAlidacion (3, Decimal('150.0'), 'SALA DE REUNION 21-30')
+ [35m[2024-04-12 16:08:41.591526]:[32mventas por p´roducvtos VAlidacion (2, Decimal('60.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-12 16:08:41.591993]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-12 16:08:41.592335]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:41.593144]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:42.164051]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:42.333863]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-12 16:08:42.334707]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:42.336521]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-12 16:08:42.908627]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:43.155581]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-12 16:08:43.155681]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:43.155955]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:43.732158]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:43.977427]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-12 16:08:43.977553]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:43.977819]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:44.560607]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:44.809882]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-12 16:08:44.810014]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:44.810295]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:45.395804]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:45.640187]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:45.640294]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:45.640499]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:46.218802]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:46.458635]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-12 16:08:46.458970]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:46.459719]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:46.460604]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:46.461749]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-12 16:08:46.462100]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:46.463874]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-12 16:08:46.468568]:[32mreporte unificado generado con exito
+ [35m[2024-04-12 16:08:47.063761]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:47.064530]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:47.223740]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:08:47.224096]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:47.305709]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:47.305817]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:47.306159]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:47.877407]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:48.136110]:[32mPagos extraida de manera correcta
+ [35m[2024-04-12 16:08:48.136439]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:48.137103]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:48.719259]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:48.963126]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-12 16:08:48.963246]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:48.963475]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:49.539459]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:49.709808]:[32mse ecncontraron (34) deudas  en la sede jalisco .....!
+ [35m[2024-04-12 16:08:49.710743]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:49.712401]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-12 16:08:50.323776]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:50.579133]:[32m[0;31m errror al extraer los pedidos del dia   
+ [35m[2024-04-12 16:08:50.579241]:[32merror al extraer los pedidos del dia  
+ [35m[2024-04-12 16:08:50.579688]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:50.579949]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:51.205432]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:51.459922]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-12 16:08:51.460334]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:51.461156]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:52.057143]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:52.308476]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-12 16:08:52.308576]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:52.308794]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:52.885519]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:53.131774]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:53.132225]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:53.133177]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:53.735823]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:53.988485]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-12 16:08:53.988629]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:53.988889]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:53.989167]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:53.989624]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-12 16:08:53.989823]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:53.992540]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-12 16:08:54.563941]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:54.809842]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:08:54.810412]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:54.811723]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:55.397782]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:55.641288]:[32mPagos extraida de manera correcta
+ [35m[2024-04-12 16:08:55.641392]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:55.641649]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:56.216267]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:56.460768]:[32mventas por p´roducvtos VAlidacion (1, Decimal('7.5'), '1/2 SALA DE REUNION 1-41/2')
+ [35m[2024-04-12 16:08:56.461233]:[32mventas por p´roducvtos VAlidacion (7, Decimal('105.0'), '1/2 SALA DE REUNION 9-12')
+ [35m[2024-04-12 16:08:56.461996]:[32mventas por p´roducvtos VAlidacion (10, Decimal('10.0'), 'COPIAS E IMPRESIONES B/N')
+ [35m[2024-04-12 16:08:56.462509]:[32mventas por p´roducvtos VAlidacion (6, Decimal('120.0'), 'DAY_PASS 12 HORAS')
+ [35m[2024-04-12 16:08:56.462978]:[32mventas por p´roducvtos VAlidacion (1, Decimal('25.0'), 'DAY_PASS 12 HORAS +VISITAS')
+ [35m[2024-04-12 16:08:56.463557]:[32mventas por p´roducvtos VAlidacion (2, Decimal('400.0'), 'ESCRITORIO FIJO Y1')
+ [35m[2024-04-12 16:08:56.464097]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y10')
+ [35m[2024-04-12 16:08:56.464429]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y11')
+ [35m[2024-04-12 16:08:56.464727]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y12')
+ [35m[2024-04-12 16:08:56.465013]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y2')
+ [35m[2024-04-12 16:08:56.465290]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y3')
+ [35m[2024-04-12 16:08:56.465532]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y4')
+ [35m[2024-04-12 16:08:56.465785]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y5')
+ [35m[2024-04-12 16:08:56.466034]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y6')
+ [35m[2024-04-12 16:08:56.466284]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y9')
+ [35m[2024-04-12 16:08:56.466531]:[32mventas por p´roducvtos VAlidacion (3, Decimal('450.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-12 16:08:56.466777]:[32mventas por p´roducvtos VAlidacion (2, Decimal('20.0'), 'LOCKERS')
+ [35m[2024-04-12 16:08:56.467059]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA A 1 PERSONA')
+ [35m[2024-04-12 16:08:56.467495]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA B 1 PERSONA')
+ [35m[2024-04-12 16:08:56.467883]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA C 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.468270]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA D 1 PERSONA')
+ [35m[2024-04-12 16:08:56.468629]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA E 1 PERSONA')
+ [35m[2024-04-12 16:08:56.468989]:[32mventas por p´roducvtos VAlidacion (1, Decimal('900.0'), 'OFICINA G 3 PERSONAS')
+ [35m[2024-04-12 16:08:56.469388]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA H 1 PERSONA')
+ [35m[2024-04-12 16:08:56.469741]:[32mventas por p´roducvtos VAlidacion (1, Decimal('650.0'), 'OFICINA I 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.470285]:[32mventas por p´roducvtos VAlidacion (1, Decimal('650.0'), 'OFICINA J 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.470886]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA K 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.471485]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1000.0'), 'OFICINA M 4 PERSONAS')
+ [35m[2024-04-12 16:08:56.471944]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA N 4 PERSONAS')
+ [35m[2024-04-12 16:08:56.472382]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA P 1 PERSONAS')
+ [35m[2024-04-12 16:08:56.472854]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA Q 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.473296]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA R 2 PERSONAS')
+ [35m[2024-04-12 16:08:56.473723]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA S 3 PERSONAS')
+ [35m[2024-04-12 16:08:56.474152]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA V 1 PERSONA')
+ [35m[2024-04-12 16:08:56.474570]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA W 1 PERSONA')
+ [35m[2024-04-12 16:08:56.474993]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA X 1 PERSONA')
+ [35m[2024-04-12 16:08:56.475468]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA X1 1 PERSONA')
+ [35m[2024-04-12 16:08:56.475891]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA X2 1 PERSONAS')
+ [35m[2024-04-12 16:08:56.476315]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICNA Z 1 PERSONA')
+ [35m[2024-04-12 16:08:56.476740]:[32mventas por p´roducvtos VAlidacion (5, Decimal('825.0'), 'PUESTO ADICIONAL VNET')
+ [35m[2024-04-12 16:08:56.477147]:[32mventas por p´roducvtos VAlidacion (1, Decimal('10.0'), 'SALA COWORKER 1-4 ')
+ [35m[2024-04-12 16:08:56.477601]:[32mventas por p´roducvtos VAlidacion (10, Decimal('350.0'), 'SALA DE REUNION 13-20')
+ [35m[2024-04-12 16:08:56.478121]:[32mventas por p´roducvtos VAlidacion (4, Decimal('60.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-12 16:08:56.478492]:[32mventas por p´roducvtos VAlidacion (2, Decimal('20.0'), 'SALA DE REUNION 1-4 COWORKER')
+ [35m[2024-04-12 16:08:56.478802]:[32mventas por p´roducvtos VAlidacion (3, Decimal('150.0'), 'SALA DE REUNION 21-30')
+ [35m[2024-04-12 16:08:56.479204]:[32mventas por p´roducvtos VAlidacion (14, Decimal('420.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-12 16:08:56.479621]:[32mventas por p´roducvtos VAlidacion (2, Decimal('360.0'), 'SALA TARIFA PLANA 9-12')
+ [35m[2024-04-12 16:08:56.479976]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-12 16:08:56.480252]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:56.480973]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:57.072119]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:57.234879]:[32mse ecncontraron (16) deudas  en la sede jalisco .....!
+ [35m[2024-04-12 16:08:57.235221]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:57.235575]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-12 16:08:58.117775]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:58.363038]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-12 16:08:58.363155]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:58.363419]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:58.941765]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:08:59.185024]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-12 16:08:59.185170]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:08:59.185433]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:08:59.767289]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:09:00.011311]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-12 16:09:00.011780]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:09:00.012737]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:09:00.608648]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:09:00.852681]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-12 16:09:00.852831]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:09:00.853095]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:09:01.435284]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:09:01.676984]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-12 16:09:01.677483]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:09:01.678479]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:09:01.679820]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:09:01.681762]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-12 16:09:01.682469]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:09:01.686697]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-12 16:09:01.700350]:[32mreporte unificado generado con exito
+ [35m[2024-04-12 16:09:02.281662]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:09:02.523342]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:09:02.523643]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:09:02.523733]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:41:23.457387]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:23.618856]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:41:23.619535]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:24.197890]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:24.438680]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:41:24.439128]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:24.439258]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:41:25.028669]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:25.063018]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:25.204518]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:41:25.204963]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:25.390302]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:41:25.390670]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:25.390763]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:41:25.970176]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:26.209495]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:41:26.210167]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:26.210327]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:41:26.802441]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:26.962700]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:41:26.962995]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:27.547878]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:27.882482]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:41:27.884435]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:27.884594]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:41:28.532144]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:28.691883]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:41:28.692236]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:56.966998]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:57.128639]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:41:57.128934]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:57.700534]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:41:57.941734]:[32mBusqueda de producto ( ja) se encontraron (2) coincidencias
+ [35m[2024-04-12 16:41:57.942036]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:41:57.942123]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:43:38.401682]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:38.565026]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:43:38.565438]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:39.149442]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:39.393542]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:43:39.394258]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:39.394588]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:43:41.216577]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:41.382953]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:43:41.383363]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:41.969940]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:42.216951]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:43:42.217423]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:42.217525]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:43:44.303724]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:44.639725]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:43:44.640179]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:44.640292]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:43:45.258073]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:45.417635]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:43:45.417975]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:46.008836]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:46.336135]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:43:46.336479]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:43:46.336578]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:43:46.987642]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:43:47.151322]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:43:47.151667]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:35.573306]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:35.895584]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:44:35.895884]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:35.895998]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:44:36.478543]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:36.642769]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:44:36.643296]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:37.223502]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:37.549902]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:44:37.550234]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:37.550329]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:44:38.203393]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:38.381479]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:44:38.381871]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:43.951868]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:44.130797]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:44:44.131367]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:44.730667]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:44:44.983033]:[32m[0;33m no se encontraron coincidencas para el producto ( agu) 
+ [35m[2024-04-12 16:44:44.984112]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:44:44.984287]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:45:12.933751]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:45:13.123427]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:45:13.123767]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:45:13.904921]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:45:14.158138]:[32mBusqueda de producto (agu) se encontraron (3) coincidencias
+ [35m[2024-04-12 16:45:14.158534]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:45:14.158643]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:46:37.497127]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:37.666825]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:46:37.667142]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:38.110048]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:38.448408]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:46:38.449145]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:38.449404]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:46:39.068361]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:39.316526]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:46:39.316858]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:39.316952]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:46:39.905525]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:40.066293]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:46:40.067434]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:40.657972]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:40.660737]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:40.821234]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:46:40.821670]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:40.984558]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:46:40.984866]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:40.984955]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:46:41.554553]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:41.792865]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:46:41.793673]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:41.794096]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:46:42.441197]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:42.607058]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:46:42.607387]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:51.607330]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:51.767036]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:46:51.768082]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:52.358162]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:46:52.765817]:[32mBusqueda de producto (m) se encontraron (35) coincidencias
+ [35m[2024-04-12 16:46:52.768374]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:46:52.768857]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:47:19.230246]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:19.391728]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:47:19.393453]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:19.962461]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:20.204727]:[32m[0;33m no se encontraron coincidencas para el producto (jygo) 
+ [35m[2024-04-12 16:47:20.205028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:20.205126]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:47:25.455481]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:25.616473]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:47:25.617625]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:26.212248]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:26.458119]:[32mBusqueda de producto (cafe) se encontraron (16) coincidencias
+ [35m[2024-04-12 16:47:26.458440]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:26.458552]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:47:34.218179]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:34.378537]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:47:34.379883]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:34.965018]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:47:35.205283]:[32mBusqueda de producto (malta) se encontraron (1) coincidencias
+ [35m[2024-04-12 16:47:35.205596]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:47:35.205711]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:48:35.556101]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:48:35.882986]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:48:35.884837]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:48:35.885018]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:48:36.489796]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:48:36.652040]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:48:36.652370]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:48:37.239646]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:48:37.562717]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:48:37.563092]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:48:37.563187]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:48:38.200678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:48:38.361444]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:48:38.361776]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:50:21.696348]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:50:21.857051]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:50:21.857317]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:50:22.430478]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:50:23.040512]:[32mBusqueda de producto (d) se encontraron (37) coincidencias
+ [35m[2024-04-12 16:50:23.040926]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:50:23.041025]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:51:19.727991]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:19.889033]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:51:19.889773]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:20.475618]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:20.798128]:[32mBusqueda de producto (d) se encontraron (37) coincidencias
+ [35m[2024-04-12 16:51:20.798979]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:20.799340]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:51:29.742236]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:29.905063]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:51:29.905882]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:30.192298]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:30.514400]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:51:30.515384]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:30.515895]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:51:31.192691]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:31.449086]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:51:31.450049]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:31.450341]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:51:32.075597]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:32.241431]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:51:32.241680]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:32.824735]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:32.985664]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:51:32.985944]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:33.165385]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:33.525952]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:51:33.526244]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:33.526329]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:51:34.116200]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:34.354430]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:51:34.354760]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:34.354845]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:51:34.968394]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:35.130221]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:51:35.131190]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:41.715287]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:41.879590]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:51:41.880128]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:42.455659]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:51:42.698672]:[32mBusqueda de producto (agua) se encontraron (3) coincidencias
+ [35m[2024-04-12 16:51:42.700128]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:51:42.700625]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:53:23.737620]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:23.896721]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:53:23.897362]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:24.156758]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:24.477426]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:53:24.477770]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:24.477878]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:53:25.058051]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:25.298291]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:53:25.298725]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:25.298890]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:53:25.874786]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:26.039719]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:53:26.040757]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:26.647979]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:26.693736]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:26.810832]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:53:26.811181]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:27.025745]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-12 16:53:27.026910]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:27.038578]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:53:27.631172]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:27.873332]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:53:27.874250]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:27.874555]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:53:28.539733]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:28.710194]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:53:28.711753]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:46.070970]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:46.245691]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:53:46.245951]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:46.881374]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:53:47.204887]:[32mBusqueda de producto (s) se encontraron (54) coincidencias
+ [35m[2024-04-12 16:53:47.205243]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:53:47.205407]:[32mFinalizada la ejecucion de registros de productos 

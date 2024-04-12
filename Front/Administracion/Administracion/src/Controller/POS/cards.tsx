@@ -5,6 +5,7 @@ import { ProductosEntity } from "../../core/Entities/productos/productos";
 import { BotonesCategorias } from "./botonesCategoria";
 import { Cargando } from "../../screens/Cargando"
 import producto  from '../../assets/producto.png'
+import { BuscadorProductos } from "../../components/BuscadorProductos";
 /**
  * contenedor de las tarjetas del pos de coffeshop
  * @date 14/2/2024 - 11:28:43 a. m.
@@ -51,7 +52,7 @@ export function CardShop(props:any): any {
 
     return (
         <div className="contenedorPOS" >
-
+            <div className="botonesCategorias"><BuscadorProductos accion={props.insertarProducto}/> </div>
             <div className="botonesCategorias"><BotonesCategorias accion={insertarCategoria} /></div>
             <div className="contenedor">
 

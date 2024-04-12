@@ -18,7 +18,7 @@ const BootstrapDialog = styled(Dialog)(({ theme }) => ({
 export function BusquedaCliente(props:any) {
   const [clientes, setClientes] = React.useState<ClientesEntity[]>([]);
   const [open, setOpen] = React.useState(false);
-  const [valorInput, setValorInput] = React.useState('a');
+  const [valorInput, setValorInput] = React.useState(' ');
   async  function  getAllClientes(){
     try {
   
