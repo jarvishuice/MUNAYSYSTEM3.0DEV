@@ -5,6 +5,7 @@ import { BotonesCategoriasEspacios } from './botonesCategoria';
 import { ProductosEntity } from '../../../core/Entities/productos/productos';
 import { ProductosEspaciosDAO } from '../../../core/Implements/productos/productosEspaciosDAO';
 import { CardProduct } from '../../../components/card';
+import { BuscadorProductosEspacios } from '../../../components/BuscadorProductosEspacios';
 const imagen = producto;
 const sede  = localStorage.getItem("sede")??"inicia seccion"
 export function CardShopEspacios(props:any){
@@ -38,6 +39,7 @@ if (loanding){
 }
 return(
     <div className="contenedorPOS">
+        <div className='botonesCategorias'><BuscadorProductosEspacios accion={props.insertarProducto}/></div>
         <div className="botonesCategorias">
             <BotonesCategoriasEspacios accion={setCategoria}/>
 
