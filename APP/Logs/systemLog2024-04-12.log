@@ -1837,3 +1837,101 @@
  [35m[2024-04-12 16:53:47.204887]:[32mBusqueda de producto (s) se encontraron (54) coincidencias
  [35m[2024-04-12 16:53:47.205243]:[32mDesconexión exitosa de la base de datos
  [35m[2024-04-12 16:53:47.205407]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:54:53.619275]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:54:53.788617]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:54:53.789554]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:54:54.383352]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:54:54.811194]:[32mBusqueda del cliente [g] realizada con exito s eencotraron 575 coincidencas
+ [35m[2024-04-12 16:54:54.811484]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:54:58.724352]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:54:58.884734]:[32mConsulta de saldo exitosa del cliente (1) su saldo es 0
+ [35m[2024-04-12 16:54:58.885110]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:04.942086]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:05.112525]:[32mConsulta de saldo exitosa del cliente (4) su saldo es 0.0
+ [35m[2024-04-12 16:55:05.113464]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:15.165239]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:15.411618]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (61) coincidencias
+ [35m[2024-04-12 16:55:15.412522]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:15.412827]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:55:16.025529]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:16.186622]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:55:16.186909]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:16.763418]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:17.010470]:[32mBusqueda de producto de la categoria  (oficinas) se encontraron (61) coincidencias
+ [35m[2024-04-12 16:55:17.011273]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:17.011495]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-12 16:55:17.611024]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:17.771564]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-12 16:55:17.772782]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:19.270751]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:19.434636]:[32mse ecncontraron (21) deudas  en la sede cfm .....!
+ [35m[2024-04-12 16:55:19.435044]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:20.087367]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:20.249974]:[32mse ecncontraron (21) deudas  en la sede cfm .....!
+ [35m[2024-04-12 16:55:20.250321]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:52.656448]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:52.667948]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:52.814489]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:52.814756]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:52.827673]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-12 16:55:52.828003]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:53.396653]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:53.637439]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:55:53.637857]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:53.638004]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:55:54.268904]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:54.346052]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:54.348308]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:54.427978]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:54.428227]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:54.506549]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:54.506605]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-12 16:55:54.506893]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:54.507798]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:55.082678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:55.327724]:[32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m[2024-04-12 16:55:55.329041]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:55.329800]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:55:55.927527]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:56.091058]:[32m[0;33m:No se encontraron deudas del cliente 1525 en la sede cfm 
+ [35m[2024-04-12 16:55:56.091453]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:56.695748]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:56.734369]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:56.764040]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:56.857116]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:56.857400]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:56.897019]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:56.897302]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:56.924668]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:55:56.924951]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:57.435010]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:57.675550]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-12 16:55:57.676589]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:57.677067]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:55:58.254536]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:58.494496]:[32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m[2024-04-12 16:55:58.495000]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:55:58.495186]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-12 16:55:59.159729]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:55:59.379401]:[32m[0;33m:No se encontraron deudas del cliente 1525 en la sede cfm 
+ [35m[2024-04-12 16:55:59.380220]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:00.008714]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:00.258616]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-12 16:56:00.258933]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:00.899212]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:01.157025]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-12 16:56:01.158053]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:09.862069]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:10.034941]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-12 16:56:10.035419]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-12 16:56:10.036380]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:10.635310]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:10.802758]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-12 16:56:10.803572]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-12 16:56:10.807187]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:19.494814]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:19.656898]:[32mtoken validado con exito!!!
+ [35m[2024-04-12 16:56:19.658120]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-12 16:56:20.475013]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-12 16:56:20.673546]:[32mBusqueda del cliente [ jo] realizada con exito s eencotraron 45 coincidencas
+ [35m[2024-04-12 16:56:20.674684]:[32mDesconexión exitosa de la base de datos

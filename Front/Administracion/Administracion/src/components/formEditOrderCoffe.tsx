@@ -58,7 +58,7 @@ export  function FormEditOrder(props:any) {
   };
   const handleClienteChange=(cliente:ClientesEntity) =>{
   setCliente(cliente);
-  alert(cliente.ci)
+  //alert(cliente.ci)
   setIdCliente(cliente.id);
   setNombreCliente(cliente.nombre)
 
