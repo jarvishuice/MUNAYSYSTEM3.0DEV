@@ -1,5 +1,5 @@
 import datetime
-from core.utils.plantillaHTMLHistorialCliente import PlantillaHTMLHistorialCliente
+from core.utils.plantillaHTMLHistorialClienteFecha import PlantillaHTMLHistorialCliente
 from core.config.ResponseInternal import ResponseInternal
 from config.Logs.LogsActivity import Logs
 from core.Entities.reports.client.clientReporteEntity import *
@@ -8,7 +8,7 @@ from config.Db.conectionsPsqlInterface import ConectionsPsqlInterface
 import pdfkit
 import traceback
 
-class HistorialClientReport(ConectionsPsqlInterface):
+class HistorialClientRFechaReport(ConectionsPsqlInterface):
     OPTIONS = {
                       'page-size': 'Letter', 
       'margin-top': '0.75in',
@@ -43,9 +43,8 @@ class HistorialClientReport(ConectionsPsqlInterface):
             return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getCliente.__name__ }")
-            self.disconnect()
-        
-    def __getOrdenesAbiertasCoffe(self, sede: str, idCliente: int):
+            self.disconnect()   
+    def __getOrdenesAbiertasCoffe(self, sede: str, idCliente: int,fInicio:str,fFin:str):
         data=[]
         try:
             
@@ -54,7 +53,7 @@ class HistorialClientReport(ConectionsPsqlInterface):
                 with self.conn.cursor() as cur:
                     cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido 
                                 FROM ordenes where idcliente={idCliente} and sede='{sede}' 
-                                and status='por pagar' order by fechapedido desc;""")
+                                and status='por pagar' and fechapedido >= '{fInicio}' and fechapedido <= DATE '{fFin}' + interval '1 day' order by fechapedido desc;""")
                     count = cur.rowcount
                     if count > 0:
                         
@@ -71,8 +70,8 @@ class HistorialClientReport(ConectionsPsqlInterface):
             return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getOrdenesAbiertasCoffe.__name__ }")
-            self.disconnect()
-    def __getOrdenesCerradasCoffe(self, sede: str, idCliente):
+            self.disconnect() 
+    def __getOrdenesCerradasCoffe(self, sede: str, idCliente,fInicio:str,fFin:str):
         data=[]
         try:
             
@@ -81,7 +80,7 @@ class HistorialClientReport(ConectionsPsqlInterface):
                 with self.conn.cursor() as cur:
                     cur.execute(f"""SELECT id,sede,total as monto ,status, fechapedido as fpedido ,fechapago
                                 FROM ordenes where idCliente={idCliente} and sede='{sede}' 
-                                and status='pagado' order by fechapedido desc;""")
+                                and status='pagado' and fechapedido>='{fInicio}' and fechapedido <= DATE '{fFin}' + interval '1 day' order by fechapedido desc;""")
                     count = cur.rowcount
                     if count > 0:
                         
@@ -100,14 +99,16 @@ class HistorialClientReport(ConectionsPsqlInterface):
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getOrdenesCerradasCoffe.__name__ }")
             self.disconnect()
-    def __getPagosCoffe(self, sede: str, idCliente):
+            
+    def __getPagosCoffe(self, sede: str, idCliente,fInicio:str,fFin:str):
         data=[]
         try:
             
             conexion=self.connect()
             if conexion['status'] == True:
                 with self.conn.cursor() as cur:
-                    cur.execute(f"""select * from obtener_datos_pagos_by_cliente({idCliente}, '{sede}')""")
+                    cur.execute(f"""select * from obtener_datos_pagos_by_cliente_rango_fecha({idCliente},'{sede}', '{fInicio}', '{fFin}') 
+""")
                     count = cur.rowcount
                     if count > 0:
                         
@@ -125,7 +126,7 @@ class HistorialClientReport(ConectionsPsqlInterface):
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getPagosCoffe.__name__ }")
             self.disconnect()
-    def __getPedidosCoffe(self, sede: str, idCliente):
+    def __getPedidosCoffe(self, sede: str, idCliente,fInicio:str,fFin:str):
         data=[]
         try:
             
@@ -136,7 +137,7 @@ class HistorialClientReport(ConectionsPsqlInterface):
 inner join clientes c on c.nombre = c.nombre
 inner join productos p on p.nombre = p.nombre
 inner join pedidos pe on pe.cantidad = pe.cantidad and pe.total = pe.total and pe.idorden =pe.idorden 
-where c.id = {idCliente} and o.sede = '{sede}' and  o.idcliente = {idCliente} and pe.idorden = o.id and p.id = pe.idproducto 
+where c.id = {idCliente} and o.sede = '{sede}' and  o.idcliente = {idCliente} and pe.idorden = o.id and p.id = pe.idproducto and o.fechapedido >= '{fInicio}' and o.fechapedido <= DATE '{fFin}' + interval '1 day' 
 order by o.fechapedido  desc""")
                     count = cur.rowcount
                     if count > 0:
@@ -182,42 +183,23 @@ order by o.fechapedido  desc""")
         finally:
             Logs.WirterTask(f"Finalizada la ejecucion de {self.__getWalletOperacionesCoffe.__name__ }")
             self.disconnect()
-    def generarReporteClientCoffe(self,sede:str,idCliente:int):
+    def generarReporteClientCoffeHTML(self, sede: str, idCliente: int,fInicio,fFin):
         datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
-                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
-                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente)["response"],
-                                  pagos=self.__getPagosCoffe(sede,idCliente)["response"],
-                                  pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
+                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  pagos=self.__getPagosCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  pedidos=self.__getPedidosCoffe(sede,idCliente,fInicio,fFin)["response"],
                                   walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
-        html =self.plantilla.getHtml(sede,datos)
+        html =self.plantilla.getHtml(sede,datos,fInicio,fFin)
+        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",html)
+    def generarReporteClientCoffe(self,sede:str,idCliente:int,fInicio,fFin):
+        datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
+                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  pagos=self.__getPagosCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  pedidos=self.__getPedidosCoffe(sede,idCliente,fInicio,fFin)["response"],
+                                  walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
+        html =self.plantilla.getHtml(sede,datos,fInicio,fFin)
         output_path =f"assets/reports/coffeshop/cierre/HistoricoCliente{idCliente}{sede}{datetime.datetime.today()}.pdf"
         pdf=pdfkit.from_string(html,output_path,options=self.OPTIONS)
         return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",output_path)
-    def generarReporteClientCoffeHTML(self, sede: str, idCliente: int):
-        datos= ClientReportEntity(cliente=self.__getCliente(idCliente)["response"],
-                                  ordenesAbiertas=self.__getOrdenesAbiertasCoffe(sede,idCliente)["response"],
-                                  ordenesCerradas=self.__getOrdenesCerradasCoffe(sede,idCliente)["response"],
-                                  pagos=self.__getPagosCoffe(sede,idCliente)["response"],
-                                  pedidos=self.__getPedidosCoffe(sede,idCliente)["response"],
-                                  walletOperaciones=self.__getWalletOperacionesCoffe(sede,idCliente)["response"])
-        html =self.plantilla.getHtml(sede,datos)
-        return ResponseInternal.responseInternal(True,f"se genero el reporte de cliente {idCliente}",html)
-    def __getOrdenesAbiertasEspacios(self, sede: str, idCliente):
-        return super().__getOrdenesAbiertasEspacios(sede, idCliente)
-    def __getOrdenesCerradasEspacios(self, sede: str, idCliente):
-        return super().__getOrdenesCerradasEspacios(sede, idCliente)
-    def __getPagosEspacios(self, sede: str, idCliente):
-        return super().__getPagosEspacios(sede, idCliente)
-    def __getPedidosEspacios(self, sede: str, idCliente):
-        return super().__getPedidosEspacios(sede, idCliente)
-    def __getWalletOperacionesEspacios(self, sede: str, idCliente):
-        return super().__getWalletOperacionesEspacios(sede, idCliente)
-  
-    def generarReporteClientEspacioHTML(self, sede: str, idCliente: int):
-        return super().generarReporteClientEspacioHTML(sede, idCliente)
-    def generarReporteClientEspacioPDF(self, sede: str, idCliente: int):
-        return super().generarReporteClientEspacioPDF(sede, idCliente)
-    def generarReporteClientCoffePDF(self, sede: str, idCliente: int):
-        return super().generarReporteClientCoffePDF(sede, idCliente)
-    def generarReporteClientEspacioExcel(self, sede: str, idCliente: int):
-        return super().generarReporteClientEspacioExcel(sede, idCliente)

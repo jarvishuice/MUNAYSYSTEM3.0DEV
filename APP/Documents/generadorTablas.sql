@@ -614,3 +614,40 @@ AS $$
         AND p.monto <> 0
     ORDER BY p.fechapago DESC;
 $$;
+
+--procedimientos para extraer pagos filtrados por clientes y sede y rango de fecha 
+CREATE OR REPLACE FUNCTION obtener_datos_pagos_by_cliente_rango_fecha(id_cliente INT, sucursal text,finicio DATE,ffin DATE)
+RETURNS TABLE (
+    id TEXT,
+    monto NUMERIC,
+    fecha DATE,
+    hora TEXT,
+    sucursal TEXT,
+    metodo TEXT,
+    referencia TEXT,
+    motivo TEXT,
+    taza NUMERIC
+)
+LANGUAGE SQL
+AS $$
+    SELECT
+        p.id,
+        p.monto,
+        date(p.fechapago) AS fecha,
+        to_char(p.fechapago, 'hh12:MI:SS AM') AS hora,
+        p.sede,
+        f.metodo,
+        p.referencia,
+        p.motivo,
+        t.precio AS taza
+    FROM pagos p
+    INNER JOIN fromadepago f ON f.metodo = f.metodo
+    INNER JOIN tazadollar t ON t.precio = t.precio
+    WHERE p.idcliente = id_cliente
+        AND p.sede = sucursal
+        AND t.id = p.idtaza
+        AND f.id = p.idformadepago
+        AND p.fechapago >= finicio and  p.fechapago <= ffin + interval '1 day'
+        AND p.monto <> 0
+    ORDER BY p.fechapago DESC;
+$$;
