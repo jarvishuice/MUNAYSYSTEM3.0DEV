@@ -7,7 +7,7 @@ import React from "react";
 import { ProductosDAO } from "../core/Implements/productos/productosDAO";
 import { ProductosEntity } from "../core/Entities/productos/productos";
 export function BuscadorProductos(props:any){
-   const [nProducto,setNproducto]= React.useState(" ")
+   const [nProducto,setNproducto]= React.useState("")
    function cambioNombreProducto(e:React.ChangeEvent<HTMLInputElement>){
 setNproducto(e.target.value)
 }

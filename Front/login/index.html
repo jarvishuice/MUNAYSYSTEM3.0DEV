@@ -1,0 +1,180 @@
+<!DOCTYPE html >
+<html lang="es" charset='UTF-8'>
+<head>
+  <!-- Design by foolishdeveloper.com -->
+    <title>NEST COWORKING</title>
+    <link rel="shortcut icon" href="/assets/nest.png" type="image/ico"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+    <link href="/login.js">
+    <!--Stylesheet-->
+    <style media="screen">
+      *,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+}
+.background{
+    width: 430px;
+    height: 520px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+}
+.background .shape{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    border-radius: 50%;
+}
+img{
+margin-top: 0px;
+}
+
+form{
+    height: 90vh;
+    width: 400px;
+    background-color: rgba(60, 15, 224, 0.699);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 4px 35px;
+}
+form *{
+    font-family: 'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.1px;
+    outline: none;
+    border: none;
+}
+form h3{
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 500;
+}
+input{
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+}
+select{ display: block;
+    height: 30px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+}
+::placeholder{
+    color: #e5e5e5;
+}
+button{
+    margin-top: 50px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #080710;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+    </style>
+</head>
+<script>
+    async function login(nombreUsuario, password, sede) {
+            const headers = {
+                'accept': 'application/json',
+                'Content-Type': 'application/json'
+            };
+
+            try {
+                const response = await fetch('http://10.10.2.224:8010/MUNAY/nest/Loggin/', {
+                    method: 'POST',
+                    headers: headers,
+                    body: JSON.stringify({ nombreUsuario, password, token: 'string' })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    alert(`Hola ${data.nombreusuario}, bienvenido a MunaySystem`);
+                    localStorage.setItem('sede', sede);
+                    localStorage.setItem('user',JSON.stringify({id:data.id,nombre:data.nombre,apellido:data.apellido,ci:data.ci,nombreusuario:data.nombreusuario,password:data.password,token:data.token,status:data.status,tiposUsuario:data.tiposUsuario,urlImagen:data.urlImagen}));
+                    localStorage.setItem('token',data.token);
+                    window.location.href = 'http://10.10.2.224:8050/administraccion/index.html';
+                } else {
+                    alert(`Error: ${response.status}`);
+                }
+            } catch (error) {
+                console.error(error);
+            }
+        }
+        function inicio() {
+            const usuario = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            const sede = document.getElementById('sede').value;
+
+            if (usuario === '' || password === '') {
+                alert('Debe llenar todos los campos');
+                return;
+            }
+
+            login(usuario, password, sede);
+        }
+
+
+</script>
+<body>
+    <div class="background">
+         </div>
+    <form action="scriptinicio()" accept-charset="UTF-8">
+      <center>  <img src="assets/nest.png" width="50%" alt=""></center>
+        <h3>Inicio de seccion</h3>
+
+        <label for="Nombre">Nombre</label>
+        <input type="text" placeholder="Nombre" id="username">
+
+        <label for="Contraseña">Contraseña</label>
+        <input type="password" placeholder="Contraseña" id="password">
+        <label for="Contraseña">Sede</label>
+        <select  placeholder="Contraseña" id="sede">
+        <option>cfm</option>
+        <option>jalisco</option>
+        </select>
+        <button onclick=inicio() type="button">Entrar</button>
+
+        
+    </form>
+</body>
+
+</html>
