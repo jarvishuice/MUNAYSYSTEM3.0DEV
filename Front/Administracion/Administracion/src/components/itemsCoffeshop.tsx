@@ -6,6 +6,8 @@ import RequestQuoteIcon from '@mui/icons-material/RequestQuote';
 import CreditCardOffIcon from '@mui/icons-material/CreditCardOff';
 import SavingsIcon from '@mui/icons-material/Savings';
 import ReceiptIcon from '@mui/icons-material/Receipt';
+import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
+
 function POS(){
     return(<ItemOnlySideBar ruta="coffePOS☕" key={"pos"} icon={<AddBusinessIcon/>} Nombre ="POS"></ItemOnlySideBar>)
 
@@ -23,6 +25,9 @@ function DEUDAS(){
 function REPORTES(){
     return(<ItemOnlySideBar ruta='reporte/coffe' key="Reportes" icon={<ReceiptIcon/>} Nombre ="REPORTES"></ItemOnlySideBar>)
 }
+function WALLET(){
+return (<ItemOnlySideBar ruta='wallet/coffe' key="WALLET-cooffer" icon={<AccountBalanceWalletIcon/>} Nombre ="WALLET"> </ItemOnlySideBar>)
+}
 
 /**
  * Description placeholder
@@ -33,7 +38,7 @@ function REPORTES(){
  */
 export function ItemsCoffeshop(): any{
 
-    return (<ItemsSideBar Nombre="COFFESHOP" icon={<CoffeeIcon/>} childs={[<POS/>,<ORDENES/>,<PAGOS/>,<DEUDAS/>,<REPORTES/>]}/>)
+    return (<ItemsSideBar Nombre="COFFESHOP" icon={<CoffeeIcon/>} childs={[<POS/>,<ORDENES/>,<PAGOS/>,<DEUDAS/>,<REPORTES/>,<WALLET></WALLET>]}/>)
 
     
 }

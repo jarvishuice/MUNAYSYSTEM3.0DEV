@@ -135,7 +135,7 @@ function llenarLista(){
 
    
     return (
-        <div className="carrito">
+        <div style={{position:"sticky"}} className="carrito">
             <BusquedaCliente select={seleccionarCliente} />
             <div className="clienteCarrito"><center>
                 <Typography key={"nombreCLiente"} mt={2} color="neutral" noWrap={true} variant="plain" level="h4" >

@@ -57,7 +57,7 @@ export function CoffeShopPOS(){
     
     return(<div className="pos">
         <CardShop  insertarProducto={insertarPedidos}></CardShop>
-        <Carrito  pedidos={pedidos} aumento={incrementoProducto} limpiar={limpiar} descremento={descremento} Cliente="jarvis huice "></Carrito>
+        <Carrito style={{position:"sticky"}}  pedidos={pedidos} aumento={incrementoProducto} limpiar={limpiar} descremento={descremento} Cliente="jarvis huice "></Carrito>
         </div>
     )
 

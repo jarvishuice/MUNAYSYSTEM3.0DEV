@@ -11,7 +11,6 @@ import ListItemContent from '@mui/joy/ListItemContent';
 import ListItemButton from '@mui/joy/ListItemButton';
 import {useState} from 'react';
 import { BarraNavegacion } from './BarraNavegacion';
-import logoNest from '../assets/logonest.png';
 import { UsuarioInfoCard } from './UsuarioInfo';
 import {ItemsCoffeshop} from "./itemsCoffeshop";
 import {ItemsEspacios} from "./itemsEspacios";
@@ -71,7 +70,7 @@ export function SideBar(props: any): any {
         > 
        
       <ModalClose id="close-icon" sx={{ position: 'initial' }} onClick={()=> setOpen(false)} />
-          <Toolbar> <img src={logoNest} className='Logo-Sidebar' alt="" /> </Toolbar>
+          <Toolbar> <img src="http://10.10.2.224:8050/assets/logonest.png" className='Logo-Sidebar' alt="" /> </Toolbar>
           <Divider className='divider'></Divider>
           <UsuarioInfoCard 
            usuario={FotoPerfil.nombreusuario??"nest"} imagenPerfil={FotoPerfil.urlImagen}>
