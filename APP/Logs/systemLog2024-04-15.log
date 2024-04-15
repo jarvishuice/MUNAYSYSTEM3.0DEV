@@ -2131,3 +2131,53 @@
  [35m[2024-04-15 13:20:46.167031]:[32mBusqueda de producto (agu) se encontraron (3) coincidencias
  [35m[2024-04-15 13:20:46.167372]:[32mDesconexión exitosa de la base de datos
  [35m[2024-04-15 13:20:46.167479]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-15 13:27:21.428197]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:21.593506]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-15 13:27:21.593827]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:21.594007]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-15 13:27:22.170948]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:22.432926]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-15 13:27:22.434170]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:23.022698]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:23.315487]:[32mtoken del usuario Daniel con exito 
+ [35m[2024-04-15 13:27:23.315819]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:23.315929]:[32m El usuario Daniel ha iniciado seccion correctamente
+ [35m[2024-04-15 13:27:23.315994]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-15 13:27:26.268694]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:26.429227]:[32mtoken validado con exito!!!
+ [35m[2024-04-15 13:27:26.429561]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:27.044427]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:27.286298]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-15 13:27:27.287453]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:27.288018]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-15 13:27:27.888584]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:28.050398]:[32mtoken validado con exito!!!
+ [35m[2024-04-15 13:27:28.050694]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:28.737554]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:28.980647]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-15 13:27:28.981872]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:28.982351]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-15 13:27:30.110329]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:30.441075]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-15 13:27:30.441899]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:30.442327]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-15 13:27:31.200759]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:31.360811]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-15 13:27:31.361174]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:46.863398]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:27:47.102950]:[32mBusqueda de producto de la categoria  (alimentos) se encontraron (15) coincidencias
+ [35m[2024-04-15 13:27:47.103399]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:27:47.103543]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-15 13:28:07.763129]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:28:08.006159]:[32mBusqueda de producto de la categoria  (bebidas) se encontraron (13) coincidencias
+ [35m[2024-04-15 13:28:08.006646]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:28:08.006840]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-15 13:28:16.896977]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:28:17.056875]:[32mtoken validado con exito!!!
+ [35m[2024-04-15 13:28:17.057184]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:28:17.630592]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:28:17.792453]:[32mBusqueda del cliente [Jar] realizada con exito s eencotraron 8 coincidencas
+ [35m[2024-04-15 13:28:17.792950]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-15 13:28:21.585465]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-15 13:28:21.883243]:[32mConsulta de saldo exitosa del cliente (1170) su saldo es 0
+ [35m[2024-04-15 13:28:21.883614]:[32mDesconexión exitosa de la base de datos
