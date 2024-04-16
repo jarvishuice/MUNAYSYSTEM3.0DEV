@@ -334,6 +334,8 @@ h6{
 }
 .modalDeudasClientes{
   width:80%;
+  display: grid;
+  grid-template-columns: 40% 40%;
   height: 75vh;
   background-color: #ffffff;
 }
