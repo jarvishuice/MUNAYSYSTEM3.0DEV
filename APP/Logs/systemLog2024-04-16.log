@@ -2542,3 +2542,1305 @@
  [35m[2024-04-16 10:28:23.561857]:[32mDesconexión exitosa de la base de datos
  [35m[2024-04-16 10:28:23.562395]:[32m El usuario Jesus ha iniciado seccion correctamente
  [35m[2024-04-16 10:28:23.562778]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 11:31:55.200709]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.202011]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.202112]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.279013]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.345423]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.455873]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.457619]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.468696]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.474993]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.475070]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.483901]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.567398]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-16 11:31:55.572753]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.581580]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.592637]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.595450]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.616126]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.621422]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:31:55.621522]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:31:55.625058]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.634275]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.643561]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.643659]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.649727]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.660093]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.660189]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.661154]:[32mnew implement IPagos
+ [35m[2024-04-16 11:31:55.668573]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.670960]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:31:55.689004]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.689124]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.723307]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.727123]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.727227]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.729860]:[32mnew implement IClientes
+ [35m[2024-04-16 11:31:55.729951]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.083666]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.083864]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.084136]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.089714]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.108840]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.169025]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.170816]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.180666]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.186395]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.186499]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.196059]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.246817]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-16 11:43:03.251289]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.257927]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.268743]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.270440]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.289404]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.294151]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:43:03.294253]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:43:03.297632]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.306129]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.314978]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.315073]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.321077]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.332245]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.332344]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.333034]:[32mnew implement IPagos
+ [35m[2024-04-16 11:43:03.340613]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.343004]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:43:03.359256]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.359352]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.393443]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.396836]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.396936]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.398272]:[32mnew implement IClientes
+ [35m[2024-04-16 11:43:03.398358]:[32mnew implement IClientes
+ [35m[2024-04-16 11:48:27.797049]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:48:27.808256]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 11:48:27.808627]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:48:27.808812]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 11:48:27.885098]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:48:27.939705]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 11:48:27.940035]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:48:28.041399]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:48:28.084557]:[32mtoken del usuario Daniel con exito 
+ [35m[2024-04-16 11:48:28.084848]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:48:28.085004]:[32m El usuario Daniel ha iniciado seccion correctamente
+ [35m[2024-04-16 11:48:28.085095]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 11:49:56.208710]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:49:56.217225]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 11:49:56.217565]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:49:56.218405]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 11:49:56.278405]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:49:56.445499]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 11:49:56.445797]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:49:56.538863]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:49:56.785930]:[32mtoken del usuario nest con exito 
+ [35m[2024-04-16 11:49:56.786792]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:49:56.787364]:[32m El usuario nest ha iniciado seccion correctamente
+ [35m[2024-04-16 11:49:56.787843]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 11:53:25.020521]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:53:25.029443]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 11:53:25.029779]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:53:25.030041]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 11:53:25.061825]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:53:25.121899]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 11:53:25.122596]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:53:25.197794]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:53:25.227367]:[32mtoken del usuario nest con exito 
+ [35m[2024-04-16 11:53:25.228357]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:53:25.228865]:[32m El usuario nest ha iniciado seccion correctamente
+ [35m[2024-04-16 11:53:25.229320]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 11:54:01.038346]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.038529]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.038629]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.044308]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.061307]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.118665]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.120100]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.130764]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.140142]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.140261]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.154474]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.272315]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-16 11:54:01.278056]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.292008]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.308681]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.312064]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.340021]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.346540]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:54:01.346706]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 11:54:01.351308]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.363646]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.379103]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.379213]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.387772]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.399321]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.399445]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.400658]:[32mnew implement IPagos
+ [35m[2024-04-16 11:54:01.410589]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.412926]:[32mnew implement IOrdenes
+ [35m[2024-04-16 11:54:01.435187]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.435271]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.489317]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.494748]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.494865]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.498223]:[32mnew implement IClientes
+ [35m[2024-04-16 11:54:01.498381]:[32mnew implement IClientes
+ [35m[2024-04-16 11:55:44.007118]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:44.015137]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 11:55:44.016627]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:44.018275]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 11:55:44.049561]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:44.118066]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 11:55:44.118330]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:44.147822]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:44.173388]:[32mtoken del usuario nest con exito 
+ [35m[2024-04-16 11:55:44.173652]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:44.173768]:[32m El usuario nest ha iniciado seccion correctamente
+ [35m[2024-04-16 11:55:44.173834]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 11:55:46.249852]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:46.258647]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 11:55:46.258879]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:46.341788]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:46.351342]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 11:55:46.353758]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:46.354686]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 11:55:46.450824]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:46.458040]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 11:55:46.458606]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:46.498458]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:55:46.508614]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 11:55:46.508961]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:55:46.509094]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 11:56:05.647772]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:05.680923]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 11:56:05.681296]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:56:05.778411]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:05.806662]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 11:56:05.807197]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:56:05.807527]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 11:56:05.937060]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:05.958023]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 11:56:05.958546]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:56:06.068526]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:06.121579]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 11:56:06.121858]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:56:06.121950]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 11:56:55.680323]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:55.722321]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-16 11:56:55.722971]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:56:55.723186]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-16 11:56:55.840441]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:56:55.855627]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-16 11:56:55.856451]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:57:01.232303]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:57:01.238672]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 11:57:01.238969]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:57:01.284605]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:57:01.291220]:[32mBusqueda del cliente [gusta] realizada con exito s eencotraron 8 coincidencas
+ [35m[2024-04-16 11:57:01.291422]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:57:03.930216]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:57:03.942512]:[32mConsulta de saldo exitosa del cliente (451) su saldo es 0.0
+ [35m[2024-04-16 11:57:03.942860]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 11:59:53.740797]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 11:59:53.775732]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-16 11:59:53.778303]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:00:44.949468]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:00:45.064103]:[32mAccion registrada de manera exitosa con el id:[1713283244.9433544]
+ [35m[2024-04-16 12:00:45.064307]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:00:45.064407]:[32m[0;33m No tiene conexión abierta en estos momentos
+ [35m[2024-04-16 12:00:45.163876]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:00:45.233165]:[32mexito al actualizar el pago #[1713228257.7462847]
+ [35m[2024-04-16 12:00:45.233496]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:00:45.233594]:[32m ha finalizado la ejecucion de la ediccion de pagos 
+ [35m[2024-04-16 12:00:51.836520]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:00:51.877535]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-16 12:00:51.877713]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:00:51.878451]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:00:52.727455]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:00:52.775673]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-16 12:00:52.776858]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:16.433725]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:16.496708]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:01:16.496836]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:16.497217]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:16.633254]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:16.643177]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:01:16.643366]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:16.643861]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:16.796482]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:16.812055]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:01:16.812959]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:16.839307]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:16.885413]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:01:16.885558]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:16.885899]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:17.048396]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:17.179446]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:01:17.179588]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:17.179920]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:27.953610]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:27.963562]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-04-16 12:01:27.963790]:[32merror al intentar registrar el producto 
+ [35m[2024-04-16 12:01:27.963905]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:27.964208]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.010023]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.024054]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-04-16 12:01:28.024201]:[32merror al intentar registrar el producto 
+ [35m[2024-04-16 12:01:28.024294]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.024672]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.062423]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.073945]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:01:28.074081]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.074373]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.110053]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.127238]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:01:28.130325]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.133911]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:01:28.181550]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.202108]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:01:28.202879]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.203648]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.249721]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.265862]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:01:28.266441]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.267085]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.324620]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.361198]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:01:28.361316]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.361689]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.412192]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.426918]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:01:28.427026]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.427243]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.477541]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.494968]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:01:28.495068]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:01:28.495278]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.495654]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:01:28.496179]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:01:28.496337]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:01:28.497447]:[32mHilos creados ....
+ [35m[2024-04-16 12:01:28.501252]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:01:28.504422]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:01:28.504627]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:01:28.504723]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-16 12:02:02.771250]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:02.789245]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:02:02.789372]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:02.789631]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:02.856524]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:02.892033]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:02:02.892152]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:02.892475]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:02.980309]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.018022]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:02:03.018386]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.019069]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.113830]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.136520]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:02:03.136745]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.137324]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:02:03.216635]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.252150]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:02:03.252257]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.252489]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.330440]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.562871]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:02:03.562992]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.563204]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.637099]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.689836]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:02:03.690066]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.690546]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.754247]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.778417]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:02:03.778589]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.779141]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.839849]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:03.880595]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:02:03.880942]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:02:03.881487]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:03.883745]:[32mHilos creados ....
+ [35m[2024-04-16 12:02:03.886027]:[32mwalletesete
+ [35m[2024-04-16 12:02:03.886558]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:02:03.886606]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.886691]:[32meste es 2.0
+ [35m[2024-04-16 12:02:03.886760]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.886833]:[32meste es 6.0
+ [35m[2024-04-16 12:02:03.886898]:[32mCAJACFMesete
+ [35m[2024-04-16 12:02:03.886970]:[32mEFECTIVO $esete
+ [35m[2024-04-16 12:02:03.887041]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887114]:[32meste es 1.5
+ [35m[2024-04-16 12:02:03.887175]:[32mwalletesete
+ [35m[2024-04-16 12:02:03.887250]:[32mEFECTIVO $esete
+ [35m[2024-04-16 12:02:03.887323]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887394]:[32meste es 3.0
+ [35m[2024-04-16 12:02:03.887457]:[32mwalletesete
+ [35m[2024-04-16 12:02:03.887524]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887594]:[32meste es 2.0
+ [35m[2024-04-16 12:02:03.887655]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887721]:[32meste es 3.0
+ [35m[2024-04-16 12:02:03.887781]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887846]:[32meste es 5.0
+ [35m[2024-04-16 12:02:03.887908]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.887973]:[32meste es 7.5
+ [35m[2024-04-16 12:02:03.888036]:[32mCAJACFMesete
+ [35m[2024-04-16 12:02:03.888104]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.888170]:[32meste es 3.0
+ [35m[2024-04-16 12:02:03.888230]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.888297]:[32meste es 7.0
+ [35m[2024-04-16 12:02:03.888358]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.888424]:[32meste es 9.5
+ [35m[2024-04-16 12:02:03.888486]:[32mEFECTIVO $esete
+ [35m[2024-04-16 12:02:03.888552]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.888620]:[32meste es 3.0
+ [35m[2024-04-16 12:02:03.888681]:[32mEFECTIVO $esete
+ [35m[2024-04-16 12:02:03.888747]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:02:03.888816]:[32meste es 6.5
+ [35m[2024-04-16 12:02:03.889034]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:02:04.744484]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:02:04.744699]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-16 12:02:22.217057]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:22.255719]:[32mleyendo todos  los pagos  de la sede cfm se encontraron 100 pagos registrados  !!
+ [35m[2024-04-16 12:02:22.257333]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:02:33.960775]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:02:34.002692]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-16 12:02:34.002963]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:02:34.003926]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:03:04.840740]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:03:05.508772]:[32mleyendo todos los clientes se encontraron 1698 clientes registrados  !!
+ [35m[2024-04-16 12:03:05.509158]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:45.961799]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:45.999612]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 12:09:46.000655]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:46.001264]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 12:09:46.079389]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:46.142720]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 12:09:46.143096]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:46.195412]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:46.237811]:[32mtoken del usuario Betania con exito 
+ [35m[2024-04-16 12:09:46.238183]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:46.238364]:[32m El usuario Betania ha iniciado seccion correctamente
+ [35m[2024-04-16 12:09:46.238438]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 12:09:49.643899]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:49.666918]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:09:49.667247]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:49.708784]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:49.718258]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:09:49.718779]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:49.718992]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:09:49.843071]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:49.866585]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:09:49.867335]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:49.914655]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:09:49.922570]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:09:49.922824]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:09:49.922923]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.122449]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.149062]:[32m[0;31m Error al leer el inventario 
+ [35m[2024-04-16 12:10:20.149208]:[32merror al intentar registrar el producto 
+ [35m[2024-04-16 12:10:20.149377]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.149691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.183817]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.212536]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-04-16 12:10:20.212641]:[32merror al intentar registrar el producto 
+ [35m[2024-04-16 12:10:20.212707]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.212923]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.258841]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.274247]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:10:20.274414]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.274691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.325692]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.336162]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:10:20.337141]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.338437]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:10:20.380570]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.391599]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:10:20.391708]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.391980]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.434389]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.459654]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:10:20.459804]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.460238]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.515420]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.551559]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:10:20.551917]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.552650]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.613387]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.634726]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:10:20.635121]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.635946]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.687002]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.698732]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:10:20.698836]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:20.699046]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.699426]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:20.699942]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:10:20.700119]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:20.701402]:[32mHilos creados ....
+ [35m[2024-04-16 12:10:20.703943]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:10:20.704828]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:10:20.705026]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:10:20.705112]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-16 12:10:55.138279]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:55.156071]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:10:55.156214]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:55.156567]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:55.417775]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:55.467928]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:10:55.468037]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:55.468277]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:55.603340]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:55.646018]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:10:55.646128]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:55.646372]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:55.720633]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:55.757313]:[32mse ecncontraron (38) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:10:55.757639]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:55.758043]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:10:55.948308]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.063241]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:10:56.063358]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.063598]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.093690]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.124785]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:10:56.124887]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.125130]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.279756]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.327323]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:10:56.327541]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.328102]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.371860]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.381614]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:10:56.381940]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.382613]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.431183]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.558215]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:10:56.558374]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.559017]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.559526]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.560907]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:10:56.561145]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.563793]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-16 12:10:56.605655]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.612931]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:10:56.613081]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.613309]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.639403]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.650748]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:10:56.650844]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.651049]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:56.792943]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:56.836911]:[32mventas por p´roducvtos VAlidacion (1, Decimal('15.0'), 'DAYPASS NIGTH')
+ [35m[2024-04-16 12:10:56.837224]:[32mventas por p´roducvtos VAlidacion (5, Decimal('75.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-16 12:10:56.837456]:[32mventas por p´roducvtos VAlidacion (2, Decimal('50.0'), 'SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:10:56.837684]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:10:56.837784]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:56.838026]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.028370]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.037337]:[32mse ecncontraron (20) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:10:57.037781]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.038402]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:10:57.074090]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.082447]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:10:57.082565]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:57.083041]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.117858]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.133695]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:10:57.133836]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:57.134059]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.162338]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.178939]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:10:57.179082]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:57.179312]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.228187]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.242883]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-16 12:10:57.243003]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-16 12:10:57.243111]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:57.243387]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.274675]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.285133]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:10:57.285305]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:10:57.285523]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.285787]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:10:57.286250]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:10:57.286428]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:10:57.287191]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-16 12:10:57.290239]:[32mreporte unificado generado con exito
+ [35m[2024-04-16 12:11:06.045636]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.058710]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:11:06.058974]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.059583]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.123388]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.186052]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:11:06.186353]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.187100]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.230468]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.254254]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:11:06.254369]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.254616]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.316244]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.336610]:[32mse ecncontraron (38) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:11:06.336925]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.337758]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:11:06.399654]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.736920]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:11:06.737313]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.738101]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.789365]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.807781]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:11:06.807924]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.808183]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.842634]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.883935]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:11:06.884079]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.884315]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.926677]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:06.950785]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:11:06.950931]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:06.951160]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:06.992322]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.008284]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:11:07.008424]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.008642]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.008910]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.009481]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:11:07.009666]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.013637]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-16 12:11:07.074923]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.093165]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:11:07.093292]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.093626]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.144251]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.173206]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:11:07.173377]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.173755]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.240683]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.268662]:[32mventas por p´roducvtos VAlidacion (1, Decimal('7.5'), '1/2 SALA DE REUNION 1-4')
+ [35m[2024-04-16 12:11:07.269474]:[32mventas por p´roducvtos VAlidacion (2, Decimal('50.0'), '1/2 SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:11:07.270099]:[32mventas por p´roducvtos VAlidacion (11, Decimal('137.5'), '1/2 SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:11:07.270719]:[32mventas por p´roducvtos VAlidacion (15, Decimal('15.0'), 'COPIAS E IMPRESIONES B/N')
+ [35m[2024-04-16 12:11:07.271300]:[32mventas por p´roducvtos VAlidacion (9, Decimal('180.0'), 'DAY_PASS 12 HORAS')
+ [35m[2024-04-16 12:11:07.271856]:[32mventas por p´roducvtos VAlidacion (1, Decimal('15.0'), 'DAYPASS NIGTH')
+ [35m[2024-04-16 12:11:07.272381]:[32mventas por p´roducvtos VAlidacion (2, Decimal('80.0'), 'DAY_PASS OFICCE 1P ')
+ [35m[2024-04-16 12:11:07.272851]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO X3')
+ [35m[2024-04-16 12:11:07.273385]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO X4')
+ [35m[2024-04-16 12:11:07.273926]:[32mventas por p´roducvtos VAlidacion (2, Decimal('500.0'), 'ESCRITORIO FIJO X5')
+ [35m[2024-04-16 12:11:07.274401]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y1')
+ [35m[2024-04-16 12:11:07.274872]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y4')
+ [35m[2024-04-16 12:11:07.275336]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y5')
+ [35m[2024-04-16 12:11:07.275729]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y6')
+ [35m[2024-04-16 12:11:07.276158]:[32mventas por p´roducvtos VAlidacion (1, Decimal('100.0'), 'ESPACIO SERVIDOR')
+ [35m[2024-04-16 12:11:07.276589]:[32mventas por p´roducvtos VAlidacion (4, Decimal('600.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-16 12:11:07.277022]:[32mventas por p´roducvtos VAlidacion (2, Decimal('160.0'), 'ESPACIOS COMPARTIDO PRORRATEADO 15 DIAS')
+ [35m[2024-04-16 12:11:07.277463]:[32mventas por p´roducvtos VAlidacion (3, Decimal('300.0'), 'ESPACIOS COMPARTIDOS SIN  AMENIDADES')
+ [35m[2024-04-16 12:11:07.277858]:[32mventas por p´roducvtos VAlidacion (1, Decimal('2500.0'), 'LOCAL AN  ODONTOLOGIA ')
+ [35m[2024-04-16 12:11:07.278272]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'MALETERO')
+ [35m[2024-04-16 12:11:07.278731]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA B 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.279163]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1200.0'), 'OFICINA B1 3 PERSONAS')
+ [35m[2024-04-16 12:11:07.279586]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA C1 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.280000]:[32mventas por p´roducvtos VAlidacion (1, Decimal('450.0'), 'OFICINA D 1 PERSONA')
+ [35m[2024-04-16 12:11:07.280528]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA D1 2 PERSONA')
+ [35m[2024-04-16 12:11:07.280961]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA E 1 PERSONA')
+ [35m[2024-04-16 12:11:07.281424]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA F 1 PERSONA')
+ [35m[2024-04-16 12:11:07.281836]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA G 1 PERSONA')
+ [35m[2024-04-16 12:11:07.282265]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA H 1 PERSONA')
+ [35m[2024-04-16 12:11:07.282597]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA I1 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.282967]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA J 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.283395]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA K 4 PERSONAS')
+ [35m[2024-04-16 12:11:07.283762]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA M 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.284124]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA N 1 PERSONA')
+ [35m[2024-04-16 12:11:07.284513]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA N1 1 PERSONA')
+ [35m[2024-04-16 12:11:07.284858]:[32mventas por p´roducvtos VAlidacion (2, Decimal('2400.0'), 'OFICINA O 3 PERSONAS')
+ [35m[2024-04-16 12:11:07.285268]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1000.0'), 'OFICINA Q 3 PERSONAS')
+ [35m[2024-04-16 12:11:07.285653]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA R 4 PERSONAS')
+ [35m[2024-04-16 12:11:07.285994]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1200.0'), 'OFICINA S 3 PERSONAS')
+ [35m[2024-04-16 12:11:07.286347]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA T 1 PERSONA')
+ [35m[2024-04-16 12:11:07.286692]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA T1 1  PERSONA')
+ [35m[2024-04-16 12:11:07.287045]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA U 2 PERSONAS')
+ [35m[2024-04-16 12:11:07.287406]:[32mventas por p´roducvtos VAlidacion (1, Decimal('660.0'), 'OFICINA U1 2PERSONA')
+ [35m[2024-04-16 12:11:07.287792]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA V 1 PERSONA')
+ [35m[2024-04-16 12:11:07.288164]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA V1 2PERSONA')
+ [35m[2024-04-16 12:11:07.288526]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA W 4 PERSONAS')
+ [35m[2024-04-16 12:11:07.288863]:[32mventas por p´roducvtos VAlidacion (3, Decimal('450.0'), 'PUESTO ADICIONAL')
+ [35m[2024-04-16 12:11:07.289259]:[32mventas por p´roducvtos VAlidacion (17, Decimal('595.0'), 'SALA DE REUNION 13-20')
+ [35m[2024-04-16 12:11:07.289679]:[32mventas por p´roducvtos VAlidacion (31, Decimal('465.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-16 12:11:07.290058]:[32mventas por p´roducvtos VAlidacion (4, Decimal('40.0'), 'SALA DE REUNION 1-4 COWORKER')
+ [35m[2024-04-16 12:11:07.290458]:[32mventas por p´roducvtos VAlidacion (2, Decimal('100.0'), 'SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:11:07.290816]:[32mventas por p´roducvtos VAlidacion (37, Decimal('925.0'), 'SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:11:07.291179]:[32mventas por p´roducvtos VAlidacion (9, Decimal('180.0'), 'SALA DE REUNION 5-8 COWORKER')
+ [35m[2024-04-16 12:11:07.291528]:[32mventas por p´roducvtos VAlidacion (3, Decimal('90.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-16 12:11:07.291865]:[32mventas por p´roducvtos VAlidacion (2, Decimal('420.0'), 'SALA TARIFA PLANA 13-20')
+ [35m[2024-04-16 12:11:07.292224]:[32mventas por p´roducvtos VAlidacion (1, Decimal('150.0'), 'SALA TARIFA PLANA 5-8')
+ [35m[2024-04-16 12:11:07.292584]:[32mventas por p´roducvtos VAlidacion (3, Decimal('90.0'), 'TARJETA DE ESTACIONAMIENTO')
+ [35m[2024-04-16 12:11:07.292933]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:11:07.293239]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.293755]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.377424]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.384537]:[32mse ecncontraron (20) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:11:07.384799]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.385188]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:11:07.441128]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.485097]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:11:07.485232]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.485488]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.679113]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.721323]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:11:07.721886]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.722880]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.855896]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.886919]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:11:07.887063]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.887307]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:07.967291]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:07.984343]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:11:07.984485]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:07.984709]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:08.040272]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:08.062675]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:11:08.062787]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:11:08.063043]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:08.063346]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:11:08.063711]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:11:08.063878]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:11:08.065389]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-16 12:11:08.068785]:[32mreporte unificado generado con exito
+ [35m[2024-04-16 12:13:42.525062]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:42.543438]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:13:42.543551]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:42.543798]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:42.684063]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:42.786674]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:13:42.787010]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:42.787727]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:42.889787]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:42.951691]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:13:42.951835]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:42.952062]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.033585]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.098302]:[32mse ecncontraron (38) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:13:43.098603]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.099227]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:13:43.220255]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.362192]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:13:43.362319]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:43.362585]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.447714]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.480459]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:13:43.480603]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:43.480837]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.582231]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.619585]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:13:43.619718]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:43.619976]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.712514]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.742683]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:13:43.743137]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:43.744081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.842386]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.871959]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:13:43.872349]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:43.873124]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.874012]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:43.875930]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:13:43.876560]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:43.893942]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-16 12:13:43.945851]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.001353]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:13:44.001456]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.001740]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.074969]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.127606]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:13:44.128072]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.128549]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.167186]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.196497]:[32mventas por p´roducvtos VAlidacion (1, Decimal('17.5'), '1/2 SALA DE REUNION 13-20')
+ [35m[2024-04-16 12:13:44.196708]:[32mventas por p´roducvtos VAlidacion (4, Decimal('30.0'), '1/2 SALA DE REUNION 1-4')
+ [35m[2024-04-16 12:13:44.196922]:[32mventas por p´roducvtos VAlidacion (1, Decimal('25.0'), '1/2 SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:13:44.197204]:[32mventas por p´roducvtos VAlidacion (6, Decimal('75.0'), '1/2 SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:13:44.197404]:[32mventas por p´roducvtos VAlidacion (10, Decimal('10.0'), 'COPIAS E IMPRESIONES B/N')
+ [35m[2024-04-16 12:13:44.197492]:[32mventas por p´roducvtos VAlidacion (11, Decimal('22.0'), 'COPIAS E IMPRESIONES COLOR')
+ [35m[2024-04-16 12:13:44.197590]:[32mventas por p´roducvtos VAlidacion (8, Decimal('160.0'), 'DAY_PASS 12 HORAS')
+ [35m[2024-04-16 12:13:44.197661]:[32mventas por p´roducvtos VAlidacion (2, Decimal('30.0'), 'DAYPASS NIGTH')
+ [35m[2024-04-16 12:13:44.197728]:[32mventas por p´roducvtos VAlidacion (4, Decimal('160.0'), 'DAY_PASS OFICCE 1P ')
+ [35m[2024-04-16 12:13:44.197795]:[32mventas por p´roducvtos VAlidacion (3, Decimal('750.0'), 'ESCRITORIO FIJO X2')
+ [35m[2024-04-16 12:13:44.197862]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO X3')
+ [35m[2024-04-16 12:13:44.197926]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO X4')
+ [35m[2024-04-16 12:13:44.197990]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO X5')
+ [35m[2024-04-16 12:13:44.198055]:[32mventas por p´roducvtos VAlidacion (1, Decimal('250.0'), 'ESCRITORIO FIJO Y1')
+ [35m[2024-04-16 12:13:44.198119]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y3')
+ [35m[2024-04-16 12:13:44.198183]:[32mventas por p´roducvtos VAlidacion (2, Decimal('400.0'), 'ESCRITORIO FIJO Y4')
+ [35m[2024-04-16 12:13:44.198248]:[32mventas por p´roducvtos VAlidacion (2, Decimal('400.0'), 'ESCRITORIO FIJO Y5')
+ [35m[2024-04-16 12:13:44.198314]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y6')
+ [35m[2024-04-16 12:13:44.198379]:[32mventas por p´roducvtos VAlidacion (1, Decimal('100.0'), 'ESPACIO SERVIDOR')
+ [35m[2024-04-16 12:13:44.198446]:[32mventas por p´roducvtos VAlidacion (7, Decimal('1050.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-16 12:13:44.198512]:[32mventas por p´roducvtos VAlidacion (2, Decimal('5000.0'), 'LOCAL AN  ODONTOLOGIA ')
+ [35m[2024-04-16 12:13:44.198579]:[32mventas por p´roducvtos VAlidacion (1, Decimal('10.0'), 'LOCKERS')
+ [35m[2024-04-16 12:13:44.198643]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'MALETERO')
+ [35m[2024-04-16 12:13:44.198707]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA B 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.198771]:[32mventas por p´roducvtos VAlidacion (2, Decimal('2400.0'), 'OFICINA B1 3 PERSONAS')
+ [35m[2024-04-16 12:13:44.198836]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1400.0'), 'OFICINA C1 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.198900]:[32mventas por p´roducvtos VAlidacion (2, Decimal('900.0'), 'OFICINA D 1 PERSONA')
+ [35m[2024-04-16 12:13:44.198963]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1200.0'), 'OFICINA D1 2 PERSONA')
+ [35m[2024-04-16 12:13:44.199028]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA E 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199093]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA F 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199158]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA G 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199222]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA H 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199364]:[32mventas por p´roducvtos VAlidacion (1, Decimal('550.0'), 'OFICINA I 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199433]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1200.0'), 'OFICINA I1 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.199503]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1600.0'), 'OFICINA J 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.199568]:[32mventas por p´roducvtos VAlidacion (2, Decimal('2700.0'), 'OFICINA K 4 PERSONAS')
+ [35m[2024-04-16 12:13:44.199633]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA L 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.199698]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1400.0'), 'OFICINA M 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.199772]:[32mventas por p´roducvtos VAlidacion (2, Decimal('800.0'), 'OFICINA N 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199838]:[32mventas por p´roducvtos VAlidacion (2, Decimal('700.0'), 'OFICINA N1 1 PERSONA')
+ [35m[2024-04-16 12:13:44.199902]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1200.0'), 'OFICINA O 3 PERSONAS')
+ [35m[2024-04-16 12:13:44.199968]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1900.0'), 'OFICINA Q 3 PERSONAS')
+ [35m[2024-04-16 12:13:44.200033]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1600.0'), 'OFICINA R 4 PERSONAS')
+ [35m[2024-04-16 12:13:44.200097]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1200.0'), 'OFICINA S 3 PERSONAS')
+ [35m[2024-04-16 12:13:44.200162]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1000.0'), 'OFICINA S PRORRATIADA')
+ [35m[2024-04-16 12:13:44.200226]:[32mventas por p´roducvtos VAlidacion (2, Decimal('800.0'), 'OFICINA T 1 PERSONA')
+ [35m[2024-04-16 12:13:44.200290]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA T1 1  PERSONA')
+ [35m[2024-04-16 12:13:44.200354]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1000.0'), 'OFICINA U 2 PERSONAS')
+ [35m[2024-04-16 12:13:44.200418]:[32mventas por p´roducvtos VAlidacion (2, Decimal('1320.0'), 'OFICINA U1 2PERSONA')
+ [35m[2024-04-16 12:13:44.200483]:[32mventas por p´roducvtos VAlidacion (2, Decimal('950.0'), 'OFICINA V 1 PERSONA')
+ [35m[2024-04-16 12:13:44.200548]:[32mventas por p´roducvtos VAlidacion (2, Decimal('2700.0'), 'OFICINA W 4 PERSONAS')
+ [35m[2024-04-16 12:13:44.200612]:[32mventas por p´roducvtos VAlidacion (6, Decimal('900.0'), 'PUESTO ADICIONAL')
+ [35m[2024-04-16 12:13:44.200675]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'RESERVA CONSULTORIO 4')
+ [35m[2024-04-16 12:13:44.200738]:[32mventas por p´roducvtos VAlidacion (9, Decimal('315.0'), 'SALA DE REUNION 13-20')
+ [35m[2024-04-16 12:13:44.200801]:[32mventas por p´roducvtos VAlidacion (53, Decimal('795.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-16 12:13:44.200865]:[32mventas por p´roducvtos VAlidacion (8, Decimal('80.0'), 'SALA DE REUNION 1-4 COWORKER')
+ [35m[2024-04-16 12:13:44.200928]:[32mventas por p´roducvtos VAlidacion (4, Decimal('200.0'), 'SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:13:44.201017]:[32mventas por p´roducvtos VAlidacion (8, Decimal('400.0'), 'SALA DE REUNION 31-40 COWORKER')
+ [35m[2024-04-16 12:13:44.201130]:[32mventas por p´roducvtos VAlidacion (21, Decimal('525.0'), 'SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:13:44.201220]:[32mventas por p´roducvtos VAlidacion (8, Decimal('160.0'), 'SALA DE REUNION 5-8 COWORKER')
+ [35m[2024-04-16 12:13:44.201310]:[32mventas por p´roducvtos VAlidacion (6, Decimal('180.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-16 12:13:44.201398]:[32mventas por p´roducvtos VAlidacion (2, Decimal('50.0'), 'SALA DE REUNION 9-12 COWORKER')
+ [35m[2024-04-16 12:13:44.201485]:[32mventas por p´roducvtos VAlidacion (1, Decimal('150.0'), 'SALA TARIFA PLANA 5-8')
+ [35m[2024-04-16 12:13:44.201574]:[32mventas por p´roducvtos VAlidacion (1, Decimal('30.0'), 'TARJETA DE ESTACIONAMIENTO')
+ [35m[2024-04-16 12:13:44.201670]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:13:44.201741]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.202021]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.262102]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.274517]:[32mse ecncontraron (20) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:13:44.275241]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.276234]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:13:44.372105]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.436732]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:13:44.436954]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.437465]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.492588]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.505885]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:13:44.506030]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.506278]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.565733]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.610324]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:13:44.610439]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.610668]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.730833]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.739771]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:13:44.739901]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.740240]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.810869]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.833934]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:13:44.834346]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:13:44.835196]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.836208]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:13:44.837697]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:13:44.838281]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:13:44.844948]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-16 12:13:44.856395]:[32mreporte unificado generado con exito
+ [35m[2024-04-16 12:15:52.434948]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:52.468317]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:15:52.468695]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:52.469584]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:52.521584]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:52.594977]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:15:52.595091]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:52.595379]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:52.646451]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:52.670813]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:15:52.670913]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:52.671165]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:52.737349]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:52.766257]:[32mse ecncontraron (38) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:15:52.766581]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:52.766988]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:15:52.839913]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:52.986639]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:15:52.986826]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:52.987264]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.100893]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.123484]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:15:53.123588]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.123797]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.246188]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.285893]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:15:53.286034]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.286301]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.357813]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.393819]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:15:53.393976]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.394335]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.496818]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.556171]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:15:53.556656]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.557619]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.560670]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.562951]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:15:53.563649]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.623883]:[32mintegracion del core cierre Coffe Realizado con exito
+ [35m[2024-04-16 12:15:53.723365]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.773954]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:15:53.774059]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.774419]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:53.890999]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:53.953010]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:15:53.953123]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:53.953357]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.090506]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.116287]:[32mventas por p´roducvtos VAlidacion (1, Decimal('17.5'), '1/2 SALA DE REUNION 13-20')
+ [35m[2024-04-16 12:15:54.117220]:[32mventas por p´roducvtos VAlidacion (4, Decimal('30.0'), '1/2 SALA DE REUNION 1-4')
+ [35m[2024-04-16 12:15:54.117877]:[32mventas por p´roducvtos VAlidacion (1, Decimal('25.0'), '1/2 SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:15:54.118495]:[32mventas por p´roducvtos VAlidacion (5, Decimal('62.5'), '1/2 SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:15:54.119093]:[32mventas por p´roducvtos VAlidacion (10, Decimal('10.0'), 'COPIAS E IMPRESIONES B/N')
+ [35m[2024-04-16 12:15:54.119657]:[32mventas por p´roducvtos VAlidacion (11, Decimal('22.0'), 'COPIAS E IMPRESIONES COLOR')
+ [35m[2024-04-16 12:15:54.120223]:[32mventas por p´roducvtos VAlidacion (8, Decimal('160.0'), 'DAY_PASS 12 HORAS')
+ [35m[2024-04-16 12:15:54.120790]:[32mventas por p´roducvtos VAlidacion (2, Decimal('30.0'), 'DAYPASS NIGTH')
+ [35m[2024-04-16 12:15:54.121373]:[32mventas por p´roducvtos VAlidacion (3, Decimal('120.0'), 'DAY_PASS OFICCE 1P ')
+ [35m[2024-04-16 12:15:54.121940]:[32mventas por p´roducvtos VAlidacion (3, Decimal('750.0'), 'ESCRITORIO FIJO X2')
+ [35m[2024-04-16 12:15:54.122481]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y3')
+ [35m[2024-04-16 12:15:54.123011]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y4')
+ [35m[2024-04-16 12:15:54.123523]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'ESCRITORIO FIJO Y5')
+ [35m[2024-04-16 12:15:54.124055]:[32mventas por p´roducvtos VAlidacion (1, Decimal('100.0'), 'ESPACIO SERVIDOR')
+ [35m[2024-04-16 12:15:54.124569]:[32mventas por p´roducvtos VAlidacion (3, Decimal('450.0'), 'ESPACIOS COMPARTIDO')
+ [35m[2024-04-16 12:15:54.125128]:[32mventas por p´roducvtos VAlidacion (1, Decimal('2500.0'), 'LOCAL AN  ODONTOLOGIA ')
+ [35m[2024-04-16 12:15:54.125654]:[32mventas por p´roducvtos VAlidacion (1, Decimal('10.0'), 'LOCKERS')
+ [35m[2024-04-16 12:15:54.133511]:[32mventas por p´roducvtos VAlidacion (1, Decimal('200.0'), 'MALETERO')
+ [35m[2024-04-16 12:15:54.133922]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1200.0'), 'OFICINA B1 3 PERSONAS')
+ [35m[2024-04-16 12:15:54.134305]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA C1 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.134745]:[32mventas por p´roducvtos VAlidacion (1, Decimal('450.0'), 'OFICINA D 1 PERSONA')
+ [35m[2024-04-16 12:15:54.135194]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA D1 2 PERSONA')
+ [35m[2024-04-16 12:15:54.135623]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA E 1 PERSONA')
+ [35m[2024-04-16 12:15:54.136075]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA F 1 PERSONA')
+ [35m[2024-04-16 12:15:54.136518]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA G 1 PERSONA')
+ [35m[2024-04-16 12:15:54.137029]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA H 1 PERSONA')
+ [35m[2024-04-16 12:15:54.137954]:[32mventas por p´roducvtos VAlidacion (1, Decimal('550.0'), 'OFICINA I 1 PERSONA')
+ [35m[2024-04-16 12:15:54.138511]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA I1 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.138958]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA J 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.139486]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA K 4 PERSONAS')
+ [35m[2024-04-16 12:15:54.140034]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'OFICINA L 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.140538]:[32mventas por p´roducvtos VAlidacion (1, Decimal('700.0'), 'OFICINA M 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.141104]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA N 1 PERSONA')
+ [35m[2024-04-16 12:15:54.141631]:[32mventas por p´roducvtos VAlidacion (1, Decimal('350.0'), 'OFICINA N1 1 PERSONA')
+ [35m[2024-04-16 12:15:54.142127]:[32mventas por p´roducvtos VAlidacion (1, Decimal('900.0'), 'OFICINA Q 3 PERSONAS')
+ [35m[2024-04-16 12:15:54.142608]:[32mventas por p´roducvtos VAlidacion (1, Decimal('800.0'), 'OFICINA R 4 PERSONAS')
+ [35m[2024-04-16 12:15:54.143040]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1000.0'), 'OFICINA S PRORRATIADA')
+ [35m[2024-04-16 12:15:54.143472]:[32mventas por p´roducvtos VAlidacion (1, Decimal('400.0'), 'OFICINA T 1 PERSONA')
+ [35m[2024-04-16 12:15:54.143910]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA T1 1  PERSONA')
+ [35m[2024-04-16 12:15:54.144303]:[32mventas por p´roducvtos VAlidacion (1, Decimal('500.0'), 'OFICINA U 2 PERSONAS')
+ [35m[2024-04-16 12:15:54.144665]:[32mventas por p´roducvtos VAlidacion (1, Decimal('660.0'), 'OFICINA U1 2PERSONA')
+ [35m[2024-04-16 12:15:54.145030]:[32mventas por p´roducvtos VAlidacion (1, Decimal('450.0'), 'OFICINA V 1 PERSONA')
+ [35m[2024-04-16 12:15:54.145428]:[32mventas por p´roducvtos VAlidacion (1, Decimal('1350.0'), 'OFICINA W 4 PERSONAS')
+ [35m[2024-04-16 12:15:54.145770]:[32mventas por p´roducvtos VAlidacion (3, Decimal('450.0'), 'PUESTO ADICIONAL')
+ [35m[2024-04-16 12:15:54.146148]:[32mventas por p´roducvtos VAlidacion (1, Decimal('600.0'), 'RESERVA CONSULTORIO 4')
+ [35m[2024-04-16 12:15:54.146490]:[32mventas por p´roducvtos VAlidacion (9, Decimal('315.0'), 'SALA DE REUNION 13-20')
+ [35m[2024-04-16 12:15:54.146855]:[32mventas por p´roducvtos VAlidacion (53, Decimal('795.0'), 'SALA DE REUNION 1-4 ')
+ [35m[2024-04-16 12:15:54.147235]:[32mventas por p´roducvtos VAlidacion (5, Decimal('50.0'), 'SALA DE REUNION 1-4 COWORKER')
+ [35m[2024-04-16 12:15:54.147571]:[32mventas por p´roducvtos VAlidacion (2, Decimal('100.0'), 'SALA DE REUNION 21-30')
+ [35m[2024-04-16 12:15:54.147963]:[32mventas por p´roducvtos VAlidacion (8, Decimal('400.0'), 'SALA DE REUNION 31-40 COWORKER')
+ [35m[2024-04-16 12:15:54.148337]:[32mventas por p´roducvtos VAlidacion (18, Decimal('450.0'), 'SALA DE REUNION 5-8')
+ [35m[2024-04-16 12:15:54.148621]:[32mventas por p´roducvtos VAlidacion (2, Decimal('40.0'), 'SALA DE REUNION 5-8 COWORKER')
+ [35m[2024-04-16 12:15:54.148895]:[32mventas por p´roducvtos VAlidacion (3, Decimal('90.0'), 'SALA DE REUNION 9-12')
+ [35m[2024-04-16 12:15:54.149464]:[32mventas por p´roducvtos VAlidacion (2, Decimal('50.0'), 'SALA DE REUNION 9-12 COWORKER')
+ [35m[2024-04-16 12:15:54.149665]:[32mventas por p´roducvtos VAlidacion (1, Decimal('150.0'), 'SALA TARIFA PLANA 5-8')
+ [35m[2024-04-16 12:15:54.149883]:[32mventas por p´roducvtos VAlidacion (1, Decimal('30.0'), 'TARJETA DE ESTACIONAMIENTO')
+ [35m[2024-04-16 12:15:54.150101]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:15:54.150228]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.150697]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.373713]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.433747]:[32mse ecncontraron (20) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:15:54.434017]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.434385]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:15:54.482552]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.523978]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:15:54.524270]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.525070]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.602513]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.629251]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:15:54.629586]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.630383]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.693811]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.717675]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:15:54.718035]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.718745]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.755483]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.768411]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:15:54.768515]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.768726]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.817394]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.860101]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:15:54.860205]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:15:54.860411]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.860671]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:15:54.861079]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:15:54.861213]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:15:54.863914]:[32mintegracion del core cierre espacios realizada con exito
+ [35m[2024-04-16 12:15:54.867103]:[32mreporte unificado generado con exito
+ [35m[2024-04-16 12:17:01.800150]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:17:01.823289]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:17:01.823409]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:17:01.823663]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:17:01.900175]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:17:01.919900]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:17:01.920009]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:17:01.920255]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:17:02.051815]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:17:02.051959]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:17:02.190650]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:17:02.190952]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:17:02.191915]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:17:02.193201]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:17:02.193698]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:17:02.496245]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:17:02.504376]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:17:02.504668]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:17:02.504989]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:41.995202]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:42.002491]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 12:18:42.002757]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:42.003044]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 12:18:42.040087]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:42.060984]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 12:18:42.061312]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:42.092331]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:42.120284]:[32mtoken del usuario Gabriela con exito 
+ [35m[2024-04-16 12:18:42.120601]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:42.120726]:[32m El usuario Gabriela ha iniciado seccion correctamente
+ [35m[2024-04-16 12:18:42.120826]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 12:18:45.165643]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:45.172671]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:18:45.173438]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:45.221198]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:45.230318]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:18:45.231044]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:45.231357]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:18:45.277165]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:45.286738]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:18:45.286969]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:45.328846]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:18:45.339490]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:18:45.339771]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:18:45.339860]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:19:14.459915]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:14.491906]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-16 12:19:14.492340]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:14.492491]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-16 12:19:14.530720]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:14.535016]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-16 12:19:14.535354]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:25.120269]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:25.158635]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:19:25.159327]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:25.264336]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:25.279907]:[32mBusqueda del cliente [Prueba] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-16 12:19:25.280949]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:27.359793]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:27.373091]:[32mConsulta de saldo exitosa del cliente (1534) su saldo es 0
+ [35m[2024-04-16 12:19:27.373793]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:37.830475]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:37.842561]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:19:37.842822]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:37.874845]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:37.938335]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:37.956935]:[32mConsulta de saldo exitosa del cliente (1534) su saldo es 0
+ [35m[2024-04-16 12:19:37.957411]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:37.957590]:[32m[0;33morden cargada como cargo a cuenyta 
+ [35m[2024-04-16 12:19:38.125860]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:38.557998]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:38.658499]:[32mDescuento de producto (55 6)  en la sede cfm realizado de manera satisfactoria  :[idOrden=1713284377.843197 idProducto=55 cantidad=6 total=24.0]
+ [35m[2024-04-16 12:19:38.659689]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:38.660335]:[32mPedido creado de manera exitosa :[idOrden=1713284377.843197 idProducto=55 cantidad=6 total=24.0]
+ [35m[2024-04-16 12:19:38.660811]:[32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m[2024-04-16 12:19:38.661959]:[32mpedidos registrado con exito 
+ [35m[2024-04-16 12:19:38.663182]:[32mfinalizada el registro de multiples pedidos 
+ [35m[2024-04-16 12:19:38.663629]:[32mOrden creada de manera exitosa con el id:[1713284377.843197]
+ [35m[2024-04-16 12:19:38.664543]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:41.409469]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:41.433809]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-16 12:19:41.434627]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:50.166551]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:50.197530]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-16 12:19:50.197639]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:19:50.197862]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:53.871199]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:53.882385]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:19:53.882615]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:19:53.933515]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:19:53.943524]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:19:53.943767]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.164617]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.169415]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:20:14.169675]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.187128]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.196201]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-16 12:20:14.196495]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.226501]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.242165]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:20:14.242500]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.242584]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:20:14.387779]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.412495]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:20:14.412832]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.490328]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.501671]:[32mse ecncontraron (1) de pedidos  en la sede cfm del cliente 1534 .....!
+ [35m[2024-04-16 12:20:14.502496]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.597955]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.608516]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:20:14.609465]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.658939]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:14.666563]:[32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m[2024-04-16 12:20:14.667307]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:14.667664]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:20:44.905395]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:44.912027]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:20:44.912286]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:44.953360]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:45.021660]:[32mpago regiustrado de manera satisfactoira 1713284444.9534485
+ [35m[2024-04-16 12:20:45.022074]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:45.022236]:[32mfinalizado el registro del pago 1713284444.9534485
+ [35m[2024-04-16 12:20:45.089462]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:45.152818]:[32mAbono registrado con exito!!! detail [id=1713284445.022401 idCliente=1534 idPago='1713284444.9534485' status='aplicado' monto=10.0 sede='cfm']
+ [35m[2024-04-16 12:20:45.154034]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:20:45.154497]:[32mAbono registrado de anera correcta
+ [35m[2024-04-16 12:20:45.154870]:[32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m[2024-04-16 12:20:45.155213]:[32m ha finalizado la ejecuscion del registro de abonos
+ [35m[2024-04-16 12:20:48.665848]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:20:48.678299]:[32mAbono registrado con exito!!! detail 
+ [35m[2024-04-16 12:20:48.678551]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:02.720645]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:02.744040]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:21:02.744143]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:02.744355]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:02.851678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:02.890826]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:21:02.891098]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:02.891710]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.013640]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.038608]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:21:03.039062]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.040008]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.137167]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.165453]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:21:03.165712]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.166111]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:21:03.210408]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.263321]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:21:03.263443]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.263685]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.362073]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.393992]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:21:03.394159]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.394517]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.482507]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.561675]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:21:03.562112]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.562955]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.666445]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.706178]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:21:03.706322]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.706562]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.785089]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.809801]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:21:03.809903]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:03.810139]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.810402]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:03.810827]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:21:03.810962]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:03.812247]:[32mHilos creados ....
+ [35m[2024-04-16 12:21:03.813942]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:21:03.814460]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:21:03.814510]:[32meste es 40.5
+ [35m[2024-04-16 12:21:03.814674]:[32mPAY PALLesete
+ [35m[2024-04-16 12:21:03.814975]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:21:03.815149]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:21:03.815218]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-16 12:21:04.008666]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:04.063929]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:21:04.065157]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:04.152438]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:04.179069]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:21:04.181888]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.399615]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:21.417577]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:21:21.417685]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:21.417920]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.462721]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:21.481782]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:21:21.481891]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:21.482122]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.559234]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:21.611229]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:21:21.611330]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:21.611588]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.752050]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:21.782460]:[32mse ecncontraron (39) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:21:21.783451]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.785158]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:21:21.871753]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:21.901110]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:21:21.901562]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:21.902096]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:21.981091]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:22.000576]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:21:22.000719]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:22.000950]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:22.051527]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:22.103604]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:21:22.103717]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:22.103990]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:22.170085]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:22.221400]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:21:22.221686]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:22.222217]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:22.369927]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:22.410129]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:21:22.410656]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:21:22.411623]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:22.412762]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:21:22.415312]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:21:22.416014]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:21:22.421050]:[32mHilos creados ....
+ [35m[2024-04-16 12:21:22.426724]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:21:22.428934]:[32meste es 40.5
+ [35m[2024-04-16 12:21:22.429320]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:21:22.430435]:[32mPAY PALLesete
+ [35m[2024-04-16 12:21:22.431048]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:21:22.431574]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:21:22.431827]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-16 12:22:32.220228]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:22:32.232579]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:22:32.233506]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:22:32.310939]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:22:32.325866]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:22:32.326801]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:22:32.327147]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:22:43.515035]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:22:43.545590]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:22:43.546108]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:22:43.619960]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:22:43.626409]:[32mBusqueda del cliente [Prueba] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-16 12:22:43.627084]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:05.663689]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:05.673377]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:23:05.674330]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:05.732766]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:05.782007]:[32mpago regiustrado de manera satisfactoira 1713284585.7330341
+ [35m[2024-04-16 12:23:05.783087]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:05.783521]:[32mfinalizado el registro del pago 1713284585.7330341
+ [35m[2024-04-16 12:23:05.847379]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:05.889547]:[32mrecarga  de wallet realizado de manera correcta (id=1713284585.783999 idcliente=1534 monto=50.0 idpago='1713284585.7330341' status='aplicado') 
+ [35m[2024-04-16 12:23:05.889837]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:05.889942]:[32mRecarga de (50.0 $) al  wallet  del cliente 1534 realizada de manera satisfactoria
+ [35m[2024-04-16 12:23:05.890010]:[32mfinalizada  la recarga de wallet !!!
+ [35m[2024-04-16 12:23:15.732686]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:15.777942]:[32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m[2024-04-16 12:23:15.778233]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:15.778315]:[32mFinalizada la busqueda de productos por categoria 
+ [35m[2024-04-16 12:23:15.839702]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:15.847363]:[32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m[2024-04-16 12:23:15.847722]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:26.097154]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:26.111950]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:23:26.112325]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:26.154950]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:26.162378]:[32mBusqueda del cliente [Prueba] realizada con exito s eencotraron 1 coincidencas
+ [35m[2024-04-16 12:23:26.163192]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:23:27.500502]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:23:27.506409]:[32mConsulta de saldo exitosa del cliente (1534) su saldo es 50.0
+ [35m[2024-04-16 12:23:27.506688]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:17.096726]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:17.132713]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-16 12:52:17.132911]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:52:17.133378]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:21.362963]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:21.372192]:[32mAccion registrada de manera exitosa con el id:[1713286341.3547678]
+ [35m[2024-04-16 12:52:21.372391]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:21.372515]:[32m[0;33m No tiene conexión abierta en estos momentos
+ [35m[2024-04-16 12:52:21.416357]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:21.474427]:[32mla orden 1713284377.843197  fue eliminada con exito
+ [35m[2024-04-16 12:52:21.474593]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:52:21.474928]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:34.356960]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:34.365059]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:52:34.365535]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:34.405883]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:34.413190]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:52:34.413476]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:34.413595]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:52:34.502430]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:34.509372]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 12:52:34.510478]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:34.562120]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:34.579448]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 12:52:34.580304]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:52:34.580961]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:52:40.544718]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:52:40.575794]:[32mordenes de la sede cfm extraida con exito 
+ [35m[2024-04-16 12:52:40.576411]:[32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m[2024-04-16 12:52:40.577492]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:11.788869]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:11.797998]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:55:11.798536]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:11.799298]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:11.859687]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:11.882020]:[32mPagos extraida de manera correcta
+ [35m[2024-04-16 12:55:11.882859]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:11.885721]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:11.933186]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:11.944958]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-16 12:55:11.945115]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:11.945378]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:11.987643]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:11.998124]:[32mse ecncontraron (36) deudas  en la sede cfm .....!
+ [35m[2024-04-16 12:55:12.002832]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.003967]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-16 12:55:12.046086]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.056946]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-16 12:55:12.057102]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:12.057901]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.103545]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.131004]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-16 12:55:12.131127]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:12.131485]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.172517]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.196336]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-16 12:55:12.196468]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:12.196760]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.231939]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.244865]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-16 12:55:12.244970]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:12.245322]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.280121]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.306151]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-16 12:55:12.307228]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 12:55:12.307982]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.308850]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 12:55:12.310378]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-16 12:55:12.310790]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 12:55:12.315602]:[32mHilos creados ....
+ [35m[2024-04-16 12:55:12.321175]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:55:12.324361]:[32mYa arrancaron los hilos
+ [35m[2024-04-16 12:55:12.324538]:[32meste es 40.5
+ [35m[2024-04-16 12:55:12.325132]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:55:12.325513]:[32meste es 45.0
+ [35m[2024-04-16 12:55:12.325831]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:55:12.326175]:[32meste es 2.0
+ [35m[2024-04-16 12:55:12.326496]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:55:12.326831]:[32meste es 10.5
+ [35m[2024-04-16 12:55:12.327201]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-16 12:55:12.327509]:[32meste es 8.5
+ [35m[2024-04-16 12:55:12.328106]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-16 12:55:12.328708]:[32mreporte de inventario generado con exito
+ [35m[2024-04-16 12:55:12.329100]:[32mfinalizado el reporte de inventario de la sede cfm

@@ -67,7 +67,7 @@ export function SideBar(props: any): any {
         > 
        
       <ModalClose id="close-icon" sx={{ position: 'initial' }} onClick={()=> setOpen(false)} />
-          <Toolbar> <img src="http://10.10.2.224:8050/assets/logonest.png" className='Logo-Sidebar' alt="" /> </Toolbar>
+          <Toolbar> <img src="http://192.168.12.222:8050/assets/logonest.png" className='Logo-Sidebar' alt="" /> </Toolbar>
           <Divider className='divider'></Divider>
           <UsuarioInfoCard 
            usuario={FotoPerfil.nombreusuario??"nest"} imagenPerfil={FotoPerfil.urlImagen}>

@@ -27,7 +27,7 @@ async function deleteORder(idOrder:string){
     const ControladorOrdenes = new OrdenesDAO();
     const data = await ControladorOrdenes.deleteOrden(idOrder,credenciales.id,credenciales.nombreusuario,sede);
     alert(`Orden #${idOrder} eliminada: ${data}`);
-    window.location.reload()
+    //window.location.reload()
   } catch (error) {
    alert(error);
   }
