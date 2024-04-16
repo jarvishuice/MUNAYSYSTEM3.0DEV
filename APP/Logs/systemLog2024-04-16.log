@@ -1,0 +1,54 @@
+ [35m[2024-04-16 09:17:49.671200]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.671383]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:49.671466]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.678557]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:49.695557]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:49.758647]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:49.760705]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.770595]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.777642]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.777737]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.789369]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.867719]:[32mnew implement Ifinance -> TazaDollar
+ [35m[2024-04-16 09:17:49.873295]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.885527]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.911557]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.915542]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.938856]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.949463]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 09:17:49.949619]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-16 09:17:49.954730]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.964884]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:49.974565]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.974657]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.980770]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.991733]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:49.991829]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:49.992812]:[32mnew implement IPagos
+ [35m[2024-04-16 09:17:50.000913]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:50.003367]:[32mnew implement IOrdenes
+ [35m[2024-04-16 09:17:50.023693]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.023796]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.058894]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.062912]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.063010]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.065730]:[32mnew implement IClientes
+ [35m[2024-04-16 09:17:50.065814]:[32mnew implement IClientes
+ [35m[2024-04-16 09:18:03.851320]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:04.084132]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:04.084540]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 09:18:05.288602]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:05.296932]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:05.420587]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:05.461734]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:05.611703]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:05.753284]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:05.753686]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 09:18:05.755391]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 09:18:05.756153]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 09:18:40.977511]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:41.138056]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:41.138955]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 09:18:42.021373]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 09:18:42.361540]:[32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m[2024-04-16 09:18:42.361880]:[32mDesconexión exitosa de la base de datos
