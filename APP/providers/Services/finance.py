@@ -1,6 +1,6 @@
 import requests
 class Finance:
-    __urlBCV = 'https://pydolarvenezuela-api.vercel.app/api/v1/dollar/page?page=bcv'
+    __urlBCV = 'https://pydolarvenezuela-api.vercel.app/api/v1/dollar/unit/bcv'
     def __init__(self):
         pass
     def getTasaBcv(self):
@@ -17,6 +17,8 @@ class Finance:
         if response.status_code == 200:
             data =  response.json()
             dataConvert = dict(data)
-            return float(dataConvert['monitors']['usd']['price'])
+            return dataConvert
         else:
             return False
+def main():
+    print(Finance().getTasaBcv())
