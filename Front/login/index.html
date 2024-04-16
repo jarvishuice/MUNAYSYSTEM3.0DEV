@@ -127,11 +127,16 @@ button{
 
                 if (response.ok) {
                     const data = await response.json();
-                    alert(`Hola ${data.nombreusuario}, bienvenido a MunaySystem`);
+                    alert(`Hola ${data.nombreusuario} ${data.tipoUsuario}, bienvenido a MunaySystem`);
                     localStorage.setItem('sede', sede);
                     localStorage.setItem('user',JSON.stringify({id:data.id,nombre:data.nombre,apellido:data.apellido,ci:data.ci,nombreusuario:data.nombreusuario,password:data.password,token:data.token,status:data.status,tiposUsuario:data.tiposUsuario,urlImagen:data.urlImagen}));
                     localStorage.setItem('token',data.token);
-                    window.location.href = 'http://10.10.2.224:8050/administraccion/index.html';
+                    
+                    if((data.tipoUsuario == 3) || (data.tipoUsuario == '3')){
+                    window.location.href = 'http://10.10.2.224:8050/administraccion/index.html';}
+                    else{
+                    window.location.href = 'http://10.10.2.224:8050/coffe/index.html';}
+
                 } else {
                     alert(`Error: ${response.status}`);
                 }

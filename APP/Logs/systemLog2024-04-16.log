@@ -2395,3 +2395,150 @@
  [35m[2024-04-16 10:13:04.256896]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
  [35m[2024-04-16 10:13:04.257214]:[32mDesconexión exitosa de la base de datos
  [35m[2024-04-16 10:13:04.257301]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:21:32.888415]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:33.050586]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:21:33.051108]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:33.051361]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:21:33.626445]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:34.071217]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:21:34.071519]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:35.090918]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:35.708743]:[32mtoken del usuario nest con exito 
+ [35m[2024-04-16 10:21:35.709035]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:35.709190]:[32m El usuario nest ha iniciado seccion correctamente
+ [35m[2024-04-16 10:21:35.709276]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:21:39.254772]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:39.413820]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:21:39.414152]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:39.994204]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:40.235499]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 10:21:40.236273]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:40.236422]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:21:40.903582]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:41.068206]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:21:41.069766]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:42.686481]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:21:42.926750]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 10:21:42.927070]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:21:42.927161]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:22:29.345359]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:29.506741]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:22:29.507135]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:29.507438]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:22:30.079499]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:30.388802]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:22:30.389995]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:30.986095]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:31.245763]:[32mtoken del usuario Jesus con exito 
+ [35m[2024-04-16 10:22:31.246030]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:31.246160]:[32m El usuario Jesus ha iniciado seccion correctamente
+ [35m[2024-04-16 10:22:31.246240]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:22:33.973718]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:34.137035]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:22:34.137635]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:34.742152]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:34.989761]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:22:34.990114]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:34.990219]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:22:35.716725]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:35.882925]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:22:35.883228]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:36.461824]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:22:36.711162]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:22:36.712311]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:22:36.712778]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:24:30.760746]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:30.930083]:[32mNO se ha encontrado ningun  usuario ({username})
+ [35m[2024-04-16 10:24:30.930402]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:30.930499]:[32mNO se ha encontrado ningun  usuario ({username})
+ [35m[2024-04-16 10:24:30.930564]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:24:41.772395]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:41.932227]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:24:41.932509]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:41.932640]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:24:42.505523]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:42.782441]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:24:42.783720]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:43.364967]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:43.640806]:[32mtoken del usuario Jesus con exito 
+ [35m[2024-04-16 10:24:43.641743]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:43.642254]:[32m El usuario Jesus ha iniciado seccion correctamente
+ [35m[2024-04-16 10:24:43.642621]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:24:47.244734]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:47.407728]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:24:47.408085]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:47.996311]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:48.236413]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:24:48.236680]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:48.236784]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:24:48.914118]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:49.080643]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:24:49.081418]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:49.663427]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:24:49.908323]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:24:49.908586]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:24:49.908688]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:25:35.955531]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:36.131621]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:25:36.132748]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:36.705546]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:36.945648]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:25:36.946098]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:36.946243]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:25:37.652146]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:37.812016]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:25:37.812368]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:38.389401]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:38.630480]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-16 10:25:38.631508]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:38.631980]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:25:43.395014]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:43.558288]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:25:43.558682]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:43.558853]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:25:44.131491]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:44.440292]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:25:44.441519]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:45.025424]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:45.289868]:[32mtoken del usuario Jesus con exito 
+ [35m[2024-04-16 10:25:45.290135]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:45.290393]:[32m El usuario Jesus ha iniciado seccion correctamente
+ [35m[2024-04-16 10:25:45.290468]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:25:54.641182]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:54.801195]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:25:54.801576]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:55.668506]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:55.910424]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 10:25:55.911192]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:55.911464]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:25:56.594797]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:56.754727]:[32mtoken validado con exito!!!
+ [35m[2024-04-16 10:25:56.754977]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:57.331197]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:25:57.575506]:[32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m[2024-04-16 10:25:57.576223]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:25:57.576663]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-16 10:27:23.986100]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:27:24.149762]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:27:24.151733]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:27:24.153284]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:27:24.844455]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:27:25.201578]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:27:25.201931]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:27:25.794352]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:27:26.120879]:[32mtoken del usuario Jesus con exito 
+ [35m[2024-04-16 10:27:26.121687]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:27:26.122096]:[32m El usuario Jesus ha iniciado seccion correctamente
+ [35m[2024-04-16 10:27:26.122381]:[32mculminado la ejecucion de inicio de seccion LoginDAO
+ [35m[2024-04-16 10:28:21.421216]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:28:21.581897]:[32musuario contado con exito con exito !!!
+ [35m[2024-04-16 10:28:21.582260]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:28:21.582768]:[32musuario o contrasena errada por favor validelos
+ [35m[2024-04-16 10:28:22.179874]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:28:22.543102]:[32mestatus de usuario cambiando con exito 
+ [35m[2024-04-16 10:28:22.543982]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:28:23.116096]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-16 10:28:23.560920]:[32mtoken del usuario Jesus con exito 
+ [35m[2024-04-16 10:28:23.561857]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-16 10:28:23.562395]:[32m El usuario Jesus ha iniciado seccion correctamente
+ [35m[2024-04-16 10:28:23.562778]:[32mculminado la ejecucion de inicio de seccion LoginDAO
