@@ -5,23 +5,20 @@ import List from '@mui/material/List';
 import Divider from '@mui/material/Divider';
 import ListItemDecorator, {
   listItemDecoratorClasses,
-} from '@mui/joy/ListItemDecorator'
+} from '@mui/joy/ListItemDecorator';
 import ListItem from '@mui/joy/ListItem';
 import ListItemContent from '@mui/joy/ListItemContent';
 import ListItemButton from '@mui/joy/ListItemButton';
-import {useState} from 'react';
+import { useState } from 'react';
 import { BarraNavegacion } from './BarraNavegacion';
 import { UsuarioInfoCard } from './UsuarioInfo';
-import {ItemsCoffeshop} from "./itemsCoffeshop";
-import {ItemsEspacios} from "./itemsEspacios";
+import { ItemsCoffeshop } from "./itemsCoffeshop";
 import AccordionGroup from '@mui/joy/AccordionGroup';
 import AnalyticsIcon from '@mui/icons-material/Analytics';
 import PeopleIcon from '@mui/icons-material/People';
 import "../App.css";
 import ModalClose from '@mui/joy/ModalClose';
-import SummarizeIcon from '@mui/icons-material/Summarize';
-
-import { Outlet,Link } from "react-router-dom";
+import { Outlet, Link } from "react-router-dom";
 
 const drawerWidth = 230;
 
@@ -143,37 +140,8 @@ export function SideBar(props: any): any {
                 </ListItemButton>
               </ListItem>
               <Divider/>
-              <ListItem >
-                
-                <ListItemButton className="itemsLista"
-                  selected={index === 3}
-                  color={index === 3 ? 'warning' : undefined}
-                  onClick={() => setIndex(3)}
-                >
-                  <ItemsEspacios></ItemsEspacios>
-                </ListItemButton>
-              </ListItem>
-              <ListItem>
-                <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
-                <Link to="gerencia/reportes">
-                 <Accordion >
-                <ListItemButton 
-                className="itemsLista"
-                  selected={index === 1}
-                  color={index === 1 ? 'success' : undefined}
-                  onClick={() => {setIndex(1),setOpen(false)}}
-                >
-                  <ListItemDecorator>
-                    <SummarizeIcon/>
-                  </ListItemDecorator>
-                  <ListItemContent>REPORTES</ListItemContent>
-           
-                </ListItemButton>
-                
-                </Accordion>
-                </Link>
-                </AccordionGroup>
-              </ListItem>
+              
+         
             </List>
 
 

@@ -124,7 +124,7 @@ class PlantillaHtmlUnificado():
         {self.style}
         <body>
         <div>
-        <img src="https://www.nestvzla.com/page/Home_files/i.png" width=150/>
+        <img src="http://www.nestvzla.com/page/Home_files/i.png" width=150/>
         <p> fecha de emision: {datetime.datetime.today()}</p>
          <center> <h1> Reporte General {sede.upper()}</h1> 
                 

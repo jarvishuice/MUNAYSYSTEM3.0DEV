@@ -148,8 +148,8 @@ class PlantillaHTMLPreCierreJornada():
         {self.style}
         <body>
         <div>
-      
-        <p> fecha de emision: {datetime.datetime.today()}</p>
+            <img src="http://www.nestvzla.com/page/Home_files/i.png"/>
+        
          <center> <h1> Pre Cierre De Jornada{sede.upper()}</h1> 
           <h3> {datetime.date.today()}</h3><br/>
             <center><h2> Ventas Por clientes</h2></center>

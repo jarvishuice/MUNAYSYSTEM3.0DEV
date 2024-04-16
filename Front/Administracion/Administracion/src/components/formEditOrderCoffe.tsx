@@ -71,7 +71,7 @@ export  function FormEditOrder(props:any) {
       alert("orden editada con exito")
       }
       console.log(`edicion de orden status ${data}`)
-      window.location.reload()
+      //window.location.reload()
     } catch (error) {
      alert(error);
     }
