@@ -19,6 +19,7 @@ import PeopleIcon from '@mui/icons-material/People';
 import "../App.css";
 import ModalClose from '@mui/joy/ModalClose';
 import { Outlet, Link } from "react-router-dom";
+import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 
 const drawerWidth = 230;
 
@@ -140,7 +141,27 @@ export function SideBar(props: any): any {
                 </ListItemButton>
               </ListItem>
               <Divider/>
-              
+              <ListItem>
+                <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
+                <a href='http://nestvzla.com/sistema/' onClick={()=>localStorage.clear()}>
+                 <Accordion >
+                <ListItemButton 
+                className="itemsLista"
+                  selected={index === 1}
+                  color={index === 1 ? 'success' : undefined}
+                  onClick={() => {setIndex(1),setOpen(false)}}
+                >
+                  <ListItemDecorator>
+                    <ExitToAppIcon/>
+                  </ListItemDecorator>
+                  <ListItemContent>SALIR</ListItemContent>
+           
+                </ListItemButton>
+                
+                </Accordion>
+                </a>
+                </AccordionGroup>
+              </ListItem>
          
             </List>
 

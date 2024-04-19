@@ -238,7 +238,7 @@ const reinicio = ()=>{
         sede:sede,
         
       })}}>{cargando==true?<CircularProgress color="inherit" />:"PAGAR"}</Button>
-      <Button color={"warning"}  disabled={Number(iMonto)!=0&&(iMonto <= Number(totalApagar))?false:true}  onClick={()=>{Multipago({
+      <Button color={"warning"}  disabled={Number(iMonto)!=0&&(iMonto < Number(totalApagar))?false:true}  onClick={()=>{Multipago({
          id:"f",
          fecha:"f",
          monto:Number(iMonto)||0.0,

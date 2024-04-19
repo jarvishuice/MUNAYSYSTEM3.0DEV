@@ -40,21 +40,21 @@ class PlantillaHTMLCierreJornada():
         if datos.walletDisponibles is not None:
             for i in datos.walletDisponibles:
                 self.walletActivos += f""" <tr> <td>{i.idCliente} </td><td > {i.cliente}</td> <td> {round(i.total,2)}</td></tr>"""
-                self.totalWalletActivos += i.total
+                self.totalWalletActivos +=round(i.total,2)
     def procesarOrdenesAbiertasHistoricas(self,datos:ReporteCoffeshopEntity):
         self.OrdenesAbiertasHistoricas=''
         self.totalOrdenesAbiertasHistoricas=0
         if len(datos.ordenesAbiertasHistoricas) > 0:
             for i in datos.ordenesAbiertasHistoricas:
                 self.OrdenesAbiertasHistoricas+=f"""<tr> <td>{i.idOrden}</td><td>{i.cliente}</td><td>{i.total}$ </td> <td>{i.fecha}<td> {i.hora}</td></tr>"""
-                self.totalOrdenesAbiertasHistoricas += i.total
+                self.totalOrdenesAbiertasHistoricas += round(i.total,2)
     def procesarVentasPorCliente(self,datos:ReporteCoffeshopEntity):
      self.totalGlobal =0
      self.ordenesClose=''
      if datos.ventasPorCliente is not None:
       for i in datos.ventasPorCliente:
             self.ordenesClose+=f"""<tr><td colspan="4" >{i.cliente}</td><td colspan="4" >{i.total}</td></tr>"""
-            self.totalGlobal+=i.total
+            self.totalGlobal+=round(i.total,2)
     def procesar_ordenes_abiertas(self, datos:ReporteCoffeshopEntity):
         self.OrdenesAbiertas = ''
         self.totalOrdenesAbiertas = 0
