@@ -6,7 +6,7 @@ from config.Db.conectionsPsqlInterface import ConectionsPsqlInterface
 from providers.Services.finance import Finance
 from config.Logs.LogsActivity import Logs
 
-class TasaDollarDAO(ConectionsPsqlInterface,ItasaDollar):
+class TasaDollarDAO(ConectionsPsqlInterface):
     """
     Esta es la clase 'TasaDollarDAO'.
 
@@ -19,7 +19,6 @@ class TasaDollarDAO(ConectionsPsqlInterface,ItasaDollar):
 """
     
     def __init__(self):
-        self.finance = Finance()
         super().__init__()
     
     def tasaDollarLastRegister(self) -> float:
@@ -61,12 +60,15 @@ class TasaDollarDAO(ConectionsPsqlInterface,ItasaDollar):
 
         Returns:
             :TasaDollarEntity|bool: _description_
-        """        
-        try:
-            precio = self.finance.getTasaBcv()
-            if precio == False:
+        """
+        finance = Finance()
+              
+        precio = finance.getTasaBcv()
+        if precio == False:
                 return ResponseInternal.responseInternal(False,f"No se pudo obtener la tasa del dia ",False)
-            tasa=TasaDollarEntity(id=str(time.time()),precio=float(precio))
+        tasa=TasaDollarEntity(id=str(time.time()),precio=float(precio["price"]))      
+        try:
+           
             conexion=self.connect()
        
             if conexion['status'] == True:

@@ -22,3 +22,5 @@ class Finance:
             return False
 def main():
     print(Finance().getTasaBcv())
+if __name__ == '__main__':
+    main()
