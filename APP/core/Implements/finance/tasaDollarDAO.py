@@ -79,7 +79,7 @@ class TasaDollarDAO(ConectionsPsqlInterface):
                 """)
                     self.conn.commit()
                 
-                    return  ResponseInternal.responseInternal(True,f"consulta de ultima tasa Dollar BCV  realizada con exito ",tasa)
+                    return  ResponseInternal.responseInternal(True,f"Actualizacion  de tasa Dollar BCV $  realizada con exito ",tasa)
             else:
                    return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)
       
@@ -91,5 +91,5 @@ class TasaDollarDAO(ConectionsPsqlInterface):
             return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
         finally:
             self.disconnect()
-            Logs.WirterTask("Finalizada la ejecucion de registros de productos ")
+            Logs.WirterTask("Finalizada la ejecucion de actualizacion de la tasa del de dollar ")
                
