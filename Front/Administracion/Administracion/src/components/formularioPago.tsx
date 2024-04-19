@@ -226,7 +226,7 @@ const reinicio = ()=>{
 
             </div>
             <Box sx={{ mt:2,p:2,display: 'flex', gap: 1, flexWrap: 'wrap' }}>
-      <Button disabled={(Number(iMonto)<= Number(totalApagar))?true:false} sx={{width:"30%"}} color="success" onClick={()=>{SaldarDeudas(0,abono,{
+      <Button disabled={(Number(iMonto)< Number(totalApagar))?true:false} sx={{width:"30%"}} color="success" onClick={()=>{SaldarDeudas(0,abono,{
         id:'f',
         fecha:"f",
         monto:Number(iMonto),
@@ -238,7 +238,7 @@ const reinicio = ()=>{
         sede:sede,
         
       })}}>{cargando==true?<CircularProgress color="inherit" />:"PAGAR"}</Button>
-      <Button color={"warning"}  disabled={Number(iMonto)!=0&&(iMonto <= Number(totalApagar))?false:true}  onClick={()=>{Multipago({
+      <Button color={"warning"}  disabled={((Number(iMonto)!==0 )&&(iMonto < Number(totalApagar)))?false:true}  onClick={()=>{Multipago({
          id:"f",
          fecha:"f",
          monto:Number(iMonto)||0.0,

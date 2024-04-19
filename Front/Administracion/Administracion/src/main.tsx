@@ -24,7 +24,7 @@ import { ReportesGerenciaScreen } from './screens/ReportesGerenciaScreen.tsx';
 import { RecargaWalletCoffeScreen } from './screens/recargaWalletCoffeScreen.tsx';
 const router = createBrowserRouter([
   {
-    path: "administraccion/index.html",
+    path: "/sistema/administraccion/index.html",
     element: <App/>,
     errorElement:<PageError></PageError>,
    
