@@ -12,7 +12,7 @@ export  function ClientesScreen() {
         <TabList>
           <Tab>Clientes</Tab>
           <Tab>Registrar Cliente</Tab>
-         
+         <Tab>Historico de Cliente</Tab>
         </TabList>
         <TabPanel value={0}>
   
@@ -21,6 +21,9 @@ export  function ClientesScreen() {
 
         <TabPanel value={1}>
         <FormRegCliente/>
+        </TabPanel>
+        <TabPanel value={2}>
+      <h1>HISTORICO CONSUMO</h1>
         </TabPanel>
       
       </Tabs>

@@ -1,11 +1,13 @@
 
 import Box from '@mui/material/Box';
 import { DataGrid, GridColDef, GridToolbarContainer, GridToolbarExport } from '@mui/x-data-grid';
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { IconButton } from '@mui/joy';
 import { ClientesEntity } from '../../core/Entities/clients/clients';
 import { ClientesDAO } from '../../core/Implements/clients/clientesDAO';
 import SaveIcon from '@mui/icons-material/Save';
+import { FormHistoricoCliente } from './FormHistoricoCliente';
+import ScheduleIcon from '@mui/icons-material/Schedule';
 function CustomToolbar() {
     return (
       <GridToolbarContainer>
@@ -35,6 +37,7 @@ function CustomToolbar() {
   }
 
 }
+
 /**
  * Triggers the conversion of visitor information when a button is clicked.
  * Retrieves data from the clicked row in a table and passes it to the `convertirVisitante` function.
@@ -55,6 +58,16 @@ direccion:JSON.stringify(params.row.direccion).replace(/['"]+/g, ''),
 deuda:0});
 
 }
+function ModalHistorico(idCliente:number,status:boolean){
+  const [abrir,setAbrir]= React.useState(status)
+  function cerrar(){
+    setAbrir(false);
+  
+  }
+  alert("iiiii") 
+    return (<FormHistoricoCliente abrir={abrir} open={cerrar} idCliente={idCliente} />)
+  
+  }
 const columns: GridColDef[] = [
   {
     field: 'id',
@@ -117,7 +130,16 @@ const columns: GridColDef[] = [
       <IconButton color="primary"  variant="solid" size="sm" onClick={()=>botonera(params)} ><SaveIcon></SaveIcon> </IconButton>
     )
   },
-  
+  {
+    field: 'Historial',
+    headerName: 'Historico ',
+ 
+    width: 30,
+    editable: false,
+    renderCell:(params)=>(
+      <IconButton color="primary"  variant="solid" size="sm" onClick={()=>ModalHistorico(parseInt(JSON.stringify(params.row.id)),true)} ><ScheduleIcon/> </IconButton>
+    )
+  },
 ];
 
 

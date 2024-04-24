@@ -176,7 +176,7 @@ export function SideBar(props: any): any {
               </ListItem>
               <ListItem>
                 <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
-                <a href='http://nestvzla.com/sistema/' onClick={()=>localStorage.clear()}>
+                <a href='http://190.94.248.62:8051/index.html' onClick={()=>localStorage.clear()}>
                  <Accordion >
                 <ListItemButton 
                 className="itemsLista"
