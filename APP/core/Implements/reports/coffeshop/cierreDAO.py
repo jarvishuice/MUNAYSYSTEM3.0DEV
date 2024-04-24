@@ -134,8 +134,8 @@ where c.id=o.idcliente and status= 'por pagar' and sede='{sede}' and date(o.fech
 inner join clientes c on nombre=c.nombre
 inner join fromadepago f on banco=f.banco and metodo=f.metodo
 inner join tazadollar t ON precio=t.precio 
-where c.id=p.idcliente and motivo ILIKE '%{sede}%'
-and date(p.fechapago) =' {datetime.date.today()} ' and monto > 0 and f.id=p.idformadepago and t.id=p.idtaza     
+where c.id=p.idcliente 
+and date(p.fechapago) =' {datetime.date.today()} ' and monto > 0 and f.id=p.idformadepago and t.id=p.idtaza  and p.sede = '{sede}'    
               
                                 """)
               
