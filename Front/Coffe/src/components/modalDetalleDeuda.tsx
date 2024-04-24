@@ -24,7 +24,7 @@ export function ModalDetalleDeuda(props:any): any{
           aria-describedby="modal-desc"
           open={props.mostrar}
          
-          sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}
+          sx={{ display: 'flex'}}
         >
           <div style={{display:"flex"}} className="modalDeudasClientes">
           <center><IconButton variant="outlined"  color="danger" onClick={()=>props.cerrar(false)}><ClearIcon/></IconButton></center>

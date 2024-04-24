@@ -333,12 +333,12 @@ h6{
   flex-wrap: nowrap;
 }
 .modalDeudasClientes{
-  width:80%;
+  width:100%;
   height: 75vh;
   background-color: #ffffff;
 }
 .detalleDeudas{
-  width:430px;
+  width:300px;
  
  
   background-color: #ffffff;
@@ -446,7 +446,27 @@ background-color: #ffff;
   
 background-color: #ffff;}
 
-@media (max-width: 610px) {
+@media (max-width: 650px) {
+  .modalDeudasClientes{
+    width:100%;
+    height: 75vh;
+    background-color: #ffffff;
+  }
+  .detalleDeudas{
+    width:40%;
+   
+   
+    background-color: #ffffff;
+    -webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    border: 0px solid #000000;
+    margin-left:5%;
+    
+    
+  
+  }
   .card {
     margin: 7px 7px;
     width: 100%;

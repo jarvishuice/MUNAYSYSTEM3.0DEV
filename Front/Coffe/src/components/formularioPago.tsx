@@ -152,7 +152,7 @@ const reinicio = ()=>{
     if (data != null){
     alert(`deuda pagada con el id de pago ${data.id}`);
     reinicio()
-   window.location.reload();
+  // window.location.reload();
     }
   
   }
@@ -226,7 +226,7 @@ const reinicio = ()=>{
 
             </div>
             <Box sx={{ mt:2,p:2,display: 'flex', gap: 1, flexWrap: 'wrap' }}>
-      <Button disabled={(Number(iMonto)<= Number(totalApagar))?true:false} sx={{width:"30%"}} color="success" onClick={()=>{SaldarDeudas(0,abono,{
+      <Button disabled={(Number(iMonto)< Number(totalApagar))?true:false} sx={{width:"30%"}} color="success" onClick={()=>{SaldarDeudas(0,abono,{
         id:'f',
         fecha:"f",
         monto:Number(iMonto),
