@@ -152,7 +152,7 @@ const reinicio = ()=>{
     if (data != null){
     alert(`deuda pagada con el id de pago ${data.id}`);
     reinicio()
-   window.location.reload();
+  // window.location.reload();
     }
   
   }
