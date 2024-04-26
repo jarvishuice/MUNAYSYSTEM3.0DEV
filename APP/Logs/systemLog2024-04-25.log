@@ -1,0 +1,203 @@
+ [35m[2024-04-25 20:06:10.559014]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.559203]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.559278]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.565909]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.582910]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.641468]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.643635]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.653711]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.660157]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.660238]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.669207]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.743310]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.752204]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.763665]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.788364]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.791686]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.798717]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:06:10.798952]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:06:10.807518]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.820825]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.830918]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.830990]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.837718]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.848552]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.848624]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.849562]:[32mnew implement IPagos
+ [35m[2024-04-25 20:06:10.861130]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.865142]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:06:10.896704]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.896828]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.959091]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.963075]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.963172]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.965713]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:10.965803]:[32mnew implement IClientes
+ [35m[2024-04-25 20:06:37.595299]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.604959]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-25 20:06:37.605303]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.606090]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.647351]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.659047]:[32mPagos extraida de manera correcta
+ [35m[2024-04-25 20:06:37.659399]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.660222]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.698736]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.708147]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-25 20:06:37.708503]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.709214]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.761419]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.770350]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-25 20:06:37.770562]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.771035]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.796776]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.805061]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-25 20:06:37.805625]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.806312]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.829860]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.837563]:[32mse ecncontraron (44) deudas  en la sede cfm .....!
+ [35m[2024-04-25 20:06:37.837989]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.838987]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-25 20:06:37.865182]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.874406]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-25 20:06:37.874519]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.874795]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.896389]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.906560]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-25 20:06:37.906875]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.907360]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.935075]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:37.969766]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-25 20:06:37.970128]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:37.970440]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:37.995522]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:38.002952]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-25 20:06:38.003408]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:38.003687]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:38.030022]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:38.037487]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-25 20:06:38.037619]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-25 20:06:38.037854]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:38.039043]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-25 20:06:38.040533]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-25 20:06:38.042069]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-25 20:06:38.045319]:[32mHilos creados ....
+ [35m[2024-04-25 20:06:38.047790]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-25 20:06:38.048956]:[32meste es 1.5
+ [35m[2024-04-25 20:06:38.049123]:[32mYa arrancaron los hilos
+ [35m[2024-04-25 20:06:38.049452]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-25 20:06:38.049549]:[32meste es 3.0
+ [35m[2024-04-25 20:06:38.049625]:[32mCAJACFMesete
+ [35m[2024-04-25 20:06:38.049708]:[32mwalletesete
+ [35m[2024-04-25 20:06:38.049794]:[32mCAJACFMesete
+ [35m[2024-04-25 20:06:38.049874]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-25 20:06:38.049958]:[32meste es 2.0
+ [35m[2024-04-25 20:06:38.050030]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-25 20:06:38.050113]:[32meste es 5.0
+ [35m[2024-04-25 20:06:38.050512]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-25 20:06:39.062697]:[32mreporte de inventario generado con exito
+ [35m[2024-04-25 20:06:39.062787]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-25 20:14:29.260790]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.261031]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.261431]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.269644]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.309563]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.410505]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.413107]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.442955]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.452683]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.453268]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.475308]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.585492]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.596693]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.614259]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.616139]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.647567]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.654901]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:14:29.655060]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:14:29.659778]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.678693]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.691083]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.691290]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.697500]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.711325]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.711422]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.712041]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:29.721917]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.724767]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:29.746091]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.746193]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.790050]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.793802]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.793896]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.801700]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:29.802061]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.065265]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.065500]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.065610]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.070641]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.099236]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.161039]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.162390]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.173291]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.178889]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.178993]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.187999]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.266873]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.278974]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.292257]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.294057]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.327511]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.333738]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:14:57.333853]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:14:57.338706]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.348936]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.359758]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.359841]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.367290]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.382873]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.382992]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.383553]:[32mnew implement IPagos
+ [35m[2024-04-25 20:14:57.391114]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.393334]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:14:57.417823]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.417948]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.463259]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.467080]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.467172]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.468658]:[32mnew implement IClientes
+ [35m[2024-04-25 20:14:57.468768]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.152318]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.153327]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.153764]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.160148]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.191269]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.255555]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.257110]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.270160]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.276095]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.276231]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.286129]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.362570]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.373482]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.387658]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.390190]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.426496]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.432973]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:15:02.433119]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-25 20:15:02.439030]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.451628]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.463188]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.463290]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.471860]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.487331]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.487435]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.488091]:[32mnew implement IPagos
+ [35m[2024-04-25 20:15:02.495430]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.498019]:[32mnew implement IOrdenes
+ [35m[2024-04-25 20:15:02.520043]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.520137]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.556489]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.559789]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.559862]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.561043]:[32mnew implement IClientes
+ [35m[2024-04-25 20:15:02.561140]:[32mnew implement IClientes

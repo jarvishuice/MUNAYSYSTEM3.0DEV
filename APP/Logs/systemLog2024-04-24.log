@@ -614,3 +614,56 @@ LINE 7: ...0 and f.id=p.idformadepago and t.id=p.idtaza  and sede = 'cf...
  [35m[2024-04-24 14:33:36.744233]:[32mYA cunminaron los hilos ........... 
  [35m[2024-04-24 14:33:36.744374]:[32mreporte de inventario generado con exito
  [35m[2024-04-24 14:33:36.744440]:[32mfinalizado el reporte de inventario de la sede cfm
+ [35m[2024-04-24 14:40:30.048504]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:30.131668]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-24 14:40:30.131955]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:30.132390]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:30.325459]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:30.485219]:[32mPagos extraida de manera correcta
+ [35m[2024-04-24 14:40:30.485326]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:30.485575]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:30.676550]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:30.751599]:[32mlectura de ventas por productos diarias realizado con exito
+ [35m[2024-04-24 14:40:30.751703]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:30.751944]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:30.966610]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:31.053998]:[32mse ecncontraron (45) deudas  en la sede cfm .....!
+ [35m[2024-04-24 14:40:31.054374]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:31.055153]:[32mconsulta de dedudas realizada de manera correcta
+ [35m[2024-04-24 14:40:31.455165]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:31.606822]:[32m detalles de pedidos extraidos de manera correcta 
+ [35m[2024-04-24 14:40:31.606947]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:31.607257]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:32.083602]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:32.237345]:[32m detalles de wallet disponibles extraidos con exito 
+ [35m[2024-04-24 14:40:32.237449]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:32.237704]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:32.694333]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:32.837042]:[32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m[2024-04-24 14:40:32.837254]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:32.837597]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:32.985731]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:33.022049]:[32mOrdnees del dia abiertas extraidas con exito
+ [35m[2024-04-24 14:40:33.022147]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:33.022368]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:33.207574]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:33.302884]:[32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m[2024-04-24 14:40:33.303364]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-24 14:40:33.303935]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:33.305268]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-24 14:40:33.306512]:[32mlectura de acciones heca de manera correcta
+ [35m[2024-04-24 14:40:33.306944]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-24 14:40:33.315477]:[32mHilos creados ....
+ [35m[2024-04-24 14:40:33.323731]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-24 14:40:33.324954]:[32mYa arrancaron los hilos
+ [35m[2024-04-24 14:40:33.325192]:[32meste es 1.5
+ [35m[2024-04-24 14:40:33.325364]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-24 14:40:33.325540]:[32meste es 2.0
+ [35m[2024-04-24 14:40:33.325662]:[32mwalletesete
+ [35m[2024-04-24 14:40:33.325813]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-24 14:40:33.325946]:[32meste es 3.5
+ [35m[2024-04-24 14:40:33.326062]:[32mPUNTO DE VENTAesete
+ [35m[2024-04-24 14:40:33.326440]:[32meste es 7.0
+ [35m[2024-04-24 14:40:33.326961]:[32mYA cunminaron los hilos ........... 
+ [35m[2024-04-24 14:40:33.327201]:[32mreporte de inventario generado con exito
+ [35m[2024-04-24 14:40:33.327331]:[32mfinalizado el reporte de inventario de la sede cfm

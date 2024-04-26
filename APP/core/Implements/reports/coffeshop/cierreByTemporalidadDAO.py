@@ -187,7 +187,7 @@ and date(p.fechapago) >=' {inicio} ' and date(p.fechapago)<='{fin}' and monto > 
                   
                     cur.execute(f"""
                            select coalesce(count(monto),0),coalesce(sum(monto * precio),0) from pagos as p 
-inner join tazadollar t on precio=precio where idformadepago ={selector} and motivo ilike '%{sede}%' and date(p.fechapago) >=' {inicio} ' and date(p.fechapago)<='{fin}' and t.id = p.idtaza ;
+inner join tazadollar t on precio=precio where idformadepago ={selector} and p.sede= '{sede}' and date(p.fechapago) >=' {inicio} ' and date(p.fechapago)<='{fin}' and t.id = p.idtaza ;
                              
                                 """);       
                     self.conn.commit()
