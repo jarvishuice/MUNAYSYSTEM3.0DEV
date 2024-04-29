@@ -1,3 +1,4 @@
+from core.Implements.metric.coffeshop.pagosCoffeMetricDAO import PagosCoffeMtricDAO
 from core.Implements.auth.authDAO import AuthDAO
 from fastapi import APIRouter,Request,HTTPException,UploadFile,File,Response,Depends
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
@@ -6,6 +7,7 @@ from core.Implements.metric.Espacios.EspaciosMetricDAO  import EspaciosMetricDAO
 
 core= CoffeshopMetricDAO() #DAO DEL CAFETING 
 coreEspacios= EspaciosMetricDAO()
+corePagosCoffeMetric=PagosCoffeMtricDAO()
 security = HTTPBearer()
 validator=AuthDAO()
 urlBase = "/MUNAY/nest"
@@ -55,5 +57,12 @@ async def ventasProductosEspacios(sede):
        return respuesta
    else:
        raise HTTPException(400,trigger['mesagge'])
-
+@Metric.get("/coffeshop/pay/today/{sede}")
+async def getpayToday(sede):
+    trigger = corePagosCoffeMetric.getPayToday(sede)
+    if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+    else:
+       raise HTTPException(400,trigger['mesagge'])        
 

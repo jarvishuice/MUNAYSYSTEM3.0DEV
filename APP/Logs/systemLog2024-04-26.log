@@ -1,0 +1,2061 @@
+ [35m[2024-04-26 00:39:07.527049]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.527241]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.527339]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.534715]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.552367]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.611021]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.613098]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.629869]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.639199]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.639340]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.652793]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.735318]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.744187]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.755994]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.759822]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.786481]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.804961]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:39:07.805065]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:39:07.810450]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.825742]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.839931]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.840029]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.848876]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.861135]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.861248]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.862373]:[32mnew implement IPagos
+ [35m[2024-04-26 00:39:07.871634]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.874412]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:39:07.902286]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.902390]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.956009]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.961156]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.961236]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.963747]:[32mnew implement IClientes
+ [35m[2024-04-26 00:39:07.963836]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.470924]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.471405]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.471708]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.476630]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.501574]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.563134]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.564579]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.574361]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.579924]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.580030]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.588033]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.639765]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.646037]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.662177]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.663839]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.686389]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.694644]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:40:11.694788]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:40:11.699963]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.716161]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.735049]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.735206]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.744172]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.755064]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.755204]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.756402]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:11.767865]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.770976]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:11.788956]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.789055]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.826024]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.829118]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.829192]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.830454]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:11.830521]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.062567]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.063464]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.063672]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.069146]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.100647]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.170619]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.173003]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.186711]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.196063]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.196171]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.204937]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.277822]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.284759]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.299284]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.301309]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.327370]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.335217]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:40:15.335307]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:40:15.340621]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.353104]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.366958]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.367058]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.373919]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.390512]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.390698]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.391639]:[32mnew implement IPagos
+ [35m[2024-04-26 00:40:15.402615]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.405642]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:40:15.430590]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.430714]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.483860]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.487368]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.487470]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.489390]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:15.489551]:[32mnew implement IClientes
+ [35m[2024-04-26 00:40:23.044555]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 00:40:23.053574]:[32m[0;31m werrror al leeer los pagos de l dia  
+ [35m[2024-04-26 00:40:23.053734]:[32merror al intentar registrar el producto 
+ [35m[2024-04-26 00:40:23.053900]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 00:40:23.054367]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 00:41:24.134047]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.134273]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.134370]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.140905]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.171466]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.248114]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.249855]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.270107]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.282300]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.282429]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.304911]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.422549]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.433741]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.456236]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.459181]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.494303]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.507659]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:24.507793]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:24.513234]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.527923]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.544180]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.544314]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.558143]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.583241]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.583654]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.585011]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:24.606035]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.612651]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:24.654897]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.655239]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.767382]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.776163]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.776554]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.780708]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:24.780874]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.108819]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.109020]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.109125]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.113243]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.139070]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.213853]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.216178]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.244090]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.259277]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.260274]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.276712]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.362559]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.369690]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.393525]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.396738]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.431223]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.444372]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:26.444501]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:26.451260]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.470158]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.487032]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.487160]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.497152]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.516607]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.516902]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.518126]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:26.530485]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.535391]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:26.561693]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.561852]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.613219]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.619524]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.619747]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.623216]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:26.623529]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:28.542622]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.542871]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:28.543309]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.547823]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:28.581318]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:28.655829]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:28.657443]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.674142]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.685427]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.685568]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.702102]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.789454]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:28.797125]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:28.813218]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:28.816839]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:28.848931]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.076460]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.076721]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.076872]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.081274]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.103296]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.175092]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.176642]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.190929]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.203759]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.203981]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.220579]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.328332]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.335107]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.353700]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.355707]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.390236]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.400545]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:33.400694]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:33.407963]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.423846]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.439411]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.439592]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.455665]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.479575]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.479829]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.480977]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:33.500911]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.505653]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:33.544219]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.544413]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.612383]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.616588]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.616706]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.619504]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:33.619669]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.208392]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.208596]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.208725]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.212756]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.249100]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.323967]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.325802]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.342198]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.351597]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.352026]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.366578]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.448801]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.457980]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.474948]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.477532]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.512351]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.523990]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:58.524392]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:41:58.530565]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.546231]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.565126]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.565550]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.578956]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.603422]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.603955]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.605245]:[32mnew implement IPagos
+ [35m[2024-04-26 00:41:58.620656]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.625133]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:41:58.662315]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.662747]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.745398]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.752182]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.752670]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.755595]:[32mnew implement IClientes
+ [35m[2024-04-26 00:41:58.755991]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:04.731739]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.731950]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:04.732044]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.737760]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:04.763613]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:04.841430]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:04.843348]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.859229]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.871057]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.871480]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.888254]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.977314]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:04.987566]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.001302]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.004165]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.036958]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.046784]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:05.046924]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:05.054623]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.071111]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.086623]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:05.086849]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:05.102675]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:05.123534]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:05.123677]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:05.124649]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:05.140564]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:05.144705]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:05.179574]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.179682]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.236697]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.240949]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.241058]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.242585]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:05.242690]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.161509]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.161832]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.161956]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.167658]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.197822]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.274333]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.277142]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.294197]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.303937]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.304158]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.321361]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.429088]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.438568]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.465238]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.470719]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.510457]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.523305]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:21.523782]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:21.532291]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.551768]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.568409]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.568616]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.579714]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.600300]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.600545]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.601484]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:21.620431]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.626204]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:21.659777]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.659931]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.714732]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.719721]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.720099]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.724670]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:21.724950]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.027418]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.027664]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.027822]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.032148]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.056955]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.122526]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.124148]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.142724]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.151809]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.152274]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.168073]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.254424]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.262196]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.277688]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.282586]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.311117]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.327070]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:36.327984]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:42:36.336213]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.360817]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.379846]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.380931]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.398551]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.427957]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.429194]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.432485]:[32mnew implement IPagos
+ [35m[2024-04-26 00:42:36.463210]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.470568]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:42:36.517859]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.520038]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.611407]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.628758]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.629506]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.632352]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:36.633212]:[32mnew implement IClientes
+ [35m[2024-04-26 00:42:40.489275]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 00:42:40.499626]:[32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m[2024-04-26 00:42:40.500520]:[32mNo se encontraron registros de pagos el dia de hoy
+ [35m[2024-04-26 00:42:40.501105]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 00:42:40.502157]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 00:45:28.865482]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 00:45:28.875477]:[32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m[2024-04-26 00:45:28.876807]:[32mNo se encontraron registros de pagos el dia de hoy
+ [35m[2024-04-26 00:45:28.877629]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 00:45:28.879376]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 00:45:33.803175]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 00:45:33.812669]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 00:45:33.813036]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 00:45:33.813563]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 00:46:09.797066]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.797265]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:09.797358]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.801890]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:09.836558]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:09.908331]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:09.911677]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.925486]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.936206]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.936598]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:09.952801]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.053589]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.065587]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.082054]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.085507]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.120320]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.129509]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:46:10.130193]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:46:10.137257]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.154865]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.169954]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.170399]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.187381]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.238079]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:10.238696]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.242073]:[32mnew implement IPagos
+ [35m[2024-04-26 00:46:10.277720]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:10.285765]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:46:10.357729]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.359293]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.446975]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.452621]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.452758]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.454778]:[32mnew implement IClientes
+ [35m[2024-04-26 00:46:10.454883]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:39.724976]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.725274]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:39.725715]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.732245]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:39.772412]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:39.874180]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:39.877961]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.906183]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.918456]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.918969]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:39.939830]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.024386]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.032030]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.051127]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.055842]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.094123]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.108436]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:48:40.108593]:[32mnew implement IMectricCoffeshop
+ [35m[2024-04-26 00:48:40.114158]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.131490]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.151053]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.151390]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.165397]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.187757]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:40.188012]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.189144]:[32mnew implement IPagos
+ [35m[2024-04-26 00:48:40.203146]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:40.211006]:[32mnew implement IOrdenes
+ [35m[2024-04-26 00:48:40.244409]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.244868]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.299535]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.305332]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.307372]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.310034]:[32mnew implement IClientes
+ [35m[2024-04-26 00:48:40.310382]:[32mnew implement IClientes
+ [35m[2024-04-26 02:16:15.723511]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:15.730624]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:16:15.732461]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:15.763648]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:15.771325]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:16:15.772257]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:15.772925]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:15.857615]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:15.862898]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:16:15.863756]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:15.891666]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:15.898055]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:16:15.898635]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:15.898880]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.169658]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.181642]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:16:16.181782]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.182267]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.206554]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.211487]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:16:16.211664]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:16:16.211783]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.212203]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.238637]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.249646]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:16:16.249839]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:16:16.250076]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.250424]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.280058]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.284227]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:16:16.286123]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.291382]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.299934]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:16:16.300453]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:16:16.300784]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.301377]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.330121]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.337121]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:16:16.337269]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:16:16.337364]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.337632]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.370750]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.382252]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:16:16.382740]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.383865]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.481069]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.485899]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:16:16.486958]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:16:16.487534]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.488104]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.569561]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.577284]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:16:16.577755]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:16:16.578042]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.578590]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.654340]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.658345]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:16:16.659624]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.687107]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.692731]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:16:16.692874]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:16:16.692958]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.694049]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:16:16.721371]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:16:16.729955]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:16:16.730432]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:16:16.730663]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:16:16.731744]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:17:12.001316]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:17:12.011071]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:17:12.011251]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:17:12.011672]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:17:32.860204]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:17:32.872619]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:17:32.874887]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:17:32.876832]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:17:35.345303]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:17:35.355113]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:17:35.355529]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:17:35.356138]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:19:53.360442]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:19:53.372068]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:19:53.373588]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:19:53.374640]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:20:43.365742]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:20:43.376742]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:20:43.377280]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:20:43.377751]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:20:48.612265]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:20:48.628083]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:20:48.628354]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:20:48.628916]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.514211]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.541634]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:27:16.542085]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.542658]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.576651]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.583173]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:27:16.583875]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:27:16.586273]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.587185]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.665565]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.676055]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:27:16.676189]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:27:16.676284]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.676548]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.766197]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.781759]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:27:16.788271]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.812716]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.821925]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:27:16.822094]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:27:16.822178]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.822477]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.852359]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.857690]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:27:16.858007]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:27:16.858261]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.858754]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.902200]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.910622]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:27:16.911281]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.912505]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:16.954815]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:16.960336]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:27:16.962037]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:27:16.962522]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:16.963107]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:17.001186]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:17.007565]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:27:17.008745]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:27:17.008871]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:17.009200]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:17.088311]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:17.092181]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:27:17.092930]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:17.123461]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:17.130036]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:27:17.130541]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:27:17.130976]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:17.131694]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:17.164657]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:17.177009]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:27:17.177164]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:27:17.177260]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:17.177574]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:21.508421]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:21.518448]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:27:21.518640]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:21.518927]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:27:41.857194]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:27:41.869875]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:27:41.870030]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:27:41.870387]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:20.060113]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:20.070665]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:28:20.070802]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:20.071083]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:23.618931]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:23.622931]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:28:23.623447]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:23.645185]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:23.652450]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:28:23.652862]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:23.653192]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:23.722947]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:23.727326]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:28:23.728579]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:23.757955]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:23.766993]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:28:23.768744]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:23.769166]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.041856]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.052490]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:28:24.052637]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.053054]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.089444]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.095008]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:28:24.095229]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:28:24.095551]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.096374]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.138154]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.147534]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:28:24.148478]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:28:24.149328]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.150213]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.187022]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.191216]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:28:24.191654]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.219269]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.224805]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:28:24.224922]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:28:24.224998]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.225232]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.252294]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.259071]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:28:24.260397]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:28:24.260535]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.260854]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.348232]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.356574]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:28:24.356685]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.357039]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.428406]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.433230]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:28:24.433691]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:28:24.434529]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.435076]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.505288]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.512291]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:28:24.512420]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:28:24.512517]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.512816]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.600963]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.606154]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:28:24.607097]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.649019]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.655721]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:28:24.656632]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:28:24.657372]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.659569]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:28:24.690760]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:28:24.698408]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:28:24.698831]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:28:24.699210]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:28:24.699847]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:29:10.466749]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:29:10.478221]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:29:10.478363]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:29:10.478630]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:35:53.362953]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:35:53.371837]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:35:53.372385]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:35:53.373200]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:36:44.962511]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:36:44.978230]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:36:44.979937]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:36:44.980613]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:37:01.963148]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:37:01.973425]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:37:01.973568]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:37:01.973912]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:39.890855]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:39.901975]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:39.902133]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:39.902438]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:40.922190]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:40.934100]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:40.935008]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:40.936010]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:49.332142]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:49.343400]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:49.344558]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:49.345545]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:52.037340]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:52.052596]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:52.052747]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:52.053818]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:53.055553]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:53.064611]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:53.064725]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:53.065027]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:54.202033]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:54.212351]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:54.213071]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:54.213902]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.273280]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.279362]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:38:58.280386]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.306597]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.313860]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:38:58.314303]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.314430]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.404927]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.409171]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:38:58.409554]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.441337]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.447697]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:38:58.448336]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.448773]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.739710]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.747773]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:58.748016]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.748385]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.784511]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.789086]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:38:58.789311]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:38:58.789576]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.789967]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.878004]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.885649]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:38:58.885975]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:38:58.886252]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.886810]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.955862]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.959649]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:38:58.959997]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:58.985271]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:58.991426]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:38:58.992149]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:38:58.992789]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:58.993347]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.017840]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.024695]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:38:59.024818]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:38:59.024901]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.025192]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.046751]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.055396]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:38:59.055521]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.055904]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.083905]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.089463]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:38:59.089626]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:38:59.089723]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.089995]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.180483]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.189079]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:38:59.190025]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:38:59.191145]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.192328]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.286858]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.291861]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:38:59.292303]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.320151]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.327800]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:38:59.328098]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:38:59.328252]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.328637]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:38:59.351723]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:38:59.358730]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:38:59.359058]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:38:59.359251]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:38:59.359632]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:28.655643]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:28.665339]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:40:28.665687]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:28.666274]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:35.643311]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:35.648038]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:40:35.648854]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:35.672966]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:35.678495]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:40:35.679081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:35.679393]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:35.753973]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:35.758681]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:40:35.759262]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:35.784962]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:35.790240]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:40:35.790959]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:35.791323]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.113706]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.122751]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:40:36.122907]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.123330]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.147667]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.152489]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:40:36.152786]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:40:36.153852]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.155242]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.235153]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.242245]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:40:36.243064]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:40:36.243522]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.244295]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.347462]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.356592]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:40:36.357970]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.361338]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.372383]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:40:36.373318]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:40:36.374188]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.375488]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.412564]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.418085]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:40:36.418374]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:40:36.418629]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.419248]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.492843]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.501161]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:40:36.501418]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.501737]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.529734]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.535510]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:40:36.535619]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:40:36.535712]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.536028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.569522]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.576273]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:40:36.576522]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:40:36.576668]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.576986]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.650335]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.655781]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.655828]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:40:36.656210]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.664440]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:40:36.665001]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:40:36.665150]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.665466]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:40:36.687136]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:40:36.692348]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:40:36.692522]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:40:36.692643]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:40:36.692948]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:15.726026]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:15.736784]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:41:15.736917]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:15.737183]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:27.464143]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:27.468317]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:41:27.469314]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:27.492641]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:27.500173]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:41:27.501067]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:27.501629]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:27.571993]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:27.576687]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:41:27.576938]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:27.606252]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:27.613550]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:41:27.614386]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:27.614940]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.012586]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.022125]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:41:28.022447]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.022875]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.070046]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.074402]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:41:28.074591]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:41:28.074830]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.075266]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.125631]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.133881]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:41:28.134607]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:41:28.134802]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.135140]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.178964]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.182491]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:41:28.183202]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.211786]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.223481]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:41:28.223615]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:41:28.223700]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.224987]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.271522]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.282516]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:41:28.283080]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:41:28.283182]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.283471]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.318571]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.331362]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:41:28.331769]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.332376]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.387106]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.392297]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:41:28.392406]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:41:28.392637]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.393142]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.426480]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.432781]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:41:28.433011]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:41:28.433241]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.434220]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.507685]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.512162]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:41:28.512505]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.537711]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.546160]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:41:28.546488]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:41:28.546596]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.546927]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:28.572545]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:28.580273]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:41:28.580734]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:41:28.580925]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:28.581526]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:41:50.861852]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:41:50.870982]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:41:50.871412]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:41:50.872100]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:16.500893]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:16.509946]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:42:16.510449]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:16.511137]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:23.790211]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:23.812707]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:42:23.813912]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:23.815338]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:32.882303]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:32.891633]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:42:32.892102]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:32.918943]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:32.929122]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:42:32.929701]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:32.929869]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.010787]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.017197]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:42:33.024458]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.050433]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.059809]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:42:33.060214]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.060325]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.440449]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.452981]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:42:33.453727]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.454668]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.484056]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.490121]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:42:33.491664]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:42:33.492970]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.494629]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.563973]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.574882]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:42:33.575136]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:42:33.575271]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.575621]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.630448]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.638135]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:42:33.639102]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.690169]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.697527]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:42:33.697904]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:42:33.698208]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.698786]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.741115]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.751042]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:42:33.753077]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:42:33.753830]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.755364]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.840964]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.865568]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:42:33.866004]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.866392]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:33.988450]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:33.995586]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:42:33.995906]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:42:33.996079]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:33.996393]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:34.070027]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:34.076474]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:42:34.076814]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:42:34.077072]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:34.077551]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:34.155733]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:34.159962]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:42:34.161688]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:34.192444]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:34.199163]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:42:34.199314]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:42:34.199407]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:34.199679]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:42:34.229081]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:42:34.236888]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:42:34.237349]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:42:34.237586]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:42:34.238131]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:00.983123]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:00.998182]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:00.999075]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:01.000094]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:05.989362]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:05.993286]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:05.993548]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.016225]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.021994]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:44:06.022609]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.022715]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.105280]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.110365]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:06.110845]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.149997]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.156140]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:44:06.158350]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.158664]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.478927]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.488287]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:06.488481]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.488809]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.548678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.553383]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:06.553688]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:06.553780]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.554011]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.586462]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.593894]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:44:06.594105]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:06.594246]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.594590]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.667577]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.671390]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:06.672200]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.672797]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.683730]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:44:06.683937]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:06.684374]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.684782]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.711527]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.717634]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:06.717955]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:06.718198]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.718694]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.804945]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.815411]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:06.815730]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.816454]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.864426]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.869104]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:06.869491]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:06.869813]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.870589]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:06.956364]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:06.966132]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:44:06.966421]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:06.966675]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:06.967149]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:07.056034]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:07.062923]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:07.063286]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:07.068186]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:07.076888]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:44:07.077649]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:07.078324]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:07.079344]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:07.108530]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:07.115782]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:07.116799]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:07.117339]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:07.118077]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:47.476937]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:47.485350]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:47.485640]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:47.486674]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:53.410409]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:53.414869]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:53.415733]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:53.440676]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:53.446485]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:44:53.447138]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:53.447538]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:53.545372]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:53.549639]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:53.549993]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:53.575777]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:53.582038]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 02:44:53.582619]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:53.582850]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.046342]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.056082]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:54.056534]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.057158]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.107971]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.115559]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:54.116748]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:54.117276]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.118081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.177279]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.183898]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:44:54.184239]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:54.184517]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.184964]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.252380]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.257885]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:54.258634]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.282878]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.288421]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:54.288544]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:54.288623]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.288867]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.313853]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.322212]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:44:54.322667]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:54.322819]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.323182]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.357450]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.366260]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:44:54.366428]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.366755]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.443496]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.448502]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:54.448675]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:54.449017]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.449671]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.548111]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.555454]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 02:44:54.556362]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:54.557154]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.558208]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.672439]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.678935]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 02:44:54.679445]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.681407]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.694074]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 02:44:54.694276]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 02:44:54.694379]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.694733]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:44:54.720522]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:44:54.727144]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 02:44:54.727290]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 02:44:54.727374]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:44:54.727683]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:51:27.016279]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:51:27.025010]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:51:27.025341]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:51:27.025840]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:51:30.189868]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:51:30.212712]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:51:30.214151]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:51:30.226285]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:54:53.639681]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:54:53.660195]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:54:53.661172]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:54:53.661865]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 02:56:11.525315]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 02:56:11.538888]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 02:56:11.540102]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 02:56:11.540645]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:42.432148]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:42.445624]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:03:42.446707]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:42.449221]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:47.768889]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:47.776043]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:03:47.777086]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:47.808667]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:47.817379]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:03:47.818053]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:47.818498]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:47.902920]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:47.910657]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:03:47.910971]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:47.935180]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:47.949054]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:03:47.949805]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:47.950242]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.193884]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.207286]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:03:48.207459]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.207795]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.246521]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.253035]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:03:48.254396]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:03:48.255305]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.255942]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.352232]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.360484]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:03:48.360635]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:03:48.360713]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.362292]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.442914]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.446624]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:03:48.446939]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.480159]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.486717]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:03:48.487790]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:03:48.488653]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.490354]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.532647]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.542740]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:03:48.543173]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:03:48.543962]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.544863]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.578271]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.596732]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:03:48.596855]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.597087]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.655198]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.659950]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:03:48.660309]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:03:48.660568]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.661041]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.735673]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.743401]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:03:48.743910]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:03:48.744525]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.745208]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.784650]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.788053]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:03:48.788736]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.824566]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.833640]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:03:48.833780]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:03:48.833864]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.834169]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:03:48.865998]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:03:48.873986]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:03:48.877850]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:03:48.878440]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:03:48.879359]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:32.702995]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:32.717643]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:04:32.719115]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:32.719933]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.430244]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.434133]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:36.434391]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.456421]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.463172]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:04:36.463499]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.463599]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.538865]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.543984]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:36.544492]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.572244]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.578555]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:04:36.579224]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.579473]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.819157]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.835338]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:04:36.835472]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.835719]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.864744]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.871455]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:36.872242]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:36.873093]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.874208]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.911926]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.920066]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:04:36.920459]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:36.920742]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.921187]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.955871]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.960390]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:36.960822]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:36.984856]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:36.991206]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:36.992503]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:36.993253]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:36.993783]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.021676]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.030475]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:04:37.030652]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:37.030730]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.030929]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.103232]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.113693]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:04:37.113964]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.114379]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.150525]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.156020]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:37.156473]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:37.156626]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.156986]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.229575]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.238823]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:04:37.238987]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:37.239164]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.239650]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.323353]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.327179]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:37.329797]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.364629]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.370780]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:37.371675]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:37.372418]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.373337]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:37.407309]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:37.414466]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:04:37.414845]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:37.415140]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:37.415688]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:44.779356]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:44.789846]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:44.790173]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:44.820933]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:44.828279]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:04:44.828687]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:44.828854]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:44.931757]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:44.937190]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:44.940691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.001914]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.009235]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:04:45.009914]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.010364]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.287436]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.300524]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:04:45.300701]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.301034]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.344385]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.350424]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:45.350629]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:45.350776]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.351182]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.383827]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.394772]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:04:45.394883]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:45.394972]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.395246]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.507798]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.520896]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:45.522475]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.547628]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.556534]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:04:45.556706]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:45.556830]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.557143]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.593991]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.599896]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:45.600028]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:45.600125]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.600370]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.687459]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.698636]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:04:45.698759]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.699055]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.789337]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.797663]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:45.797805]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:45.797889]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.798151]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.842545]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.851918]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:04:45.852139]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:45.852269]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.852689]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.889657]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.893105]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:04:45.893554]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.931725]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.938243]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:04:45.939086]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:04:45.939726]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.940555]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:04:45.971062]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:04:45.981362]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:04:45.981804]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:04:45.982176]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:04:45.982737]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:05:54.974480]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:05:54.986529]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:05:54.986675]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:05:54.986939]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:28.323360]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:28.327933]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:06:28.328236]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:28.356360]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:28.362299]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:06:28.362822]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:28.362997]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:06:28.431021]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:28.436734]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:06:28.437294]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:28.469640]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:28.475808]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:06:28.476440]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:28.476757]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:06:47.818372]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:47.823128]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:06:47.823476]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:47.849506]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:47.860207]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:06:47.860896]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:47.861401]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:06:47.937834]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:47.941696]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:06:47.942333]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:47.974610]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:06:47.981442]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:06:47.982024]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:06:47.982139]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:12.318358]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:12.323854]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:12.324150]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:12.346816]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:12.356770]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:12.357037]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:12.357410]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:12.439613]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:12.444285]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:12.444749]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:12.471035]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:12.479520]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:12.480288]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:12.480886]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:15.272363]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:15.276747]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:15.277338]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:15.307784]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:15.317909]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:15.319283]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:15.320360]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:15.537313]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:15.550773]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:15.551734]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:15.584669]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:15.594714]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:15.596959]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:15.598001]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:37.541814]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:37.546688]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:37.547131]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:37.572269]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:37.578744]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:37.579318]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:37.579607]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:37.653092]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:37.658447]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:37.658862]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:37.680846]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:37.687761]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:37.688161]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:37.688252]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:37.953469]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:37.963393]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:07:37.963565]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:37.963862]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.001929]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.007800]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:38.009813]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:38.010307]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.010927]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.046917]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.053589]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:07:38.054124]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:38.054433]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.054990]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.094172]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.099024]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:38.100023]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.127716]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.135085]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:38.135244]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:38.135339]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.135685]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.158724]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.165910]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:07:38.166628]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:38.166974]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.167844]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.206711]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.216067]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:07:38.216172]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.216588]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.304696]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.310326]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:38.310689]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:38.311081]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.312087]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.367729]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.377561]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:07:38.377904]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:38.378734]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.379732]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.475694]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.483438]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:38.489064]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.503288]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.514892]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:07:38.515043]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:38.515132]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.515393]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:38.541067]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:38.552625]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:38.552753]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:38.552835]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:38.553081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:48.669546]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:48.673251]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:48.673947]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:48.710974]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:48.716288]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:48.717983]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:48.718122]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:48.791859]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:48.796300]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:48.796974]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:48.826627]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:48.834690]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:07:48.835303]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:48.835599]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.168741]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.179287]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:07:49.179478]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.180035]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.209717]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.215429]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:49.215897]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:49.216574]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.218021]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.256015]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.282916]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:07:49.284683]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:49.286951]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.290046]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.352096]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.359952]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:49.361004]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.376635]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.389172]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:07:49.391183]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:49.392214]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.394234]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.441987]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.452410]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:49.454002]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:49.454832]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.458171]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.537369]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.551620]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:07:49.552147]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.552718]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.590221]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.595519]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:49.595677]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:49.595764]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.596147]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.629047]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.636365]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:07:49.636506]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:49.636604]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.636897]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.690759]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.700258]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:07:49.700462]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:07:49.701091]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.702262]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.703008]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.707311]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:07:49.709017]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:07:49.738063]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:07:49.746200]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:07:49.747691]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:07:49.748337]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:07:49.749167]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.213294]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.217547]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:15.217915]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.241155]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.247159]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:15.249690]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.250177]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:15.327003]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.331068]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:15.332328]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.363935]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.370911]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:15.371562]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.371948]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:15.808577]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.819206]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:15.819330]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:15.819575]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.854418]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.859520]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:15.859862]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:15.860155]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:15.860600]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.903366]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.914192]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:15.914585]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:15.914810]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:15.915828]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:15.992819]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.996770]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:15.999869]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:16.000538]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.005763]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:16.005903]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:16.005998]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.006293]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.031825]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.037099]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:16.037204]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:16.037282]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.037549]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.127663]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.137825]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:16.138964]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.143097]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.218438]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.224866]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:16.225009]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:16.225108]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.225415]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.283684]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.292767]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:16.293297]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:16.293669]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.294149]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.390099]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.399236]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:16.400371]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.413952]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.422009]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:16.422956]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:16.423636]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.424549]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:16.459987]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:16.467741]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:16.468871]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:16.469759]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:16.470642]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:23.650071]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:23.655027]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:23.655442]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:23.680795]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:23.686641]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:23.687112]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:23.687273]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:23.773287]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:23.778817]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:23.779177]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:23.805298]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:23.815471]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:23.815814]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:23.815963]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.144737]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.155382]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:24.155516]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.155782]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.244211]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.253899]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:24.254056]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:24.254160]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.254462]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.416899]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.429989]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:24.430457]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:24.431002]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.431860]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.471182]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.477622]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:24.477964]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.513424]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.521192]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:24.521351]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:24.521441]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.521910]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.547487]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.557945]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:24.560344]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:24.560481]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.560844]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.599517]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.610554]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:24.610806]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.611443]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.688742]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.700989]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:24.701109]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:24.701205]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.701498]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.774931]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.781726]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:24.782037]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:24.782344]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.782669]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.866765]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.872518]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:24.873081]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.904206]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.911846]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:24.912456]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:24.913064]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.913673]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:24.941838]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:24.952147]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:24.952640]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:24.953053]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:24.953669]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:35.162548]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:35.172017]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:35.172258]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:35.172806]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:39.954336]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:39.958221]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:39.958576]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:39.982258]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:39.989265]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:39.989670]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:39.989854]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.070448]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.074926]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:40.075290]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.099610]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.108650]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:10:40.111493]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.111991]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.431904]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.444208]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:40.444666]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.444953]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.479191]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.493337]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:40.493454]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:40.493547]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.493919]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.527986]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.538097]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:40.538548]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:40.538687]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.539028]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.616987]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.622371]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:40.623974]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.631199]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.638821]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:40.639023]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:40.639134]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.639504]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.666967]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.676165]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:40.676382]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:40.676509]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.677080]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.760783]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.771373]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:10:40.771938]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.772562]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.805641]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.811257]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:40.811379]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:40.811454]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.811714]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.859527]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.867208]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:10:40.867559]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:40.867827]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.868273]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.958935]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.961338]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:40.965400]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:10:40.967268]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:40.979541]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:10:40.979918]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:10:40.980202]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:40.980719]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:10:41.012040]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:10:41.018107]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:10:41.019348]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:10:41.019776]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:10:41.020424]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:13:36.254739]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:13:36.269402]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:13:36.270897]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:13:36.272086]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:13:50.847920]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:13:50.857194]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:13:50.857418]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:13:50.858048]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:14:42.065679]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:14:42.083423]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:14:42.084038]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:14:42.084762]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:34:48.171678]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:34:48.183246]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:34:48.183408]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:34:48.183691]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:35:07.268756]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:35:07.286477]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:35:07.287632]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:35:07.288362]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:36:01.454835]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:36:01.465051]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:36:01.465257]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:36:01.465595]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:36:02.521357]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:36:02.530333]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:36:02.532213]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:36:02.532853]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:36:38.323702]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:36:38.333757]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:36:38.334358]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:36:38.334971]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:34.408933]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:34.418557]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:40:34.419044]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:34.419492]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:37.764286]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:37.768131]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:40:37.773907]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:37.797327]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:37.803006]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:40:37.804408]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:37.807422]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:37.897741]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:37.903960]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:40:37.905177]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:37.930549]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:37.935704]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:40:37.936021]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:37.936164]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.238415]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.248811]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:40:38.249132]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.249769]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.299969]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.307696]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:40:38.308468]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:40:38.309767]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.311986]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.402533]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.412274]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:40:38.414192]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:40:38.415136]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.415659]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.496687]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.505002]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:40:38.505517]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.539366]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.549611]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:40:38.550269]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:40:38.550778]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.556660]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.595686]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.613957]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:40:38.616612]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:40:38.619454]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.623615]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.688266]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.699823]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:40:38.700980]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.702703]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.853542]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.858821]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:40:38.859015]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:40:38.859116]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.859408]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.894843]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.901461]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:40:38.901611]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:40:38.901690]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:38.901971]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:38.982826]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:38.992938]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:40:38.993241]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:39.022479]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:39.029345]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:40:39.029471]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:40:39.029559]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:39.029796]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:40:39.062036]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:40:39.076084]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:40:39.077418]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:40:39.078117]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:40:39.079995]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:11.406568]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:11.417070]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:41:11.417211]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:11.417563]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.442920]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.450577]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:41:16.451228]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.485239]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.493245]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:41:16.493725]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.493834]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:16.561898]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.567295]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:41:16.567929]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.597996]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.605278]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:41:16.605856]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.606230]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:16.878634]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.887390]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:41:16.887520]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:16.888006]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.924066]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.932004]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:41:16.932325]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:41:16.932555]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:16.933788]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:16.968155]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:16.974614]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:41:16.975041]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:41:16.975302]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:16.975637]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.016726]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.021810]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:41:17.022161]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.047828]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.054187]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:41:17.054412]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:41:17.054575]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.054922]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.081113]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.089110]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:41:17.089456]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:41:17.089767]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.090032]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.165227]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.174148]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:41:17.174523]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.174787]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.246734]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.251663]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:41:17.251818]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:41:17.251946]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.252256]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.320870]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.335440]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:41:17.335925]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:41:17.336243]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.336518]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.425993]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.430394]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:41:17.430729]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.460789]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.467020]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:41:17.467202]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:41:17.467279]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.467533]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:17.499808]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:17.507420]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:41:17.507821]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:41:17.508010]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:17.508347]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:41:30.480483]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:41:30.490701]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:41:30.491061]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:41:30.491773]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:20.444038]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:20.459124]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:44:20.459264]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:20.459576]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.228686]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.233573]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:44:31.234591]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.270506]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.276808]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:44:31.277775]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.277959]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:31.357083]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.362758]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:44:31.364518]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.393228]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.400646]:[32mBusqueda de plan de cuentas en la sede jalisco se encontraron (11) coincidencias
+ [35m[2024-04-26 03:44:31.401163]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.401408]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:31.914691]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.924437]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:44:31.924557]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:31.924811]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:31.968339]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:31.975381]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:44:31.976604]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:44:31.977429]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:31.978553]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.028013]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.038263]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:44:32.038425]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:44:32.038528]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.038840]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.076070]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.080740]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:44:32.081804]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.109874]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.117335]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:44:32.117672]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:44:32.117825]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.118143]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.159537]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.169637]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:44:32.171786]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:44:32.172748]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.173894]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.205259]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.217545]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:44:32.218037]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.218566]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.296756]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.302404]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:44:32.302766]:[32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:44:32.303035]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.303477]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.343819]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.354660]:[32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m[2024-04-26 03:44:32.354857]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:44:32.354989]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.355319]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.393074]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.397592]:[32mtoken validado con exito!!!
+ [35m[2024-04-26 03:44:32.398265]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.443020]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.449900]:[32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m[2024-04-26 03:44:32.450866]:[32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m[2024-04-26 03:44:32.451777]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.452893]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:32.485784]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:32.497379]:[32m[0;31m Error al leer vnetas por producto  
+ [35m[2024-04-26 03:44:32.498232]:[32merror al leer las ventas por producto  
+ [35m[2024-04-26 03:44:32.498962]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:32.499913]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:44:41.570274]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:44:41.579690]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:44:41.579846]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:44:41.580130]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:45:07.040769]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:45:07.051928]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:45:07.052055]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:45:07.052319]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:45:11.866568]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:45:11.876279]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:45:11.876426]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:45:11.876694]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:45:14.009273]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:45:14.018609]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:45:14.019350]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:45:14.020093]:[32mDesconexión exitosa de la base de datos
+ [35m[2024-04-26 03:45:44.492679]:[32mConexión exitosa a la base de datos
+ [35m[2024-04-26 03:45:44.503838]:[32mPagos extraida de manera correcta
+ [35m[2024-04-26 03:45:44.504055]:[32mFinalizada la ejecucion de registros de productos 
+ [35m[2024-04-26 03:45:44.505581]:[32mDesconexión exitosa de la base de datos

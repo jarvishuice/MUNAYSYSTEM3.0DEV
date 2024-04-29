@@ -22,6 +22,7 @@ import ModalClose from '@mui/joy/ModalClose';
 import SummarizeIcon from '@mui/icons-material/Summarize';
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { Outlet,Link } from "react-router-dom";
+import SettingsAccessibilityIcon from '@mui/icons-material/SettingsAccessibility';
 
 const drawerWidth = 230;
 
@@ -172,6 +173,27 @@ export function SideBar(props: any): any {
                 
                 </Accordion>
                 </Link>
+                </AccordionGroup>
+              </ListItem>
+              <ListItem>
+                <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
+                <Link  to="visitantes">
+                 <Accordion >
+                <ListItemButton 
+                className="itemsLista"
+                  selected={index === 4}
+                  color={index === 4 ? 'warning' : undefined}
+                  onClick={() => {setIndex(4),setOpen(false)}}
+                >
+                  <ListItemDecorator>
+                    <SettingsAccessibilityIcon/>
+                  </ListItemDecorator>
+                  <ListItemContent>VISITAS</ListItemContent>
+                  
+                </ListItemButton>
+                
+                </Accordion>
+                </Link >
                 </AccordionGroup>
               </ListItem>
               <ListItem>

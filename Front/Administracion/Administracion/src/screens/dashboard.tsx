@@ -1,19 +1,20 @@
-import { OrdenesToday } from "../Controller/Dashboard/graficoOrdenesToday";
-
-import {OrdenesTodayCoffe} from "../Controller/Dashboard/graficoOrdenesTodayCoffe";
-import {ProductosVendidosCoffeshop} from "../Controller/Dashboard/graficoVentasProductosCoffeshop"
-import {ProductosVendidosEspacios} from "../Controller/Dashboard/graficoVentasProductosEspacios"
-
+import Tabs from '@mui/joy/Tabs';
+import TabList from '@mui/joy/TabList';
+import Tab from '@mui/joy/Tab';
+import TabPanel from '@mui/joy/TabPanel';
+import { DashboardCoffe } from "../Controller/Dashboard/DashboardCoffe";
 export function Dashboard(){
-    return(<div>
-        <div className="dashboard">
-           
-            <OrdenesToday></OrdenesToday>
-            <ProductosVendidosEspacios/>
-           
-        </div>
-        
-         <div className="dashboard"><OrdenesTodayCoffe></OrdenesTodayCoffe>
-         <ProductosVendidosCoffeshop></ProductosVendidosCoffeshop></div></div>
+    return(<Tabs sx={{mt:8}} aria-label="Basic tabs" defaultValue={0}>
+    <TabList>
+      <Tab>COFFESHOP</Tab>
+      <Tab>ESPACIOS</Tab>
+
+    </TabList>
+    <TabPanel value={0}>
+        <DashboardCoffe></DashboardCoffe>
+    </TabPanel>
+
+  
+  </Tabs>
     )
 }

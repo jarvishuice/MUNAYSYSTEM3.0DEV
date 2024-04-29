@@ -109,7 +109,7 @@ export class VisitasDAO implements  Ivisitas {
                 const data = await response.json();
                 console.log(data);
                 //alert("debug salida visita  "+ data)
-                window.location.reload();
+               // window.location.reload();
                 return data as boolean;
             } else if (response.status == 404) {
                 alert("No se ha podido conectar con el servidor ");
