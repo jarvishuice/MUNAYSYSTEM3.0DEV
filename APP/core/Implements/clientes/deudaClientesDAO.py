@@ -139,7 +139,8 @@ group by c.nombre ,p.idorden,i.nombre,p.cantidad,p.total,o.fechapedido;
             if conexion['status'] ==True:       
                if Rwallet > 0:
                    pago.motivo=f"orden coffeShop {pago.sede} + recarga de wallet {Rwallet}"
-               
+               else: 
+                   pago.motivo =f"orden coffeShop {pago.sede} "
                rPago=self.integracionPagos.registrarPago(pago)
                if rPago['status']==True:
                    abonoDescuento=self.integracionAbono.registrarAbono(AbonosEntity(id=str('x'),idCliente=int(pago.idcliente),idPago=str(rPago['response'].id),status= str("aplicado").upper(),monto=float(Dwallet),sede=str(rPago['response'].sede)))

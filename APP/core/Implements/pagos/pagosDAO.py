@@ -19,7 +19,8 @@ class PagosDAO(ConectionsPsqlInterface,IPagos):
             tazaSql="select id from tazadollar t  order by id desc limit 1 " #obtemner el id de la ultima taza registrada
             
             conexion = self.connect()
-            pagoData.id = time.time()#el id del pago es generado con la fecha fdormato unix 
+            pagoData.id = time.time()#el id del pago es generado con la fecha fdormato unix
+             
             if conexion['status'] ==True:
                 with self.conn.cursor() as cur :
                     cur.execute(f""" insert into pagos (id,idcliente,fechapago,motivo,idformadepago,referencia,monto,idtaza,sede) values(
@@ -44,7 +45,7 @@ class PagosDAO(ConectionsPsqlInterface,IPagos):
     
     def registrarAbono(self,pagoData: PagosEntity) -> PagosEntity:
         try:
-            pagoData.motivo="Abono deuda coffeshop"
+            pagoData.motivo="Abono deuda coffeshop "
             pago=self.registrarPago(pagoData)
             if pago['status']==True:
                 abono=self.abonos.registrarAbono(AbonosEntity(id=str(time.time()),idCliente=int(pagoData.idcliente),idpago=str(pago['response'].id),status=str('aplicado'),monto=float(pagoData.monto),sede=pagoData.sede))

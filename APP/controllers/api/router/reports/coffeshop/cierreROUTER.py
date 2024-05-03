@@ -10,7 +10,7 @@ validator=AuthDAO()
 urlBase = "/MUNAY/nest"
 ReportCierre=APIRouter(prefix=f"{urlBase}/Reports/coffeshop/cierre", tags=["Reports"])
 @ReportCierre.get("/{sede}")
-async def reporteInventario(sede):
+async def cierre(sede):
      trigger=core.generarCierre(sede)
      archivo =trigger['response']
      if trigger['status']==True:
