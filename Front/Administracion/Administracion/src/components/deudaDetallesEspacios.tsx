@@ -66,7 +66,7 @@ async function DETALLESDEUDAS(idCliente:number) {
 
                             </Avatar>
                         </ListItemAvatar>
-                        <ListItemText primary={items.producto} secondary={` \tcantidad:${items.cantidad} \t \t total:${(items.precio * items.cantidad).toFixed(2)}$ #orden:${items.idOrden} `} />
+                        <ListItemText primary={items.producto} secondary={` \tcantidad:${items.cantidad} \t \t total:${(items.precio * items.cantidad).toFixed(2)}$  fecha:${items.fechaPedido.slice(0,11)} #orden:${items.idOrden}   `} />
                         
                     </ListItem>
                 })}
