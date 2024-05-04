@@ -26,7 +26,7 @@ async def crearProductos(ProductoData:ProductosEntity)->ProductosEntity:
        raise HTTPException(400,trigger['mesagge'])
 
 @PRODUCTOS.get("/search/{name}/{sede}")
-async def buscarProducto(name:str,sede:str) -> list[ProductosEntity]:
+async def buscarProducto(name:str,sede:str) -> list[ProductosEntity]|list|None:
     trigger=core.BuscarProducto(name,sede)
     if trigger['status'] ==True:
        respuesta= trigger['response']
