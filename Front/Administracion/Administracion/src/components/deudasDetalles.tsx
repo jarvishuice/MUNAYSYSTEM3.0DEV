@@ -50,7 +50,7 @@ async function DETALLESDEUDAS(idCliente:number) {
             <Typography key={"walletCard"} noWrap={true}color="neutral" level="h4" >Abonos:{props.cliente.abono}$</Typography>
         </div>
         <div key="deuda del cliente">
-             <Typography  key={"totalOrdewn"} color="success" level="h4"> Total:{total-props.cliente.abono}$</Typography>
+             <Typography  key={"totalOrdewn"} color="success" level="h4"> Total:{(total-props.cliente.abono).toFixed(2)}$</Typography>
 
         </div>
         <center>

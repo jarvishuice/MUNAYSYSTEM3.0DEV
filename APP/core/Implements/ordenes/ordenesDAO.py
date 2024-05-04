@@ -1,5 +1,6 @@
 
 import datetime
+from core.Implements.TransferenciasInternasWA.TransFerenciasWA import TransferenciasWADAO
 from core.Entities.clientes.deudaClienteCoffeShopEntitity import DetalleDedudaClientesEntity
 from core.Entities.ordenes.ordenesEntity import OrdenesEntity,OrdenesDetalladasEntity
 from core.Entities.ordenes.detalleOrdenEntity import OrdenDetalladaEntity
@@ -19,6 +20,7 @@ class OrdenesDao(IOrdenes,ConectionsPsqlInterface):
     pedidos=PedidosDAO()
     walletDao=WalletDAO()
     pagoWallet=PagosWalletDAO()
+    integracion=TransferenciasWADAO()
     def __init__(self):
         super().__init__()
     
@@ -28,8 +30,7 @@ class OrdenesDao(IOrdenes,ConectionsPsqlInterface):
             orden.id=time.time()
             conection= self.connect()
             saldoWallet= self.walletDao.consultaSaldo(orden.idCliente)
-            
-              
+                        
             if conection['status']==True:
                 if saldoWallet['response'] >= orden.total:
                   
@@ -40,7 +41,8 @@ class OrdenesDao(IOrdenes,ConectionsPsqlInterface):
                   
                 else:
                     Logs.WirterTask(f"{self.NOTE}orden cargada como cargo a cuenyta ")
-                   
+                    tranferenciaAbonos=self.integracion.TransFerirWalletByAbono(orden.idCliente,saldoWallet['response'],orden.sede)
+                    Logs.Warnings(tranferenciaAbonos)
                 with self.conn.cursor() as cur :
                     cur.execute(f"""insert into ordenes(id,total,sede,fechapedido,fechapago,status,idcliente,idpago)
                values('{orden.id}',{orden.total},'{orden.sede}',now(),now(),'{orden.status}','{orden.idCliente}','{orden.idPago}')
