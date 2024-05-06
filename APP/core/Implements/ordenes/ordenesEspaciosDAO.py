@@ -272,11 +272,9 @@ order by o.id desc
               with self.conn.cursor() as cur :
                   
                     cur.execute(f"""
-                        select i.nombre ,p.cantidad,i.precio,p.total from pedidos_espacios p 
-                        inner join productos_espacios i on i.precio=i.precio and i.nombre=i.nombre
-                        inner join ordenes o on o.fechapedido =o.fechapedido 
-                        where o.id = '{idOrden}' and i.id=p.idproducto and p.idorden ='{idOrden}' 
-                                """);        
+                        select  i.nombre,pe.cantidad ,i.precio,pe.total from pedidos_espacios pe
+inner join productos_espacios i on i.nombre = i.nombre and i.cantidad =i.cantidad
+where pe.idorden = '{idOrden}' and i.id = pe.idproducto """);        
                     count= cur.rowcount
                     if count > 0 :
                         for i in cur :

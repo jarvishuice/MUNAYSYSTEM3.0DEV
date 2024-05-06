@@ -5,19 +5,20 @@ import CardMembershipIcon from '@mui/icons-material/CardMembership';
 import PhoneIphoneIcon from '@mui/icons-material/PhoneIphone';
 import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
 import React from "react";
-import { MetricCoffeshopDAO } from "../../core/Implements/metric/coffeshop/MetricCoffeshopDAO";
-import { PagosMetrictEntity } from "../../core/Entities/metric/coffeshop/MetricCoffeshopEntity";
 
-export function CardsMethodPayToday(){
+import { PagosMetrictEntity } from "../../core/Entities/metric/coffeshop/MetricCoffeshopEntity";
+import { MetricEspaciosDAO } from "../../core/Implements/metric/espacios/MetricEspaciosDAO";
+
+export function CardsMethodPayTodayEspacios(){
     const valor=0
     const [total,setTotal]=React.useState(0);
     const [data,setData]= React.useState<PagosMetrictEntity|[]>([]);
     
     async function GEtPAY() {
-        const controlador = new MetricCoffeshopDAO();
+        const controlador = new MetricEspaciosDAO();
         try {
           
-           const datos = await controlador.payCoffeToday(localStorage.getItem("sede")??"sede")
+           const datos = await controlador.payEspaciosToday(localStorage.getItem("sede")??"sede")
            const res=datos as PagosMetrictEntity 
            setData(res);
       
@@ -29,6 +30,7 @@ export function CardsMethodPayToday(){
            setPunto(res.resumen.Punto)
            setZelle(res.resumen.zelle)
            setTotal(res.resumen.total)
+           alert(data)
            console.log(data)
  
            
