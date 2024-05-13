@@ -215,3 +215,816 @@
  [35m2024-05-13 11:16:36.367609- INFO - [32mconsulta de ultima tasa Dollar BCV  realizada con exito 
  [35m2024-05-13 11:16:36.368062- INFO - [32mDesconexión exitosa de la base de datos
  [35m2024-05-13 11:16:36.368927- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:33.976625- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:34.306866- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:28:34.307048- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:34.307406- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:35.068916- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:35.718102- INFO - [32mPagos extraida de manera correcta
+ [35m2024-05-13 11:28:35.718555- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:35.719715- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:37.253434- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:37.765735- INFO - [32mlectura de ventas por productos diarias realizado con exito
+ [35m2024-05-13 11:28:37.765948- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:37.766543- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:38.633629- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:39.027930- INFO - [32mse ecncontraron (12) deudas  en la sede cfm .....!
+ [35m2024-05-13 11:28:39.028501- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:39.028960- INFO - [32mconsulta de dedudas realizada de manera correcta
+ [35m2024-05-13 11:28:40.169757- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:40.538764- INFO - [32m detalles de pedidos extraidos de manera correcta 
+ [35m2024-05-13 11:28:40.538897- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:40.539186- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:41.318075- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:41.626308- INFO - [32m detalles de wallet disponibles extraidos con exito 
+ [35m2024-05-13 11:28:41.626553- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:41.627076- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:42.399046- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:42.771841- INFO - [32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m2024-05-13 11:28:42.772450- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:42.773322- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:43.602022- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:44.226660- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:28:44.226787- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:44.227104- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:45.319421- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:45.642938- INFO - [32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m2024-05-13 11:28:45.643308- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:45.644225- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:45.649702- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:45.651851- INFO - [32mlectura de acciones heca de manera correcta
+ [35m2024-05-13 11:28:45.652547- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:46.661290- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:28:47.176141- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:28:47.176652- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:28:47.188625- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:28:47.193236- INFO - [32mHilos creados ....
+ [35m2024-05-13 11:28:47.236793- INFO - [32mPUNTO DE VENTAesete
+ [35m2024-05-13 11:28:47.237624- INFO - [32meste es 10.0
+ [35m2024-05-13 11:28:47.238303- INFO - [32mCAJACFMesete
+ [35m2024-05-13 11:28:47.241183- INFO - [32mYa arrancaron los hilos
+ [35m2024-05-13 11:28:47.241466- INFO - [32mYA cunminaron los hilos ........... 
+ [35m2024-05-13 11:28:47.241705- INFO - [32mreporte de inventario generado con exito
+ [35m2024-05-13 11:28:47.241824- INFO - [32mfinalizado el reporte de inventario de la sede cfm
+ [35m2024-05-13 11:29:20.876853- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:21.387776- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:29:21.387976- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:21.388355- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:22.443273- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:22.990273- INFO - [32mPagos extraida de manera correcta
+ [35m2024-05-13 11:29:22.990437- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:22.990728- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:24.050290- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:24.624390- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:29:24.624546- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:24.624909- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:25.678920- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:26.200220- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:29:26.200344- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:26.200631- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:27.742990- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:28.574555- INFO - [32mlectura de ventas por productos diarias realizado con exito
+ [35m2024-05-13 11:29:28.574669- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:28.574948- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:29.682113- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:29.958742- INFO - [32mse ecncontraron (12) deudas  en la sede cfm .....!
+ [35m2024-05-13 11:29:29.959200- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:29.959706- INFO - [32mconsulta de dedudas realizada de manera correcta
+ [35m2024-05-13 11:29:31.319432- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:31.785043- INFO - [32m detalles de pedidos extraidos de manera correcta 
+ [35m2024-05-13 11:29:31.785198- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:31.785503- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:32.869750- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:33.737085- INFO - [32m detalles de wallet disponibles extraidos con exito 
+ [35m2024-05-13 11:29:33.737245- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:33.737672- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:34.605773- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:35.069970- INFO - [32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m2024-05-13 11:29:35.070346- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:35.071304- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:36.236106- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:36.745702- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:29:36.745834- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:36.746141- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:38.422057- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:38.744378- INFO - [32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m2024-05-13 11:29:38.744507- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:38.744796- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:38.745106- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:38.745625- INFO - [32mlectura de acciones heca de manera correcta
+ [35m2024-05-13 11:29:38.745856- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:40.229398- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:29:41.500029- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:29:41.500152- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:29:41.500432- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:29:41.501130- INFO - [32mHilos creados ....
+ [35m2024-05-13 11:29:41.503249- INFO - [32mPUNTO DE VENTAesete
+ [35m2024-05-13 11:29:41.503419- INFO - [32meste es 10.0
+ [35m2024-05-13 11:29:41.503508- INFO - [32mCAJACFMesete
+ [35m2024-05-13 11:29:41.505009- INFO - [32mYa arrancaron los hilos
+ [35m2024-05-13 11:29:41.505186- INFO - [32mYA cunminaron los hilos ........... 
+ [35m2024-05-13 11:30:02.670401- INFO - [32mreporte de inventario generado con exito
+ [35m2024-05-13 11:30:02.670547- INFO - [32mfinalizado el reporte de inventario de la sede cfm
+ [35m2024-05-13 11:30:03.579479- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:03.887184- INFO - [32mordenes de la sede cfm extraida con exito 
+ [35m2024-05-13 11:30:03.887361- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:03.887802- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:09.310441- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:09.322619- INFO - [32mAccion registrada de manera exitosa con el id:[1715614209.3101506]
+ [35m2024-05-13 11:30:09.323088- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:09.323250- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:10.373097- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:10.709458- INFO - [32mla orden 1715613033.7762475  fue eliminada con exito
+ [35m2024-05-13 11:30:10.709587- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:10.709862- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:16.034138- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:16.042580- INFO - [32mAccion registrada de manera exitosa con el id:[1715614216.0337758]
+ [35m2024-05-13 11:30:16.042819- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:16.042916- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:17.017840- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:17.605028- INFO - [32mla orden 1715612527.5570617  fue eliminada con exito
+ [35m2024-05-13 11:30:17.605146- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:17.605403- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:20.491142- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:20.502947- INFO - [32mAccion registrada de manera exitosa con el id:[1715614220.4899123]
+ [35m2024-05-13 11:30:20.504432- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:20.505073- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:21.718028- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:22.096714- INFO - [32mla orden 1715612461.8216193  fue eliminada con exito
+ [35m2024-05-13 11:30:22.096838- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:22.097121- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:24.349928- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:24.359781- INFO - [32mAccion registrada de manera exitosa con el id:[1715614224.3496323]
+ [35m2024-05-13 11:30:24.360030- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:24.360134- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:25.489940- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:25.902401- INFO - [32mla orden 1715611278.9913347  fue eliminada con exito
+ [35m2024-05-13 11:30:25.902730- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:25.904083- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:28.287655- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:28.301282- INFO - [32mAccion registrada de manera exitosa con el id:[1715614228.287276]
+ [35m2024-05-13 11:30:28.301550- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:28.301662- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:29.193826- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:29.794261- INFO - [32mla orden 1715611240.7789607  fue eliminada con exito
+ [35m2024-05-13 11:30:29.794589- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:29.795202- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:33.198417- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:33.204548- INFO - [32mAccion registrada de manera exitosa con el id:[1715614233.1981616]
+ [35m2024-05-13 11:30:33.204781- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:33.204884- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:34.280313- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:34.823988- INFO - [32mla orden 1715609352.8053005  fue eliminada con exito
+ [35m2024-05-13 11:30:34.824106- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:34.824384- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:37.881096- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:37.885925- INFO - [32mAccion registrada de manera exitosa con el id:[1715614237.880857]
+ [35m2024-05-13 11:30:37.886141- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:37.886245- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:38.912530- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:39.417143- INFO - [32mla orden 1715609294.3245595  fue eliminada con exito
+ [35m2024-05-13 11:30:39.420491- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:39.423397- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:43.717167- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:43.751353- INFO - [32mAccion registrada de manera exitosa con el id:[1715614243.7168238]
+ [35m2024-05-13 11:30:43.751552- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:43.752391- INFO - [32m[0;33m No tiene conexión abierta en estos momentos
+ [35m2024-05-13 11:30:45.055543- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:45.489325- INFO - [32mla orden 1715608988.8563473  fue eliminada con exito
+ [35m2024-05-13 11:30:45.489456- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:30:45.489727- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:30:57.675887- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:30:58.260750- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:30:58.261049- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:00.818857- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:01.332901- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:31:01.333546- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:01.333731- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:02.558801- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:02.866667- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:31:02.867518- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:03.800560- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:04.178256- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:31:04.179093- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:04.179469- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:05.288510- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:05.673891- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:31:05.674362- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:05.674884- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:06.809938- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:07.372336- INFO - [32mPagos extraida de manera correcta
+ [35m2024-05-13 11:31:07.372687- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:07.373512- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:08.505220- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:09.009930- INFO - [32mlectura de ventas por productos diarias realizado con exito
+ [35m2024-05-13 11:31:09.010042- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:09.010339- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:09.931708- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:10.239271- INFO - [32mse ecncontraron (11) deudas  en la sede cfm .....!
+ [35m2024-05-13 11:31:10.239893- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:10.240241- INFO - [32mconsulta de dedudas realizada de manera correcta
+ [35m2024-05-13 11:31:11.039704- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:11.686145- INFO - [32m detalles de pedidos extraidos de manera correcta 
+ [35m2024-05-13 11:31:11.686280- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:11.686565- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:13.028147- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:13.416076- INFO - [32m detalles de wallet disponibles extraidos con exito 
+ [35m2024-05-13 11:31:13.416204- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:13.416499- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:14.647101- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:15.102616- INFO - [32mlectura de ordenes por pagar historicas realizada de maenra satisfactoria 
+ [35m2024-05-13 11:31:15.102776- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:15.103139- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:16.017034- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:16.301835- INFO - [32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m2024-05-13 11:31:16.302121- INFO - [32m{self.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m2024-05-13 11:31:16.302224- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:16.302513- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:17.509341- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:18.011498- INFO - [32mregistro de pruntos  extraidos de manera correcta de manera correcta
+ [35m2024-05-13 11:31:18.011776- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:18.012331- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:18.013223- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:18.016153- INFO - [32mlectura de acciones heca de manera correcta
+ [35m2024-05-13 11:31:18.017194- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:19.152884- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:31:19.682930- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-05-13 11:31:19.684138- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:31:19.685206- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:31:19.686174- INFO - [32mHilos creados ....
+ [35m2024-05-13 11:31:19.689793- INFO - [32mPUNTO DE VENTAesete
+ [35m2024-05-13 11:31:19.692046- INFO - [32meste es 10.0
+ [35m2024-05-13 11:31:19.692793- INFO - [32mCAJACFMesete
+ [35m2024-05-13 11:31:19.694605- INFO - [32mYa arrancaron los hilos
+ [35m2024-05-13 11:31:19.695171- INFO - [32mYA cunminaron los hilos ........... 
+ [35m2024-05-13 11:31:19.696048- INFO - [32mreporte de inventario generado con exito
+ [35m2024-05-13 11:31:19.696450- INFO - [32mfinalizado el reporte de inventario de la sede cfm
+ [35m2024-05-13 11:46:21.465786- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:46:40.505248- INFO - [32m[0;31m Error en la conexion a la base de datos connection to server at "191.97.17.26", port 5432 failed: SSL connection has been closed unexpectedly
+
+ [35m2024-05-13 11:46:40.505760- INFO - [32mERROR DE CONEXION A LA BASE DE DATOS...
+ [35m2024-05-13 11:46:40.505848- INFO - [32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m2024-05-13 11:46:51.703910- INFO - [32m[0;31m Error en la conexion a la base de datos connection to server at "191.97.17.26", port 5432 failed: Connection timed out
+	Is the server running on that host and accepting TCP/IP connections?
+
+ [35m2024-05-13 11:46:51.704080- INFO - [32mERROR DE CONEXION A LA BASE DE DATOS...
+ [35m2024-05-13 11:46:58.445343- INFO - [32m[0;31m Error en la conexion a la base de datos connection to server at "191.97.17.26", port 5432 failed: SSL SYSCALL error: Success
+connection to server at "191.97.17.26", port 5432 failed: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+ [35m2024-05-13 11:46:58.445474- INFO - [32mERROR DE CONEXION A LA BASE DE DATOS...
+ [35m2024-05-13 11:59:46.069338- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:46.092562- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:46.093149- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:46.093251- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:46.109061- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:46.348966- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:47.544603- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:47.550078- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:47.726128- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:47.793435- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:47.793581- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:47.902428- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:48.858165- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:48.984847- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:49.266840- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:49.712010- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:49.764948- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:49.850989- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:59:49.851083- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:59:49.943834- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:50.051684- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:50.151027- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.151142- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.215991- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.459044- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.461224- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:50.462714- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.476055- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:59:50.752589- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:50.801124- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:59:51.265352- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.265501- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.704332- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.808486- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.808684- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.837362- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:59:51.839011- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:01:06.882591- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:01:07.604913- INFO - [32m[0;31m ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE
+ [35m2024-05-13 12:01:07.605300- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:04:24.648534- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:04:24.649770- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:04:25.243451- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:04:25.243767- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:04:25.244229- INFO - [32m[0;31m error en la base de datos detailconnection pointer is NULL
+
+ [35m2024-05-13 12:04:25.244335- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:04:25.244425- INFO - [32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m2024-05-13 12:04:26.282286- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:04:26.764772- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:04:26.765430- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:04:26.765677- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:06:38.144501- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:38.245143- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:38.374003- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:06:38.458568- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:06:38.458704- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:06:38.459235- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:06:39.215761- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:39.507222- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:06:39.507533- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:06:39.507625- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:06:40.491141- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:41.009615- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:06:41.010493- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:06:41.010911- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:06:59.307689- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:59.365454- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:06:59.560457- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:06:59.623942- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:06:59.624073- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:06:59.624162- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:00.975056- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:01.482566- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:07:01.482940- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:01.483074- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:07:02.819446- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:03.733747- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:07:03.735430- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:03.735697- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:07:06.562598- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:06.705170- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:06.817467- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:07:06.909527- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:06.909938- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:07:06.910127- INFO - [32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m2024-05-13 12:07:07.823718- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:08.554398- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:07:08.554924- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:08.555097- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:07:10.004909- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:10.382639- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:07:10.383180- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:10.383273- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:07:13.060216- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:15.531992- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:07:15.532386- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:07:17.338566- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:07:18.739341- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:07:18.739753- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:11:55.486059- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.494993- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.495184- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.495271- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.501308- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.528339- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.611523- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.612961- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.625480- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.632679- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.632865- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.643086- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.731331- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.743255- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.759325- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.788547- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.793479- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.807269- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 12:11:55.807426- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 12:11:55.815625- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.832292- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.849278- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.849397- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.861518- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.887876- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.888882- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.888991- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.890313- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:11:55.907693- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.912813- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:11:55.945168- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:55.945513- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:56.010002- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:56.016301- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:56.016419- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:56.019122- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:11:56.019217- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:13:20.813686- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:21.011941- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:13:21.012372- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:13:21.923537- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:22.191541- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:22.322439- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:13:22.322830- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:13:22.322928- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:13:22.529688- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:13:22.530027- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:13:23.533676- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:24.236602- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:13:24.237046- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:13:24.237761- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:13:27.240191- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:28.676770- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:13:28.677177- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:13:30.315880- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:13:35.915113- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:13:35.915504- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:14:45.239671- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:14:45.752021- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:14:46.165269- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:14:46.165554- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:14:46.819266- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:14:46.819418- INFO - [32m[0;33mno tiene conexion aperturada en estos monetos 
+ [35m2024-05-13 12:14:47.600117- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:14:50.696492- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:14:50.697371- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:14:52.258500- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:14:52.755154- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:14:52.755563- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:14:52.755679- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:14:53.930399- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:14:54.465026- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:14:54.465584- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:14:54.465826- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:14:58.119758- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:15:06.545707- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:15:06.546877- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:19:45.430153- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:19:47.004599- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:19:47.005405- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:36.306906- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:36.635648- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:20:36.635989- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:36.769390- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:37.070552- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 12:20:37.070903- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:37.762274- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:38.304908- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:20:38.305221- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:38.305302- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:20:39.582607- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:40.721942- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 12:20:40.722534- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:40.722666- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 12:20:42.758829- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:44.051852- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:20:44.052238- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:20:45.715430- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:20:47.218899- INFO - [32mleyendo todos los clientes se encontraron 1792 clientes registrados  !!
+ [35m2024-05-13 12:20:47.219294- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:05.286616- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:05.621579- INFO - [32m[0;31m Noneerror en la base de datos  en __getClientedetailno existe la columna «undefined»
+LINE 1: select nombre,ci,tlf,correo from clientes where id=undefined
+                                                           ^
+
+ [35m2024-05-13 12:21:05.621717- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:05.621817- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:21:05.622141- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:07.027290- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:07.329964- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idcliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:21:07.330112- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:07.330214- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:21:07.331038- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:08.563611- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:08.877091- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idCliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:21:08.877207- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:08.877296- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:21:08.877573- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:10.185130- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:10.513709- INFO - [32m[0;31m Noneerror en la base de datos  en __getPagosCoffedetailno existe la columna «undefined»
+LINE 1: ...* from obtener_datos_pagos_by_cliente_rango_fecha(undefined,...
+                                                             ^
+
+ [35m2024-05-13 12:21:10.513893- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:10.514001- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:21:10.514281- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:11.845166- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:12.224978- INFO - [32m[0;31m Noneerror en la base de datos  en __getPedidosCoffedetailno existe la columna «undefined»
+LINE 5: where c.id = undefined and o.sede = 'cfm' and  o.idcliente =...
+                     ^
+
+ [35m2024-05-13 12:21:12.225492- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:12.225677- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:21:12.226243- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:13.893311- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:14.185948- INFO - [32m[0;31m Noneerror en la base de datos  en __getWalletOperacionesCoffedetailno existe la columna «undefined»
+LINE 1: select id,monto from wallet where idcliente = undefined and ...
+                                                      ^
+
+ [35m2024-05-13 12:21:14.186063- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:14.186125- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:21:14.186396- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:38.624714- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.635284- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.635511- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:38.635629- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.645681- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:38.675087- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:38.849199- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:38.852144- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.871799- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.887581- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.887722- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:38.911763- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.147164- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.190696- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.233629- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.290575- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.307149- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.341735- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 12:21:39.342022- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 12:21:39.356279- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.389568- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.419308- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.419610- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.442670- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.483311- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.486427- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:39.486580- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.487964- INFO - [32mnew implement IPagos
+ [35m2024-05-13 12:21:39.508077- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:39.515165- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 12:21:39.568588- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.568704- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.628441- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.633634- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.633729- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.636090- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:39.636204- INFO - [32mnew implement IClientes
+ [35m2024-05-13 12:21:52.493196- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:53.006242- INFO - [32m[0;31m Noneerror en la base de datos  en __getClientedetailno existe la columna «undefined»
+LINE 1: select nombre,ci,tlf,correo from clientes where id=undefined
+                                                           ^
+
+ [35m2024-05-13 12:21:53.006353- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:53.006443- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:21:53.006714- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:54.541794- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:55.156879- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idcliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:21:55.157081- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:55.157251- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:21:55.157676- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:56.445945- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:56.754498- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idCliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:21:56.754649- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:56.755047- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:21:56.755726- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:21:57.976451- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:21:58.228760- INFO - [32m[0;31m Noneerror en la base de datos  en __getPagosCoffedetailno existe la columna «undefined»
+LINE 1: ...* from obtener_datos_pagos_by_cliente_rango_fecha(undefined,...
+                                                             ^
+
+ [35m2024-05-13 12:21:58.229094- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:21:58.229407- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:21:58.230145- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:00.070925- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:00.480633- INFO - [32m[0;31m Noneerror en la base de datos  en __getPedidosCoffedetailno existe la columna «undefined»
+LINE 5: where c.id = undefined and o.sede = 'cfm' and  o.idcliente =...
+                     ^
+
+ [35m2024-05-13 12:22:00.480769- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:00.480855- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:22:00.481136- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:02.631589- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:03.039255- INFO - [32m[0;31m Noneerror en la base de datos  en __getWalletOperacionesCoffedetailno existe la columna «undefined»
+LINE 1: select id,monto from wallet where idcliente = undefined and ...
+                                                      ^
+
+ [35m2024-05-13 12:22:03.039402- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:03.039482- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:22:03.039733- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:05.721058- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:06.011395- INFO - [32m[0;31m Noneerror en la base de datos  en __getClientedetailno existe la columna «undefined»
+LINE 1: select nombre,ci,tlf,correo from clientes where id=undefined
+                                                           ^
+
+ [35m2024-05-13 12:22:06.011791- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:06.012122- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:22:06.012962- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:07.613322- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:08.651326- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idcliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:22:08.651462- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:08.651557- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:22:08.651818- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:09.801976- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:10.311061- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idCliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:22:10.311190- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:10.311285- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:22:10.311549- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:11.540597- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:11.987393- INFO - [32m[0;31m Noneerror en la base de datos  en __getPagosCoffedetailno existe la columna «undefined»
+LINE 1: ...* from obtener_datos_pagos_by_cliente_rango_fecha(undefined,...
+                                                             ^
+
+ [35m2024-05-13 12:22:11.987721- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:11.987959- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:22:11.988646- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:13.091079- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:13.572740- INFO - [32m[0;31m Noneerror en la base de datos  en __getPedidosCoffedetailno existe la columna «undefined»
+LINE 5: where c.id = undefined and o.sede = 'cfm' and  o.idcliente =...
+                     ^
+
+ [35m2024-05-13 12:22:13.572862- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:13.572947- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:22:13.573227- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:15.021442- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:15.431118- INFO - [32m[0;31m Noneerror en la base de datos  en __getWalletOperacionesCoffedetailno existe la columna «undefined»
+LINE 1: select id,monto from wallet where idcliente = undefined and ...
+                                                      ^
+
+ [35m2024-05-13 12:22:15.431232- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:15.431326- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:22:15.431580- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:16.762144- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:17.171950- INFO - [32m[0;31m Noneerror en la base de datos  en __getClientedetailno existe la columna «undefined»
+LINE 1: select nombre,ci,tlf,correo from clientes where id=undefined
+                                                           ^
+
+ [35m2024-05-13 12:22:17.172077- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:17.172171- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:22:17.172418- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:19.071802- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:19.552668- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idcliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:22:19.553625- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:19.553799- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:22:19.554119- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:20.964553- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:21.268108- INFO - [32m[0;31m Noneerror en la base de datos  en __getOrdenesAbiertasCoffedetailno existe la columna «undefined»
+LINE 2: ...                     FROM ordenes where idCliente=undefined ...
+                                                             ^
+
+ [35m2024-05-13 12:22:21.268237- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:21.268318- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:22:21.268556- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:23.151691- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:23.520782- INFO - [32m[0;31m Noneerror en la base de datos  en __getPagosCoffedetailno existe la columna «undefined»
+LINE 1: ...* from obtener_datos_pagos_by_cliente_rango_fecha(undefined,...
+                                                             ^
+
+ [35m2024-05-13 12:22:23.520899- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:23.520976- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:22:23.521210- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:24.547600- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:24.792777- INFO - [32m[0;31m Noneerror en la base de datos  en __getPedidosCoffedetailno existe la columna «undefined»
+LINE 5: where c.id = undefined and o.sede = 'cfm' and  o.idcliente =...
+                     ^
+
+ [35m2024-05-13 12:22:24.792924- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:24.793024- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:22:24.793585- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:25.692823- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:25.909796- INFO - [32m[0;31m Noneerror en la base de datos  en __getWalletOperacionesCoffedetailno existe la columna «undefined»
+LINE 1: select id,monto from wallet where idcliente = undefined and ...
+                                                      ^
+
+ [35m2024-05-13 12:22:25.909907- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-05-13 12:22:25.910009- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:22:25.910286- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:27.312828- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:27.617009- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-13 12:22:27.617333- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:22:27.618067- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:28.951605- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:29.287149- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:29.287468- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:22:29.288261- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:30.586367- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:31.216314- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:31.216714- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:22:31.217427- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:32.534833- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:32.871246- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:32.871577- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:22:32.872284- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:34.199501- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:34.404708- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron pedidos del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:34.404831- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:22:34.405068- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:35.808930- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:36.218607- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-13 12:22:36.218729- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:22:36.219018- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:36.220188- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-13 12:22:39.187774- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:39.396858- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-13 12:22:39.396987- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:22:39.397226- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:40.522120- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:40.929380- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:40.929728- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:22:40.930434- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:42.118008- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:42.325181- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:42.325299- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:22:42.325557- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:43.704824- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:44.002976- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:44.003335- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:22:44.011604- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:45.215145- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:45.536738- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron pedidos del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:22:45.536885- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:22:45.537141- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:46.672638- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:22:47.053040- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-13 12:22:47.053226- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:22:47.053556- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:22:47.056405- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-13 12:23:21.385754- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:21.786436- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-13 12:23:21.786549- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:23:21.786828- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:22.915946- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:23.326291- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:23.326806- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:23:23.327635- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:24.552402- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:24.863558- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:24.863682- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:23:24.863944- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:25.920760- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:26.292704- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:26.293008- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:23:26.293913- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:27.627143- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:28.035983- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron pedidos del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:28.036096- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:23:28.036345- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:29.261700- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:29.570943- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-13 12:23:29.571213- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:23:29.571756- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:29.575040- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-13 12:23:46.363818- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:46.773226- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-13 12:23:46.773375- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:23:46.773717- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:48.206519- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:48.450400- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:48.450813- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:23:48.451568- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:49.544565- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:50.356914- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:50.357038- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:23:50.364892- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:51.585764- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:52.001011- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:52.001138- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:23:52.001379- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:53.168063- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:53.656697- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron pedidos del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:23:53.656823- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:23:53.657064- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:54.965921- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:23:55.376444- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-13 12:23:55.376954- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:23:55.378943- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:23:55.384748- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-13 12:24:38.897949- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:39.099321- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-13 12:24:39.099427- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-13 12:24:39.099729- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:40.231230- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:40.434232- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:24:40.434549- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-13 12:24:40.435024- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:41.457927- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:41.764991- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:24:41.765169- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-13 12:24:41.765489- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:43.146125- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:43.506513- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:24:43.506644- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-13 12:24:43.507050- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:44.255506- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:44.632130- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f67685c3810>>no se encontraron pedidos del cliente 7 en la sede cfm 
+ [35m2024-05-13 12:24:44.632297- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-13 12:24:44.632612- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:45.485378- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 12:24:45.759686- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-13 12:24:45.760010- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-13 12:24:45.760748- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 12:24:45.764241- INFO - [32mse genero el reporte de cliente 7

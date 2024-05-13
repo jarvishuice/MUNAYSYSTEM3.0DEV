@@ -58,16 +58,7 @@ direccion:JSON.stringify(params.row.direccion).replace(/['"]+/g, ''),
 deuda:0});
 
 }
-function ModalHistorico(idCliente:number,status:boolean){
-  const [abrir,setAbrir]= React.useState(status)
-  function cerrar(){
-    setAbrir(false);
-  
-  }
-  alert("iiiii") 
-    return (<FormHistoricoCliente abrir={abrir} open={cerrar} idCliente={idCliente} />)
-  
-  }
+
 const columns: GridColDef[] = [
   {
     field: 'id',
@@ -137,7 +128,8 @@ const columns: GridColDef[] = [
     width: 30,
     editable: false,
     renderCell:(params)=>(
-      <IconButton color="primary"  variant="solid" size="sm" onClick={()=>ModalHistorico(parseInt(JSON.stringify(params.row.id)),true)} ><ScheduleIcon/> </IconButton>
+      
+    <FormHistoricoCliente idCliente={params.row.idCliente} />
     )
   },
 ];

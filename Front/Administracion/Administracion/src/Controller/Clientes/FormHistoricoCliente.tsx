@@ -14,7 +14,10 @@ const paths = new PATHMUNAYSYSY();
 const API = paths.PathAPI();
 const prefijo = 'Reports/Clients/coffe';
 export function FormHistoricoCliente(props:any){
-    
+  const [open, setOpen] = React.useState(false);
+  const handleOpen = () => setOpen(true);
+  const handleClose = () => setOpen(false);
+
     const date= new Date()
     const fecha= `${date.getDay()}-${date.getMonth()+1}-${date.getFullYear()}`
     
@@ -30,9 +33,9 @@ export function FormHistoricoCliente(props:any){
       return (
         <Box
           sx={{
-            height: "100%",
-            flexGrow: 1,
-            minWidth: "100%",
+            height: "75vh",
+            flexGrow: 5,
+           
             transform: 'translateZ(0)',
             // The position fixed scoping doesn't work in IE11.
             // Disable this demo to preserve the others.
@@ -41,10 +44,10 @@ export function FormHistoricoCliente(props:any){
             },
           }}
       
-        >
+        > <Button onClick={handleOpen}>Open modal</Button>
           <Modal
           
-            open={props.abrir}
+            open={open}
             aria-labelledby="server-modal-title"
             aria-describedby="server-modal-description"
             sx={{
@@ -56,7 +59,7 @@ export function FormHistoricoCliente(props:any){
           
           >
             <div>
-                <IconButton onClick={()=> props.open(false)}> <CloseIcon/></IconButton>
+                <IconButton onClick={()=> handleClose()}> <CloseIcon/></IconButton>
                 <div> 
                 <Input value={Finicio} onChange={cambioFinicio} type='date'/>
                 <Input value={Ffin} onChange={cambioFfin} type='date'/>
