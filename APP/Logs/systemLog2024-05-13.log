@@ -1,0 +1,217 @@
+ [35m2024-05-13 11:00:53.502595- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.509772- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.510098- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:53.510302- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.516919- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:53.542394- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:53.643382- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:53.645135- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.659282- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.669439- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.669716- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.684275- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.836468- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:53.846472- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:53.889806- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:53.930976- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:53.938400- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:53.958309- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:00:53.958579- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:00:53.972844- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:53.991784- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.012148- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.012397- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.025813- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.062578- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.064637- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:54.064942- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.066681- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:00:54.085014- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:54.090841- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:00:54.138025- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.139223- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.203878- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.211748- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.212043- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.216027- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:00:54.216287- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:12.856453- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:12.877989- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:12.878970- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:12.879414- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:12.899665- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:13.017755- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:13.248198- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:13.257009- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.328011- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.360633- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.363016- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.427797- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.754225- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:13.782225- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:13.836162- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:13.905502- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:13.912692- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:13.947224- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:02:13.947594- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:02:13.967227- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:14.024126- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:14.076175- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:14.076524- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:14.113482- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:18.727057- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:18.759784- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:18.763465- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:18.768956- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:18.803481- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:19.047441- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:19.311535- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:19.317467- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.385232- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.415501- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.415904- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.465318- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.782686- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:19.824860- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:19.888981- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:19.956925- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:19.967912- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.006774- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:02:20.007330- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-13 11:02:20.029114- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.082456- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.159872- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.160223- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.202001- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.308900- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.312660- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:20.313314- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.316600- INFO - [32mnew implement IPagos
+ [35m2024-05-13 11:02:20.368061- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:20.385334- INFO - [32mnew implement IOrdenes
+ [35m2024-05-13 11:02:20.499001- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.499950- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.742676- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.757349- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.758092- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.763473- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:02:20.764235- INFO - [32mnew implement IClientes
+ [35m2024-05-13 11:09:56.624433- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:09:56.896065- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:09:56.896810- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:09:58.406928- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:09:58.952327- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:09:58.953185- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:09:58.954090- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:10:00.124803- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:00.554629- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:10:00.555016- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:01.698906- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:02.210448- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:10:02.210789- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:02.210892- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:10:07.053391- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:07.333731- INFO - [32mordenes de la sede cfm extraida con exito 
+ [35m2024-05-13 11:10:07.333875- INFO - [32mFinalida la lectura de las ordenes de la sede {sede}
+ [35m2024-05-13 11:10:07.334174- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:13.043748- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:13.394839- INFO - [32mBusqueda de producto de la categoria  (oficinas) se encontraron (64) coincidencias
+ [35m2024-05-13 11:10:13.397369- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:13.398067- INFO - [32mFinalizada la busqueda de productos por categoria 
+ [35m2024-05-13 11:10:14.406421- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:14.806035- INFO - [32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m2024-05-13 11:10:14.806396- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:25.660239- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:25.967290- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:10:25.967570- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:27.766682- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:28.048697- INFO - [32mBusqueda del cliente [prueba] realizada con exito s eencotraron 1 coincidencas
+ [35m2024-05-13 11:10:28.049612- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:30.392002- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:30.992558- INFO - [32mConsulta de saldo exitosa del cliente (1534) su saldo es 100
+ [35m2024-05-13 11:10:30.993104- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:35.043994- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:36.466597- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:36.822419- INFO - [32mConsulta de saldo exitosa del cliente (1534) su saldo es 100
+ [35m2024-05-13 11:10:36.824188- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:36.824616- INFO - [32m[0;33morden cargada como cargo a cuenyta 
+ [35m2024-05-13 11:10:38.462514- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:39.125469- INFO - [32mPedido creado de manera exitosa :[idOrden=1715613033.7762475 idProducto=4 cantidad=1 total=700.0]
+ [35m2024-05-13 11:10:39.125822- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:39.125959- INFO - [32mpedidos registrado con exito 
+ [35m2024-05-13 11:10:39.126041- INFO - [32mfinalizada el registro de multiples pedidos 
+ [35m2024-05-13 11:10:40.058552- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:40.563918- INFO - [32mpago regiustrado de manera satisfactoira 1715613040.058714
+ [35m2024-05-13 11:10:40.564313- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:40.564456- INFO - [32mfinalizado el registro del pago 1715613040.058714
+ [35m2024-05-13 11:10:41.744164- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:42.286434- INFO - [32mtransferencia realizada con exito
+ [35m2024-05-13 11:10:42.286798- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:42.286984- INFO - [32mtransferencia a bonos completada con exito !!id=1715613040.058714 fecha=None monto=-100.0 motivo='transferencia a  ABONOcfm' idcliente=1534 idformadepago=10 referencia='idCliente' idtaza=None sede='cfm' 
+ [35m2024-05-13 11:10:42.288333- INFO - [32mOrden_espacios creada de manera exitosa con el id:[1715613033.7762475]
+ [35m2024-05-13 11:10:42.288736- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:46.959475- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:47.264086- INFO - [32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m2024-05-13 11:10:47.264472- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:52.386943- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:52.603180- INFO - [32mse ecncontraron (12) deudas  en la sede cfm .....!
+ [35m2024-05-13 11:10:52.603692- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:58.154719- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:58.531370- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-13 11:10:58.533185- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:59.613143- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:59.669647- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:59.670137- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:10:59.972992- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:10:59.974277- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:59.975055- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:10:59.975594- INFO - [32mse ecncontraron (8) de pedidos  en la sede cfm del cliente 1534 .....!
+ [35m2024-05-13 11:10:59.976164- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:10:59.977041- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:01.201845- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:01.705325- INFO - [32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m2024-05-13 11:11:01.705794- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:01.705956- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:11:02.609396- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:03.036231- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:11:03.036693- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:03.037952- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:11:38.326323- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:38.877649- INFO - [32mBusqueda de producto de la categoria  (oficinas) se encontraron (64) coincidencias
+ [35m2024-05-13 11:11:38.877972- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:38.878081- INFO - [32mFinalizada la busqueda de productos por categoria 
+ [35m2024-05-13 11:11:39.901580- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:40.207452- INFO - [32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m2024-05-13 11:11:40.208182- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:47.786559- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:48.195505- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:11:48.196244- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:50.039276- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:50.448484- INFO - [32mBusqueda del cliente [prueba] realizada con exito s eencotraron 1 coincidencas
+ [35m2024-05-13 11:11:50.450126- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:11:52.528095- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:11:52.857627- INFO - [32mConsulta de saldo exitosa del cliente (1534) su saldo es 0
+ [35m2024-05-13 11:11:52.858189- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:27.148046- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:27.793858- INFO - [32mse ecncontraron (12) deudas  en la sede cfm .....!
+ [35m2024-05-13 11:16:27.794277- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:30.822489- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:31.086162- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-13 11:16:31.087260- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:32.153721- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:32.401649- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:32.461652- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:16:32.462867- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:32.572404- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:32.921849- INFO - [32mse ecncontraron (1) de pedidos  en la sede cfm del cliente 1114 .....!
+ [35m2024-05-13 11:16:32.922252- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:33.034530- INFO - [32mtoken validado con exito!!!
+ [35m2024-05-13 11:16:33.035431- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:33.996072- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:34.554851- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-05-13 11:16:34.556308- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:34.556562- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-05-13 11:16:35.968422- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-13 11:16:36.367609- INFO - [32mconsulta de ultima tasa Dollar BCV  realizada con exito 
+ [35m2024-05-13 11:16:36.368062- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-13 11:16:36.368927- INFO - [32mFinalizada la ejecucion de registros de productos 

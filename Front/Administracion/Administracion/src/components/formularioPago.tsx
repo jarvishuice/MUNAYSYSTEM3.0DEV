@@ -87,7 +87,7 @@ useEffect (()=>{
   const cambioReferencia = (e:React.ChangeEvent<HTMLInputElement>)=>{
     setReferencia(e.target.value);
   }
-  const [iMonto,setIMonto] = useState(0.00)
+  const [iMonto,setIMonto] = useState(0)
   const cambioIMonto = (e:React.ChangeEvent<HTMLInputElement>)=>{
     setIMonto(Number(e.target.value));
   }

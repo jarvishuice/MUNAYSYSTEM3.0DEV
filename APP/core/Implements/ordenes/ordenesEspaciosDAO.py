@@ -1,5 +1,6 @@
 
 import datetime
+from core.Implements.TransferenciasInternasWA.TransFerenciasEspaciosWA import TransferenciasEspaciosWADAO
 from core.Entities.ordenes.ordenesEntity import OrdenesEntity
 from core.Implements.ordenes.ordenesDAO import OrdenesDao
 from core.Entities.clientes.deudaClienteCoffeShopEntitity import DetalleDedudaClientesEntity
@@ -14,6 +15,7 @@ from core.test.ordenesDataTest.ordenesValidation import validationOrdenesData
 import time
 from core.Implements.pedidos.pedidosEspaciosDAO import PedidosEspaciosDAO
 from core.Implements.wallet.walletDAO import WalletDAO
+from core.Implements.wallet.walletEspaciosDAO import WalletEspaciosDAO
 from core.Implements.pagos.pagosWalletDAO import PagosWalletDAO
 from config.Logs.LogsActivity import Logs
 from config.helpers.override import override
@@ -22,6 +24,8 @@ class OrdenesEspaciosDAO(IOrdenes,ConectionsPsqlInterface):
     pedidos=PedidosEspaciosDAO()
     walletDao=WalletDAO()
     pagoWallet=PagosWalletDAO()
+    walletEspacios = WalletEspaciosDAO()
+    integracion =  TransferenciasEspaciosWADAO()
     def __init__(self):
         super().__init__()
     @override
@@ -50,7 +54,8 @@ class OrdenesEspaciosDAO(IOrdenes,ConectionsPsqlInterface):
         try:
             orden.id=time.time()
             conection= self.connect()
-          
+            saldoWallet= self.walletEspacios.consultaSaldo(orden.idCliente)
+            
             
               
             if conection['status']==True:
@@ -67,8 +72,10 @@ class OrdenesEspaciosDAO(IOrdenes,ConectionsPsqlInterface):
                     i.idOrden=orden.id
                 '''_var wpedidos es witerPedidos es el encargado de escribir la lista de pedidos'''
                 wPedidos=self.pedidos.regVariosPedido(pedido,orden.sede)
-              
-                    
+                print("entrando transferencia abonos wallet ")
+                transefereciaAbonos = self.integracion.TransFerirWalletByAbono(orden.idCliente,saldoWallet['response'],orden.sede)
+                Logs.WirterTask(f"transferencia a bonos completada con exito !!{transefereciaAbonos['response']} ")
+                print("dsalida transferecina a abono ")  
                 return ResponseInternal.responseInternal(True,f"Orden_espacios creada de manera exitosa con el id:[{orden.id}]",orden)
             else:
                 return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)

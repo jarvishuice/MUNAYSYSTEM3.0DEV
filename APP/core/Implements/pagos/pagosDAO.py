@@ -123,7 +123,7 @@ p.sede,p.idcliente,p.idformadepago from pagos p
 inner join clientes c on c.nombre = c.nombre 
 inner join fromadepago f on f.metodo = f.metodo 
 inner join tazadollar t on t.precio = t.precio
-where p.sede = '{sede}' and c.id = p.idcliente and f.id = p.idformadepago  and t.id = p.idtaza order by p.fechapago desc limit 100;
+where p.sede = '{sede}' and c.id = p.idcliente and f.id = p.idformadepago and p.monto <> 0 and t.id = p.idtaza order by p.fechapago desc limit 100;
                 """)
                     count=cur.rowcount
                     if count > 0:
