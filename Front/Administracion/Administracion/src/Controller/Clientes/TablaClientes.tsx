@@ -1,13 +1,13 @@
 
 import Box from '@mui/material/Box';
 import { DataGrid, GridColDef, GridToolbarContainer, GridToolbarExport } from '@mui/x-data-grid';
-import React, { useEffect, useState } from 'react';
+import  { useEffect, useState } from 'react';
 import { IconButton } from '@mui/joy';
 import { ClientesEntity } from '../../core/Entities/clients/clients';
 import { ClientesDAO } from '../../core/Implements/clients/clientesDAO';
 import SaveIcon from '@mui/icons-material/Save';
 import { FormHistoricoCliente } from './FormHistoricoCliente';
-import ScheduleIcon from '@mui/icons-material/Schedule';
+
 function CustomToolbar() {
     return (
       <GridToolbarContainer>
@@ -129,7 +129,7 @@ const columns: GridColDef[] = [
     editable: false,
     renderCell:(params)=>(
       
-    <FormHistoricoCliente idCliente={params.row.idCliente} />
+    <FormHistoricoCliente idCliente={params.row.id} />
     )
   },
 ];
