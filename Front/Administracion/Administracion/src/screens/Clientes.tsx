@@ -4,7 +4,7 @@ import Tab from '@mui/joy/Tab';
 import TabPanel from '@mui/joy/TabPanel';
 import {FormRegCliente} from '../Controller/Clientes/formRegistroCLientes';
 import { TablaClientes } from '../Controller/Clientes/TablaClientes';
-import { FormHistoricoCliente } from '../Controller/Clientes/FormHistoricoCliente';
+
 
 
 export  function ClientesScreen() {
@@ -23,9 +23,7 @@ export  function ClientesScreen() {
         <TabPanel value={1}>
         <FormRegCliente/>
         </TabPanel>
-        <TabPanel value={2}>
-      <FormHistoricoCliente idCliente="7"></FormHistoricoCliente>
-        </TabPanel>
+        
       
       </Tabs>
     );

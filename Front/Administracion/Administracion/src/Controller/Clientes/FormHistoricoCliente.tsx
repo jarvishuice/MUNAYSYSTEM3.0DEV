@@ -1,8 +1,7 @@
 import * as React from 'react';
 import Modal from '@mui/material/Modal';
 import Input from '@mui/joy/Input';
-import Box from '@mui/material/Box';
-import {  Button} from "@mui/joy";
+import { Button } from "@mui/joy";
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import { IFrameReporte } from '../../components/IframeReporte';
 import { PATHMUNAYSYSY } from '../../Config/routes/pathsMuanaysys';
