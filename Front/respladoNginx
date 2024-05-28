@@ -1,0 +1,11 @@
+                                   
+server {
+listen 8051; # Specify the listening port
+listen [::]:8051; # The same thing for IPv6
+root /var/www/MUNAYSYSTEM3.0/public/; # The path to the website files
+index index.html index.htm; # Files to display if only the domain name is specified in the address
+server_name domain-name.com; # Domain name of this site
+location / {
+try_files $uri    ;
+}
+}

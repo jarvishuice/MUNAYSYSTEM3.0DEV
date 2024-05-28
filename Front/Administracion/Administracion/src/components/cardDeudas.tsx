@@ -36,7 +36,7 @@ export function CardDeudas(props:any): any{
         <Typography className="informacionDeudas">
                #{props.cantidad}
         </Typography>
-        <Typography color="success">DEUDA: ${props.precio}</Typography>
+        <Typography color="success">DEUDA: ${props.precio.toFixed(2)}</Typography>
         <CardActions>
        
 

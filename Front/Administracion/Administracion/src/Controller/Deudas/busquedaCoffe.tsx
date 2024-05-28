@@ -51,7 +51,7 @@ function agregar(cliente:any){
                   </Avatar>
                 </ListItemAvatar>
 
-                <ListItemText primary={re.nombre} secondary={`deuda:${re.deuda-re.abono}$`} />
+                <ListItemText primary={re.nombre} secondary={`deuda:${(re.deuda-re.abono).toFixed(2)}$`} />
                
               </ListItem>)
                 })):""

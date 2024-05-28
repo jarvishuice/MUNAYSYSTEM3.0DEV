@@ -119,7 +119,7 @@ button{
             };
 
             try {
-                const response = await fetch('http://localhost:8000/MUNAY/nest/Loggin/', {
+                const response = await fetch('http://192.168.1.25:8011/MUNAY/nest/Loggin/', {
                     method: 'POST',
                     headers: headers,
                     body: JSON.stringify({ nombreUsuario, password, token: 'string' })
@@ -133,9 +133,9 @@ button{
                     localStorage.setItem('token',data.token);
                     
                     if((data.tipoUsuario == 3) || (data.tipoUsuario == '3')){
-                    window.location.href = 'http://localhost:8051/administracion/index.html';}
+                    window.location.href = 'http://192.168.12.222:8051/administracion/index.html';}
                     else{
-                    window.location.href = 'http://localhost:8051/coffe/index.html';}
+                    window.location.href = 'http://192.168.12.222:8051/coffe/index.html';}
 
                 } else {
                     alert(`Error: ${response.status}`);
