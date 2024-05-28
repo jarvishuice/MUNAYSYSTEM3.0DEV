@@ -166,7 +166,7 @@ class PlantillaHTMLHistorialCliente():
           <table>
           <tr><th>Id</th><th>Monto $</th><th>Monto Bs</th><th>Fecha</th><th>Hora</th><th>Metodo</th><th> Referencia</th><th>Motivo</th><th>Tasa</th></tr>
           {self.Pagos}
-          <tr><th>total</th><th>{self.totalPagos}$</th> <th>{self.totalPagosBs}Bs</th>
+          <tr><th>total</th><th>{round(self.totalPagos,2)}$</th> <th>{round(self.totalPagosBs,2)}Bs</th>
           </table>
           <center><h2> OPERACIONES WALLET </h2></center>
           <table>
