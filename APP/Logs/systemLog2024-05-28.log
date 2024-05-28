@@ -1,0 +1,2592 @@
+ [35m2024-05-28 09:57:22.730072- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.735499- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.735674- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:22.735790- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.742583- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:22.759918- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:22.822239- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:22.823700- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.833226- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.839287- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.839374- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.848076- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.922969- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:22.931060- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:22.944653- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:22.966196- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:22.969047- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:22.979392- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:22.979511- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:22.983991- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:22.993973- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.003456- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.003547- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.009261- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.022222- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.024245- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:23.024527- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.026758- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:23.044247- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:23.048076- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:23.070937- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.071027- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.105554- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.110017- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.110132- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.112970- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:23.113054- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.504500- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.515204- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.515746- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.516050- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.523431- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.556491- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.629162- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.630931- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.652409- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.663692- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.663805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.677027- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.770069- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.781644- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.804833- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.832226- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.834354- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.846453- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:48.846577- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:48.851038- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.865173- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.879181- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.879285- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.886007- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.901860- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.902872- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.903111- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.904197- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:48.918792- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.923756- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:48.949595- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.949693- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.995602- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.999195- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:48.999299- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:49.000564- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:49.000651- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:51.945715- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:51.956460- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:51.956717- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:51.956933- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:51.964932- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.000404- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.082789- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.085384- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.108480- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.116310- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.116412- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.127906- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.215007- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.224161- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.236312- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.262724- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.264739- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.273731- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:52.273897- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 09:57:52.280760- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.293385- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.303930- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.304047- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.313207- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.327698- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.328668- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.328790- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.329871- INFO - [32mnew implement IPagos
+ [35m2024-05-28 09:57:52.341473- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.345201- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 09:57:52.370948- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.371347- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.451201- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.457862- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.457999- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.460174- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:57:52.460317- INFO - [32mnew implement IClientes
+ [35m2024-05-28 09:58:20.094323- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.099803- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 09:58:20.100183- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 09:58:20.100652- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.135118- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.143137- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:20.143253- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 09:58:20.143592- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.183342- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.191539- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:20.192179- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 09:58:20.193087- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.225841- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.233958- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 09:58:20.234076- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 09:58:20.234327- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.261245- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.269883- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 09:58:20.270352- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 09:58:20.270929- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.298671- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:20.303863- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 09:58:20.304156- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 09:58:20.305409- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:20.942883- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 09:58:48.173312- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.177293- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 09:58:48.177573- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 09:58:48.177859- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.205147- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.210637- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:48.210757- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 09:58:48.211256- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.244722- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.251739- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:48.251879- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 09:58:48.252171- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.274449- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.281357- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 09:58:48.281762- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 09:58:48.282450- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.307717- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.321544- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 09:58:48.321654- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 09:58:48.321902- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.348398- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:48.353865- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 09:58:48.353999- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 09:58:48.354599- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:48.356565- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 09:58:57.904547- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:57.916628- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 09:58:57.917060- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 09:58:57.918563- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:57.948232- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:57.959571- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:57.959708- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 09:58:57.959988- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:57.993129- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:58.000673- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:58:58.000790- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 09:58:58.001068- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:58.039740- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:58.046514- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 09:58:58.046618- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 09:58:58.046920- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:58.077298- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:58.087217- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 09:58:58.087487- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 09:58:58.088029- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:58.112090- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:58:58.119181- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 09:58:58.119301- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 09:58:58.119658- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:58:58.121634- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 09:59:50.373336- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.377586- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 09:59:50.377671- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 09:59:50.377896- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.403587- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.409759- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:59:50.409884- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 09:59:50.410264- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.432245- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.438202- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fdf709bc510>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-28 09:59:50.438458- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 09:59:50.439166- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.469172- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.477889- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fdf709bc510>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-28 09:59:50.478003- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 09:59:50.478252- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.507584- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.514577- INFO - [32mse ecncontraron (2) pedidos en la sede cfm
+ [35m2024-05-28 09:59:50.515313- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 09:59:50.515789- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.543099- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:50.552196- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 09:59:50.552723- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 09:59:50.553095- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:50.555482- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 09:59:59.652120- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.659298- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 09:59:59.659424- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 09:59:59.659682- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.693340- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.700299- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 09:59:59.700419- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 09:59:59.700746- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.745737- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.752674- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fdf709bc510>>no se encontraron ordenes cerradas del cliente 7 en la sede cfm 
+ [35m2024-05-28 09:59:59.752846- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 09:59:59.753200- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.785261- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.793422- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fdf709bc510>>no se encontraron ordenes abiertas del cliente 7 en la sede cfm 
+ [35m2024-05-28 09:59:59.793560- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 09:59:59.793836- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.821399- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.829761- INFO - [32mse ecncontraron (2) pedidos en la sede cfm
+ [35m2024-05-28 09:59:59.830265- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 09:59:59.830963- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.873275- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 09:59:59.878140- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 09:59:59.878263- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 09:59:59.878513- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 09:59:59.881352- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:00:13.384724- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.389289- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:00:13.389402- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:00:13.389750- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.431348- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.442269- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:00:13.442380- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:00:13.442717- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.471283- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.476832- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fdf709bc510>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:00:13.476937- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:00:13.477352- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.503161- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.510440- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:00:13.510543- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:00:13.510857- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.548528- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.555897- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:00:13.556001- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:00:13.556251- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.582803- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:00:13.588840- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:00:13.589044- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:00:13.589429- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:00:13.591063- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:02:19.589348- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.599341- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.599547- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:19.599676- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.605324- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:19.627849- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:19.718556- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:19.722688- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.747602- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.761283- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.761462- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.773974- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.859894- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.871628- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.907341- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.932912- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.935820- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.945324- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:02:19.945790- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:02:19.950383- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.960408- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:19.971052- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.971161- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.977632- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.990290- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.991129- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:19.991229- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:19.992209- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:20.012563- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:20.015658- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:20.048534- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.049052- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.102906- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.109016- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.109342- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.113254- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:20.114074- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.202721- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.210805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.211222- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.211805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.220815- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.260389- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.342509- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.344762- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.361957- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.370168- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.370630- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.383227- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.481199- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.491525- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.514777- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.539613- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.545965- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.556723- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:02:53.557078- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:02:53.562664- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.572020- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.580804- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.580913- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.586573- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.596648- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.597152- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.597239- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.597809- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:02:53.605634- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.607931- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:02:53.624545- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.624619- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.657473- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.660545- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.660634- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.661791- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:02:53.661885- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.010428- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.014918- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.015094- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.015222- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.019292- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.043352- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.100418- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.102398- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.115229- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.124334- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.124428- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.132578- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.184640- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.190843- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.200923- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.219309- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.221046- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.226962- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:34.227057- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:34.230756- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.241002- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.250174- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.250272- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.256700- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.267795- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.268289- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.268376- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.268955- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:34.277771- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.279997- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:34.298008- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.298132- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.330897- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.334110- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.334215- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.335545- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:34.335642- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:35.753561- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.758346- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.758533- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:35.758630- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.763276- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:35.791440- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:35.874540- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:35.876786- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.896926- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.911484- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.911743- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:35.929344- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.034468- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.046878- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.068548- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.098614- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.101061- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.113192- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:36.113553- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:36.122422- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.136287- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.153610- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.153731- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.164125- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.182341- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.183190- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:36.183308- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.184224- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:36.200548- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:36.203468- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:36.239220- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.239390- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.288947- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.292217- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.292293- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.293599- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:36.293674- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.472069- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.477752- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.477932- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.478028- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.482444- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.500848- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.551152- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.552542- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.564488- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.570149- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.570280- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.579550- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.636886- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.647329- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.662548- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.686269- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.688194- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.695297- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:52.695396- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:03:52.699707- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.710791- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.723078- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.723196- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.731034- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.744410- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.745693- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.746093- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.747779- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:03:52.756276- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.759022- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:03:52.776760- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.776862- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.815372- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.818717- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.818808- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.820112- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:03:52.820207- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.655797- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.660002- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.660169- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.660278- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.664203- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.680262- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.720564- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.721807- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.731274- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.737704- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.737801- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.745617- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.794410- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.800724- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.810811- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.832448- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.834124- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.841032- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:04:21.841130- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:04:21.844741- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.853254- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.861672- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.861766- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.867340- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.877275- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.877761- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.877849- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.878500- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:21.886297- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.888404- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:21.904461- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.904572- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.937957- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.941013- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.941133- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.942313- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:21.942424- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.084920- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.091508- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.091730- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.091818- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.097652- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.127158- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.194640- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.196547- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.212997- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.221407- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.221541- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.234264- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.305197- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.311174- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.320947- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.341384- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.343179- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.350462- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:04:28.350542- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:04:28.355043- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.364282- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.374832- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.374911- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.380565- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.391225- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.392037- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.392138- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.392805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:04:28.404539- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.408374- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:04:28.431593- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.431704- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.473915- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.476973- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.477065- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.478274- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:04:28.478359- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:23.836346- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.840411- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.840583- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:23.840670- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.844751- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:23.860711- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:23.901381- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:23.902645- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.911999- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.917703- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.917799- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:23.926317- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.028533- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.038353- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.048687- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.067910- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.069787- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.076484- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:24.076567- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:24.080377- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.088963- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.097653- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.097756- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.103551- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.113554- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.114043- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:24.114132- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.114709- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:24.122543- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:24.124732- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:24.144469- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.144614- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.208318- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.212675- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.212805- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.215066- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:24.215219- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.563796- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.568873- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.569058- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.569278- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.573275- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.591124- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.637432- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.639572- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.656805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.663785- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.663897- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.673719- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.758204- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.765380- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.776062- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.797161- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.799437- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.807190- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:38.807298- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:38.814687- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.827297- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.838318- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.838497- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.846350- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.861309- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.861812- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.861900- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.862570- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:38.874107- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.876528- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:38.896676- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.896769- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.941283- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.944901- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.945001- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.946312- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:38.946403- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:41.828937- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.833112- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.833281- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:41.833370- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.837306- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:41.853448- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:41.894134- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:41.895421- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.904995- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.914025- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.914145- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.927043- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.983109- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:41.990082- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.000500- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.019551- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.021353- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.027455- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:42.027556- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:05:42.031119- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.039806- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.047991- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.048089- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.054801- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.064956- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.065523- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:42.065623- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.066177- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:05:42.074261- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:42.076393- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:05:42.094035- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.094173- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.127612- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.130617- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.130738- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.131979- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:05:42.132094- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.482704- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.486763- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.486928- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.487008- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.491052- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.507227- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.564125- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.566066- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.582777- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.588650- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.588758- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.600923- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.708117- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.718792- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.738305- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.759993- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.761660- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.768310- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:16.768422- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:16.772822- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.789260- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.807007- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.807213- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.819573- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.833256- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.834119- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.834267- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.835257- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:16.849507- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.852258- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:16.871171- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.871292- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.912647- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.919143- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.919225- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.920423- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:16.920490- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:19.809956- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.817684- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.817874- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:19.817971- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.824677- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:19.850868- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:19.897088- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:19.898394- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.908872- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.914590- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.914680- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.922970- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.973119- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:19.979360- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:19.989273- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.007315- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.008934- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.015845- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:20.015976- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:20.022986- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.038793- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.054696- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.055047- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.061067- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.072067- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.072658- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:20.072747- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.073372- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:20.085150- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:20.087599- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:20.105064- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.105175- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.143591- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.146872- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.146999- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.148454- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:20.148555- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.312036- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.316264- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.316426- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.316508- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.320476- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.337426- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.382760- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.384127- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.396855- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.402578- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.402656- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.410416- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.458747- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.464845- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.474306- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.492585- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.494281- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.500208- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:24.500307- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:24.503943- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.512354- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.520422- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.520521- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.526248- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.537207- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.537774- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.537862- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.538424- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:24.546515- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.548987- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:24.564731- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.564852- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.610173- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.613317- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.613437- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.614798- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:24.614887- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.505102- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.511594- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.511800- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.511905- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.517742- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.545647- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.612084- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.613787- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.630347- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.638785- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.638915- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.651632- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.736517- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.746342- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.764650- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.789997- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.792218- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.801212- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:29.801315- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:06:29.806858- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.820697- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.834051- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.834201- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.843205- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.860903- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.861559- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.861676- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.862449- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:06:29.872030- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.874286- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:06:29.891726- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.891818- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.926839- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.929863- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.929963- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.931246- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:06:29.931355- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:32.964278- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:32.968575- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:32.968875- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:32.968970- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:32.972992- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:32.993043- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:33.075963- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:33.077938- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.097192- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.106716- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.106823- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.121241- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.211927- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.223601- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.242167- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.270393- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.272156- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.278629- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:07:33.278711- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:07:33.283852- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.292830- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.302172- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.302273- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.310591- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.322381- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.322966- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:33.323059- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.323701- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:33.332768- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:33.335067- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:33.353362- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.353446- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.390367- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.393433- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.393509- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.395106- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:33.395188- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.781192- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.785369- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.785534- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:40.785618- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.789578- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:40.806347- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:40.848016- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:40.849439- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.860284- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.865844- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.865937- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.874124- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.924889- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.931298- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.941623- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.960350- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.962277- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.968825- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:07:40.968921- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:07:40.972719- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.981389- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:40.989957- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.990048- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:40.996996- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:41.008087- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:41.008545- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:41.008609- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:41.009149- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:07:41.021230- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:41.023398- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:07:41.045573- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.045650- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.090583- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.093874- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.093949- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.095152- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:41.095219- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:07:44.999347- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.013039- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:07:45.014322- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:07:45.014964- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:07:45.044339- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.053880- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:07:45.053992- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:07:45.054251- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:07:45.156576- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.170348- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f247a3c8290>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:07:45.170458- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:07:45.170693- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:07:45.217829- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.234029- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:07:45.234159- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:07:45.234433- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:07:45.275292- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.282517- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:07:45.282647- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:07:45.282918- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:07:45.309516- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:07:45.315803- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:07:45.315944- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:07:45.316325- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:02.686024- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.690250- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.690431- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.690545- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.694878- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.712420- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.758079- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.759328- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.770713- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.774813- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.774906- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.782442- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.831060- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.837347- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.847208- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.865384- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.867005- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.872698- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:02.872797- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:02.876374- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.885155- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.898598- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.898721- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.909304- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.929293- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.931130- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.931344- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.932347- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:02.944541- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.947089- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:02.963849- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:02.963927- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:03.006466- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:03.009567- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:03.009663- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:03.010945- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:03.011039- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:05.597197- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.606302- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:08:05.606405- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:08:05.606604- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:05.630389- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.637939- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:08:05.638045- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:08:05.638300- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:05.662374- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.667650- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f8b28fc03d0>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:08:05.667766- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:08:05.668292- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:05.713942- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.721553- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:08:05.721759- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:08:05.722158- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:05.748367- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.755588- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:08:05.755693- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:08:05.755931- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:05.787841- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:05.795365- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:08:05.795528- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:08:05.795915- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:26.547294- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.551693- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.551859- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.551936- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.556395- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.574518- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.619300- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.620601- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.632924- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.638463- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.638556- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.649063- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.715036- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.726557- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.739639- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.763626- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.765419- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.771635- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:26.771753- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:26.775628- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.785399- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.794621- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.794749- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.800643- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.811367- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.811921- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.812011- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.812586- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:26.820393- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.822590- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:26.840428- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.840524- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.878641- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.881855- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.881968- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.883457- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:26.883558- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.213021- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.219489- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.219707- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.219791- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.225527- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.252622- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.321734- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.324076- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.344337- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.353405- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.353524- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.367554- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.429274- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.435477- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.445177- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.468858- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.470784- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.478497- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:43.478606- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:43.482702- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.491162- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.502086- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.502185- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.507837- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.521224- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.522205- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.522406- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.523468- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:43.532184- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.534350- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:43.551725- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.551823- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.585787- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.588846- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.588969- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.590150- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:43.590265- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.652493- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.659054- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.659434- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.659675- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.666433- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.686148- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.740320- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.742065- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.753721- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.763171- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.763265- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.771535- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.835199- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.842148- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.855643- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.879969- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.882594- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.889726- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:47.889835- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:08:47.896589- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.913074- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:47.929693- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.929853- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.939716- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.954224- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.955043- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.955367- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.956417- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:08:47.974467- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:47.978782- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:08:48.019808- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.020089- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.152414- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.165275- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.165944- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.168445- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:48.168557- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:08:51.948774- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:51.952567- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:08:51.952814- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:08:51.953074- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:51.983553- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:52.010033- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:08:52.010350- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:08:52.011059- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:52.098504- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:52.107162- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fa205fc3f50>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:08:52.107562- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:08:52.108457- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:52.167298- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:52.187363- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:08:52.187749- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:08:52.188642- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:52.241352- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:52.248522- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:08:52.248645- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:08:52.248950- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:08:52.277412- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:08:52.283050- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:08:52.283213- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:08:52.283511- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:09:19.811801- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.816404- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.816583- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:19.816781- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.821358- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:19.850746- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:19.922638- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:19.924515- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.941870- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.951076- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.951185- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:19.964850- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.026643- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.032699- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.042950- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.062263- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.064342- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.071016- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:20.071120- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:20.075083- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.084049- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.098874- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.099011- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.108885- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.126332- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.127024- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:20.127131- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.127938- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:20.141592- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:20.145290- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:20.168364- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.168446- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.207832- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.211110- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.211236- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.212840- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:20.212958- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.268013- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.279032- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.279311- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.279450- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.286888- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.324654- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.427030- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.429525- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.450130- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.461328- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.461534- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.477562- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.569717- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.576952- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.587802- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.610604- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.612580- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.619549- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:24.619629- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:24.623831- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.635948- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.645549- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.645641- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.651761- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.663347- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.663860- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.663944- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.664582- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:24.674078- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.677050- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:24.693932- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.694025- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.728397- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.732417- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.732549- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.734700- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:24.734815- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.557507- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.561710- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.561877- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.561970- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.565949- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.582189- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.625019- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.626475- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.636885- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.642386- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.642483- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.650323- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.699816- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.706036- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.716215- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.736471- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.738121- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.744215- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:26.744308- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:09:26.748292- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.756677- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.764887- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.764997- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.770680- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.780953- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.781439- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.781521- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.782148- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:09:26.790481- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.792650- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:09:26.815544- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.815639- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.889954- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.897206- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.897312- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.898748- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:09:26.898856- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:06.184203- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.190032- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:11:06.190157- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:11:06.190471- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:06.219007- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.227256- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:11:06.227557- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:11:06.228025- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:06.251846- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.258790- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f71b1fd01d0>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:11:06.258924- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:11:06.259316- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:06.297204- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.304709- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:11:06.304818- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:11:06.305086- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:06.350454- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.364441- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:11:06.364549- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:11:06.364785- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:06.390970- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:06.395517- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:11:06.395621- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:11:06.395949- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:49.288257- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.293029- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.293219- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.293320- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.297432- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.318754- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.365496- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.368024- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.378548- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.385039- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.385131- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.393676- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.448280- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.455159- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.466912- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.487037- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.489095- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.495057- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:11:49.495151- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:11:49.500428- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.508952- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.517241- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.517332- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.525306- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.536701- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.537268- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.537358- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.537980- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:49.546859- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.549198- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:49.571329- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.571743- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.611347- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.614423- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.614513- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.615757- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:49.615846- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.546840- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.552002- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.552309- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.552398- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.556652- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.576070- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.623076- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.625011- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.640890- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.647762- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.647863- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.656120- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.713074- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.719535- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.730456- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.750607- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.752554- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.760721- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:11:51.760838- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:11:51.765914- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.777937- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.788724- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.788847- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.797491- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.808174- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.808693- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.808778- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.809336- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:11:51.818147- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.821144- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:11:51.839609- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.839686- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.876620- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.880533- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.880646- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.881927- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:51.882011- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:11:55.589564- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.594916- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:11:55.595036- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:11:55.595313- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:55.622365- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.628293- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:11:55.628399- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:11:55.628644- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:55.671700- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.686803- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7fb3c9fbbe10>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:11:55.686926- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:11:55.687176- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:55.718161- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.729507- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:11:55.729629- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:11:55.729854- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:55.757129- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.766796- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:11:55.766951- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:11:55.767203- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:11:55.891280- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:11:55.898979- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:11:55.899177- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:11:55.899474- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:20.931762- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:20.938636- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:20.938849- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:20.938946- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:20.945050- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:20.974735- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:21.050213- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:21.052549- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.073197- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.083567- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.083798- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.100926- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.175846- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.183710- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.193904- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.213233- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.215756- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.224365- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:21.224442- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:21.230164- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.240506- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.251467- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.251553- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.259332- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.273808- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.274469- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:21.274573- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.275384- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:21.284356- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:21.287729- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:21.308383- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.308487- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.359367- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.362882- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.362998- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.364546- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.364626- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:21.736140- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.741096- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:12:21.741244- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:12:21.741524- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.767020- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.773533- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:12:21.773646- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:12:21.773906- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.807390- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.813807- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f2a57fd8390>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:12:21.813945- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:12:21.814174- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.837956- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.845699- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:12:21.845810- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:12:21.846067- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.870581- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.878620- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:12:21.878888- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:12:21.879216- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.935371- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.942023- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:12:21.942299- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:12:21.943154- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.985784- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:21.998074- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:12:21.998696- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:21.999114- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:12:39.258940- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.263920- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.264156- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.264587- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.269706- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.288019- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.331597- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.332849- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.347846- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.359854- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.360159- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.377485- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.451772- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.458084- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.468269- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.489018- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.490726- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.496819- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:39.496915- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:39.501450- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.513620- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.522150- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.522226- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.527799- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.538182- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.538646- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.538712- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.539254- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:39.547159- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.549341- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:39.567986- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.568095- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.616834- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.619887- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.619978- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.621196- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:39.621279- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:40.839997- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.844537- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.844719- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:40.844812- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.849159- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:40.868846- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:40.915572- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:40.917287- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.928811- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.934982- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.935077- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:40.942795- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.000044- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.007078- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.018917- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.038751- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.040442- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.047527- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:41.047623- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:41.052729- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.061296- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.070904- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.070998- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.077017- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.088986- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.089488- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:41.089572- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.090344- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:41.098787- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:41.101836- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:41.120568- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.120645- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.156559- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.160574- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.160699- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.162305- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:41.162435- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.134293- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.139507- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.139811- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.139989- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.148058- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.172002- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.236944- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.238370- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.253408- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.261895- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.262021- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.274880- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.347442- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.354944- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.368561- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.391752- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.393647- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.403352- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:46.403568- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:12:46.409003- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.421532- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.430997- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.431094- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.439189- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.452504- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.453173- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.453279- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.453962- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:12:46.467014- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.469821- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:12:46.491962- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.492061- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.535843- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.539106- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.539209- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.540459- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:46.540529- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:12:47.582743- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.590129- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:12:47.590243- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:12:47.590497- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:47.709765- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.747381- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:12:47.747522- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:12:47.748006- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:47.836877- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.845354- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f4e65dcc290>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:12:47.845470- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:12:47.845796- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:47.883184- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.891955- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:12:47.892091- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:12:47.892448- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:47.931814- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.941161- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:12:47.941379- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:12:47.941915- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:47.971771- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:47.978847- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:12:47.979364- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:12:47.980226- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:48.016793- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:12:48.028684- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:12:48.029228- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:12:48.029550- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:13:04.130892- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.137232- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.137466- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.137589- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.144217- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.166460- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.269718- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.271950- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.292808- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.303094- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.309999- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.327057- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.410920- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.417403- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.427710- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.447191- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.450571- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.459630- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:13:04.459888- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:13:04.466558- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.481394- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.498100- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.498219- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.508425- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.522989- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.523710- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.523819- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.524708- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:04.532712- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.534858- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:04.550968- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.551043- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.584677- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.587620- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.587708- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.588879- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:04.588981- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.587749- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.591919- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.592077- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.592154- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.596029- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.612138- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.668876- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.670993- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.690814- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.700805- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.700896- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.711811- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.776714- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.782766- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.793242- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.813032- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.814617- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.820405- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:13:41.820481- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:13:41.824063- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.832556- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.841320- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.841396- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.846877- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.856779- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.857246- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.857312- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.857833- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:13:41.866227- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.868339- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:13:41.883782- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.883892- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.921495- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.924564- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.924639- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.926218- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:41.926293- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:13:47.347521- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.353737- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:13:47.353858- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:13:47.354117- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.380095- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.393610- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:13:47.393745- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:13:47.394023- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.435870- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.443786- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f0a63bd0390>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:13:47.443916- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:13:47.444295- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.467226- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.475829- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:13:47.475952- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:13:47.476848- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.501454- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.508963- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:13:47.509573- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:13:47.510025- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.534690- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.542338- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:13:47.542606- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:13:47.542986- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:47.572087- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:47.578306- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:13:47.578596- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.391052- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.395277- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:13:52.395502- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:13:52.395769- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.432566- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.437764- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:13:52.437859- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:13:52.438093- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.469602- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.477140- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f0a63bd0390>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:13:52.477297- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:13:52.477627- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.503272- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.516216- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:13:52.516323- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:13:52.516606- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.565992- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.573378- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:13:52.573558- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:13:52.573936- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.607358- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.612578- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:13:52.612797- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:13:52.613349- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:13:52.652273- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:13:52.657933- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:13:52.658359- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:04.231152- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.237610- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.237812- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.237898- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.243736- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.271556- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.339914- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.341767- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.360117- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.366922- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.367049- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.380223- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.469025- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.479528- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.496353- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.521402- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.523628- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.532581- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:14:04.532685- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:14:04.538279- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.552320- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.565646- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.565776- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.574189- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.584232- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.584845- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.584963- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.585557- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:04.593367- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.595725- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:04.611920- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.612048- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.653975- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.657070- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.657169- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.658877- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:04.658980- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:10.897420- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:10.901859- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:14:10.901964- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:14:10.902302- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:10.927193- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:10.934964- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:14:10.935114- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:14:10.935462- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:10.968428- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:10.976020- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f8d183bc5d0>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:14:10.976174- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:14:10.976450- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:11.026749- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:11.036803- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:14:11.036912- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:14:11.037172- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:11.067055- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:11.076174- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:14:11.076524- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:14:11.076812- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:11.107693- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:11.113406- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:14:11.113867- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:14:11.114544- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:11.149097- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:11.156241- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:14:11.157178- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:41.905144- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:41.910852- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:41.911807- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:41.911994- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:41.917594- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:41.939771- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:42.001577- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:42.002871- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.017234- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.024148- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.024264- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.037422- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.116811- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.123399- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.138932- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.169210- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.171749- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.183346- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:14:42.183486- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:14:42.188492- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.202840- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.215849- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.215951- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.222493- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.237860- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.238408- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:42.238497- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.239104- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:14:42.255393- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:42.257867- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:14:42.286200- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.286321- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.338357- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.342628- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.342805- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.345468- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:42.345591- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:14:47.209714- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.216523- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:14:47.216791- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:14:47.217313- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.245835- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.253534- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:14:47.253646- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:14:47.253943- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.287561- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.294439- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f412e7d4790>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:14:47.294610- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:14:47.294971- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.330321- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.343993- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:14:47.344168- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:14:47.344545- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.373996- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.385204- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:14:47.385364- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:14:47.385741- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.430675- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.441051- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:14:47.441216- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:14:47.441607- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.474829- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:14:47.488125- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:14:47.488467- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:14:47.488887- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:15:02.139391- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.144054- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.144257- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.144353- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.150292- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.181128- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.230281- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.231660- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.241182- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.246551- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.246644- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.254889- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.311791- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.317968- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.328317- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.347457- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.349072- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.354880- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:15:02.354962- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:15:02.358611- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.366979- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.375543- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.375619- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.381529- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.393150- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.393683- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.393778- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.394388- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:02.403803- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.406161- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:02.424473- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.424576- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.483635- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.488747- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.488888- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.491145- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:02.491284- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:52.835266- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:52.843113- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:52.843298- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:52.843388- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:52.849548- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:52.881529- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:52.963616- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:52.967120- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:52.991043- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.001644- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.001858- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.011903- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.069453- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.077953- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.098133- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.138990- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.143601- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.152254- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:15:53.152349- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:15:53.159165- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.169349- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.183481- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.183582- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.192300- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.209848- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.210340- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:53.210407- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.210960- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:15:53.219155- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:53.222966- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:15:53.249494- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.249747- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.307637- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.310851- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.310950- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.312483- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:15:53.312583- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.693007- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.697214- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.697387- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.697473- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.701425- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.718752- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.760131- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.761591- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.771881- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.777254- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.777359- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.785174- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.834598- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.840696- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.850560- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.869487- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.871072- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.876745- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:01.876843- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:01.880457- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.888960- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.899331- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.899446- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.905196- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.917718- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.918198- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.918282- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.918817- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:01.927594- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.929732- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:01.949507- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.949621- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.986433- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.989568- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.989644- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.990837- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:01.990905- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.014594- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.018768- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.018943- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.019041- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.023233- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.039213- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.087732- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.089841- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.107324- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.113444- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.113540- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.122078- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.184825- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.191306- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.202596- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.228032- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.230344- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.239497- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:23.239607- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:23.245760- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.260539- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.274275- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.274376- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.283347- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.297193- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.297663- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.297743- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.298311- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:23.305724- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.307873- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:23.323293- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.323420- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.356639- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.359683- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.359773- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.360943- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:23.361054- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.604469- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.613314- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.613619- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.613724- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.617865- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.637865- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.691625- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.694239- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.709193- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.721828- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.722076- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.736784- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.824673- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.838858- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.858960- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.889878- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.892377- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.903471- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:43.903570- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:16:43.907729- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.921231- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.930458- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.930553- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.936274- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.947859- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.948385- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.948467- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.949029- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:16:43.958078- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.960824- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:16:43.983750- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:43.983831- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:44.022548- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:44.025628- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:44.025759- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:44.027037- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:44.027124- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:16:47.917128- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:47.927045- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:16:47.927152- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:16:47.927451- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:47.969474- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:47.981691- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:16:47.981830- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:16:47.982061- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.043967- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:48.049567- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7f69935e0610>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:16:48.049672- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:16:48.049882- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.115683- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:48.124293- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:16:48.124429- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:16:48.125162- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.155567- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:48.166006- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:16:48.166089- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:16:48.166289- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.189661- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:48.194256- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:16:48.194353- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:16:48.194596- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.223038- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:16:48.227042- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:16:48.227280- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:16:48.227441- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:17:30.554612- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.562058- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.562249- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.562336- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.568023- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.585305- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.629426- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.630820- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.641216- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.646673- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.646769- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.654617- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.705141- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.711367- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.722191- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.740356- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.741956- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.748542- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:17:30.748644- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:17:30.752276- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.760585- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.768690- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.768784- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.774523- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.786343- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.786856- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.786945- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.787638- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:17:30.795442- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.797629- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:17:30.814722- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.814820- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.849262- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.852340- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.852460- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.853619- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:17:30.853735- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.012629- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.019372- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.019568- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.019677- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.025503- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.054983- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.127553- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.129359- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.148089- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.158048- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.158156- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.172615- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.260678- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.271344- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.288618- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.315786- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.318415- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.328827- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:03.328953- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:03.335774- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.351140- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.363443- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.363621- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.371378- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.381755- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.382245- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.382331- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.382906- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:03.393011- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.395689- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:03.418235- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.418380- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.464248- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.469560- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.469690- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.471578- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:03.471675- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.031723- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.037328- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.037700- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.037877- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.045836- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.084755- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.184481- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.188251- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.202851- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.214118- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.214398- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.235628- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.311573- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.318707- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.328791- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.347974- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.349733- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.355955- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:14.356049- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:14.359733- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.368748- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.377742- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.377835- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.383420- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.393537- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.394034- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.394117- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.394666- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:14.402643- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.405575- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:14.422159- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.422255- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.467041- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.471048- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.471149- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.472837- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:14.472950- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:17.932084- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:17.936307- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:17.936475- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:17.936572- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:17.940479- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:17.957247- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:17.998531- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:17.999824- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.010282- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.016189- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.016287- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.024164- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.081730- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.087985- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.098271- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.117086- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.118725- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.124572- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:18.124674- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:18.129034- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.137138- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.145230- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.145329- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.151275- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.162229- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.162697- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:18.162769- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.163338- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:18.171188- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:18.173365- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:18.202940- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.203062- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.283213- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.288964- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.289223- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.291283- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:18.291538- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.166691- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.172325- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.172452- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.172512- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.176817- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.192824- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.233956- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.235154- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.245959- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.251320- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.251396- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.259029- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.309650- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.315884- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.325618- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.344383- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.345972- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.351637- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:26.351714- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:18:26.355158- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.363634- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.371944- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.372021- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.377569- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.388930- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.389615- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.389696- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.390286- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:18:26.398119- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.400289- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:18:26.416192- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.416282- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.455804- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.458853- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.458927- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.460169- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:18:26.460238- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.381664- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.387868- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.388036- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.388121- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.392457- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.414438- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.472124- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.473418- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.485930- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.493001- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.493104- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.509819- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.631664- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.642384- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.655873- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.678529- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.681908- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.691090- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:19:13.691182- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:19:13.695649- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.708054- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.717970- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.718101- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.726084- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.737762- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.738232- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.738299- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.738857- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:13.747534- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.749749- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:13.766228- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.766351- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.805004- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.808153- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.808268- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.809481- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:13.809581- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:15.794308- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.800101- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.800395- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:15.800508- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.804792- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:15.828323- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:15.879880- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:15.881238- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.895147- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.900962- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.901066- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.909071- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.970099- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:15.979923- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:15.993167- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.027145- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.028960- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.035815- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:19:16.036219- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:19:16.044533- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.053528- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.064929- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.065032- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.072393- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.084527- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.085024- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:16.085109- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.085778- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:19:16.095324- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:16.098273- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:19:16.117551- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.117626- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.167506- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.171341- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.171592- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.174496- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:16.174593- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:19:18.545674- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.553407- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:19:18.553574- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:19:18.554192- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.586456- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.593491- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:19:18.593636- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:19:18.593880- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.726727- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.732721- INFO - [32m <bound method Logs.Warnings of <core.Implements.reports.clients.historialConsumoClientRFechaDAO.HistorialClientRFechaReport object at 0x7ffa49bcc210>>no se encontraron ordenes cerradas del cliente 7 en la sede jalisco 
+ [35m2024-05-28 10:19:18.732872- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:19:18.733215- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.762404- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.772168- INFO - [32mse ecncontraron (3) pagos  en la sede jalisco
+ [35m2024-05-28 10:19:18.772482- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:19:18.772889- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.798643- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.806451- INFO - [32mse ecncontraron (14) pedidos en la sede jalisco
+ [35m2024-05-28 10:19:18.806570- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:19:18.806849- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.840229- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.857715- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:19:18.858120- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:19:18.858526- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.917839- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.921982- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:19:18.922320- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.958344- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:19:18.964057- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:19:18.964370- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:19:18.964549- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:20:00.841467- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.848778- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.849039- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:00.849218- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.854944- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:00.877559- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:00.926847- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:00.928158- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.945432- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.954849- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.955144- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:00.974161- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.083544- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.096066- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.115755- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.158102- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.162888- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.173793- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:20:01.173923- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:20:01.178947- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.199806- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.213316- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.213579- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.223966- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.241455- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.241940- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:01.242009- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.242688- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:20:01.255514- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:01.257912- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:20:01.284697- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.284844- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.332380- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.337732- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.337813- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.339049- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:01.339119- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:20:14.377710- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.386202- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:20:14.386340- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:20:14.386669- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.426567- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.434406- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:20:14.434523- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:20:14.434844- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.473777- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.495173- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:20:14.495287- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:20:14.495585- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.535116- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.559300- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 10:20:14.559543- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:20:14.559986- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.601118- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.610755- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 10:20:14.612124- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:20:14.613061- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.646708- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.652925- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:20:14.653303- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:20:14.653770- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.699130- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.705993- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:14.707241- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.741550- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:14.746589- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:14.746994- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:14.747155- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:20:24.250139- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.254968- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:20:24.255093- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:20:24.255353- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.292116- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.298639- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:20:24.298731- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:20:24.298943- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.338824- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.343984- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:20:24.344095- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:20:24.344397- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.369197- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.377873- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 10:20:24.377991- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:20:24.378248- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.424495- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.435161- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 10:20:24.435321- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:20:24.435714- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.472998- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.480796- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:20:24.480911- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:20:24.481206- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.504882- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.512838- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:24.513131- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.541892- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:24.547724- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:24.548089- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:24.548233- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:20:45.195276- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.201341- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:20:45.201530- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:20:45.201875- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.238853- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.247456- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:20:45.247571- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:20:45.247838- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.278056- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.305053- INFO - [32mse ecncontraron (83) en la sede jalisco
+ [35m2024-05-28 10:20:45.305144- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:20:45.305462- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.334031- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.354969- INFO - [32mse ecncontraron (75) pagos  en la sede jalisco
+ [35m2024-05-28 10:20:45.355118- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:20:45.355433- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.379357- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.405418- INFO - [32mse ecncontraron (105) pedidos en la sede jalisco
+ [35m2024-05-28 10:20:45.405760- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:20:45.406943- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.465134- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.475812- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:20:45.475950- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:20:45.476231- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.519745- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.527379- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:45.527796- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.582943- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:20:45.587531- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:20:45.587878- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:20:45.588053- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:21:15.748388- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:15.756022- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:21:15.756159- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:21:15.756445- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:15.820658- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:15.830601- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:21:15.830704- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:21:15.831129- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:15.875374- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:15.882779- INFO - [32mse ecncontraron (2) en la sede cfm
+ [35m2024-05-28 10:21:15.883193- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:21:15.883550- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:15.913069- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:15.921551- INFO - [32mse ecncontraron (3) pagos  en la sede cfm
+ [35m2024-05-28 10:21:15.921664- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:21:15.921928- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:15.951096- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:15.960889- INFO - [32mse ecncontraron (4) pedidos en la sede cfm
+ [35m2024-05-28 10:21:15.961138- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:21:15.961658- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:16.000429- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:16.008592- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:21:16.009017- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:21:16.009481- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:16.044243- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:16.052659- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:21:16.053443- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:16.081302- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:16.086469- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:21:16.087631- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:16.477691- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:21:30.873339- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:30.879169- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:21:30.879285- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:21:30.879578- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:30.951139- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:30.958076- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:21:30.958172- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:21:30.958417- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.155764- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.181003- INFO - [32mse ecncontraron (83) en la sede jalisco
+ [35m2024-05-28 10:21:31.181875- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:21:31.182932- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.216724- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.239943- INFO - [32mse ecncontraron (75) pagos  en la sede jalisco
+ [35m2024-05-28 10:21:31.240060- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:21:31.240340- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.281031- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.306176- INFO - [32mse ecncontraron (105) pedidos en la sede jalisco
+ [35m2024-05-28 10:21:31.306285- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:21:31.306579- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.334747- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.342471- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:21:31.342839- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:21:31.343330- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.383169- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.390363- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:21:31.390674- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:31.425338- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:21:31.431588- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:21:31.432160- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:21:32.044785- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:22:16.114064- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.123527- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:22:16.123638- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:22:16.123889- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.156019- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.161862- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:22:16.161976- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:22:16.162497- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.195319- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.217901- INFO - [32mse ecncontraron (83) en la sede jalisco
+ [35m2024-05-28 10:22:16.218629- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:22:16.219382- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.300519- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.313843- INFO - [32mse ecncontraron (75) pagos  en la sede jalisco
+ [35m2024-05-28 10:22:16.313961- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:22:16.314214- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.349094- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.378840- INFO - [32mse ecncontraron (105) pedidos en la sede jalisco
+ [35m2024-05-28 10:22:16.378966- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:22:16.379323- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.409547- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.415774- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:22:16.415876- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:22:16.416134- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.448781- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.455933- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:16.456276- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:16.492661- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:16.500268- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:16.500519- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:17.472651- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:22:40.447078- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.452288- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:22:40.452449- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:22:40.452706- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.505998- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.513172- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:22:40.513324- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:22:40.513664- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.558906- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.582987- INFO - [32mse ecncontraron (83) en la sede jalisco
+ [35m2024-05-28 10:22:40.584347- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:22:40.585486- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.647009- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.671231- INFO - [32mse ecncontraron (75) pagos  en la sede jalisco
+ [35m2024-05-28 10:22:40.671545- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:22:40.672019- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.707207- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.724460- INFO - [32mse ecncontraron (105) pedidos en la sede jalisco
+ [35m2024-05-28 10:22:40.724567- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:22:40.724838- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.750276- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.756824- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:22:40.757144- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:22:40.757417- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.787251- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.793487- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:40.793757- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.831909- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:40.842663- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:40.842927- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:40.843091- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:22:56.047323- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.053436- INFO - [32mse ecncontro  ningun cliente con el id:7
+ [35m2024-05-28 10:22:56.054038- INFO - [32mFinalizada la ejecucion de __getCliente
+ [35m2024-05-28 10:22:56.055041- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.090125- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.097848- INFO - [32mse ecncontraron (14) en la sede jalisco
+ [35m2024-05-28 10:22:56.097948- INFO - [32mFinalizada la ejecucion de __getOrdenesAbiertasCoffe
+ [35m2024-05-28 10:22:56.098187- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.146813- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.165056- INFO - [32mse ecncontraron (83) en la sede jalisco
+ [35m2024-05-28 10:22:56.165201- INFO - [32mFinalizada la ejecucion de __getOrdenesCerradasCoffe
+ [35m2024-05-28 10:22:56.165500- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.204102- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.225630- INFO - [32mse ecncontraron (75) pagos  en la sede jalisco
+ [35m2024-05-28 10:22:56.226141- INFO - [32mFinalizada la ejecucion de __getPagosCoffe
+ [35m2024-05-28 10:22:56.226704- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.257178- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.288920- INFO - [32mse ecncontraron (105) pedidos en la sede jalisco
+ [35m2024-05-28 10:22:56.289066- INFO - [32mFinalizada la ejecucion de __getPedidosCoffe
+ [35m2024-05-28 10:22:56.289421- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.321530- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.326298- INFO - [32mse ecncontraron (24) operaciones de wallet  de cliente # 7
+ [35m2024-05-28 10:22:56.326406- INFO - [32mFinalizada la ejecucion de __getWalletOperacionesCoffe
+ [35m2024-05-28 10:22:56.326728- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.355657- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.361817- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:56.362452- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.389745- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-05-28 10:22:56.394630- INFO - [32mAbono registrado con exito!!! detail 
+ [35m2024-05-28 10:22:56.394944- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-05-28 10:22:56.395137- INFO - [32mse genero el reporte de cliente 7
+ [35m2024-05-28 10:23:42.464109- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.472180- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.472456- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.472561- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.479669- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.511542- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.588291- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.590604- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.609661- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.618959- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.619064- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.634008- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.719760- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.731370- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.750945- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.783803- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.786749- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.797492- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:23:42.797750- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-05-28 10:23:42.804803- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.820985- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.838620- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.838928- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.852973- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.881239- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.881849- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.881964- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.882675- INFO - [32mnew implement IPagos
+ [35m2024-05-28 10:23:42.902781- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.907792- INFO - [32mnew implement IOrdenes
+ [35m2024-05-28 10:23:42.955333- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:42.955511- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:43.050779- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:43.057758- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:43.058337- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:43.063646- INFO - [32mnew implement IClientes
+ [35m2024-05-28 10:23:43.063954- INFO - [32mnew implement IClientes

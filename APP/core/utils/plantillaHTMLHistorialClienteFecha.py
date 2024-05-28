@@ -1,12 +1,20 @@
 import datetime
 import threading
 from core.Entities.reports.client.clientReporteEntity import ClientReportEntity
-
-
+from core.Implements.Abonos.abonoDAO import AbonoDAO
 
 class PlantillaHTMLHistorialCliente():
+    
     def __init__(self) -> None:
         pass
+      
+    def _procesarAbonos(self,datos:ClientReportEntity,sede:str):
+      saldo = 0
+      _CoreAbonos = AbonoDAO()
+      saldo = _CoreAbonos.getAbono(idCliente=datos.cliente.id,sede=sede)
+      return saldo["response"] 
+      
+      
     def __procesarOrdenesAbiertas(self,datos:ClientReportEntity):
         self.OrdenesAbiertas = ''
         self.totalOrdenesAbiertas = 0
@@ -127,7 +135,9 @@ class PlantillaHTMLHistorialCliente():
           
           <center><h2> RESUMEN DE OPERACIONES</h2></center> 
           <table>
-          <tr><th>TOTAL ORDENES CERRADAS $</th><th>{self.totalCerrado}$</tr>
+          <tr><th>ORDENES ABIERTAS</th><th>{self.totalOrdenesAbiertas}$</th></tr>
+          <tr><th>ABONOS</th><th>{float(self._procesarAbonos(datos=datos,sede=sede))}$</th></tr>
+          <tr><th>DEUDA</th><th>{(self.totalOrdenesAbiertas) -float(self._procesarAbonos(datos=datos,sede=sede))}</th></tr>
           <tr><th>SALDO WALLET</th><th>{self.totalWallet}$</th><tr>
           </table>
           <center> <h2> ORDENES ABIERTAS</h2> </center>

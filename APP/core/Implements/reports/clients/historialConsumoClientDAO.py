@@ -5,6 +5,7 @@ from config.Logs.LogsActivity import Logs
 from core.Entities.reports.client.clientReporteEntity import *
 from core.Interface.reports.clients.IReportClient import IReportClient
 from config.Db.conectionsPsqlInterface import ConectionsPsqlInterface
+
 import pdfkit
 import traceback
 
@@ -18,8 +19,10 @@ class HistorialClientReport(ConectionsPsqlInterface):
                     }
     WARNING=Logs.Warnings
     plantilla=PlantillaHTMLHistorialCliente()
+
     def __init__(self):
         super().__init__() 
+ 
     def __getCliente(self,id):
         try:
             cliente = None
