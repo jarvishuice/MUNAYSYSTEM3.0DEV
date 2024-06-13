@@ -1,0 +1,782 @@
+ [35m2024-06-11 13:35:00.906199- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:00.906588- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:00.906956- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:00.949842- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:00.954843- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:00.955595- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:00.956322- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.006557- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.096486- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.099085- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.111805- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.117669- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.117811- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.132803- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.227394- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.240063- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.270767- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.273749- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.277136- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.286385- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 13:35:01.286490- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 13:35:01.291012- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.303567- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.319482- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.332312- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.333455- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.333566- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.334426- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:35:01.343422- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.346405- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:35:01.369449- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.369566- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.405765- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.410933- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.411070- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.414062- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:01.414304- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:35:06.253279- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 13:35:06.264369- INFO - [32mcliente leido con exito
+ [35m2024-06-11 13:35:06.265192- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 13:35:06.306531- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 13:35:06.312788- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 13:35:06.313409- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 13:35:06.365541- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 13:35:06.378974- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 13:35:06.379659- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 13:35:06.380330- INFO - [32mlectura
+ [35m2024-06-11 13:35:06.452241- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 13:35:06.464597- INFO - [32mcliente leido con exito
+ [35m2024-06-11 13:35:06.465387- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 13:35:06.466045- INFO - [32mlectura
+ [35m2024-06-11 13:35:06.535975- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 13:35:06.572432- INFO - [32mcliente leido con exito
+ [35m2024-06-11 13:35:06.573332- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 13:36:57.552098- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.552294- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.552393- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.566804- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.569003- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.569240- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.569556- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.587885- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.641060- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.643132- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.655614- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.659773- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.659981- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.670589- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.723854- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.732008- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.759621- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.761496- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.763410- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.770312- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 13:36:57.770521- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 13:36:57.774561- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.783752- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.799584- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.810779- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.811386- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.811512- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.812332- INFO - [32mnew implement IPagos
+ [35m2024-06-11 13:36:57.821382- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.823840- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 13:36:57.842520- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.842622- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.877335- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.880557- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.880644- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.881915- INFO - [32mnew implement IClientes
+ [35m2024-06-11 13:36:57.882001- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:01:19.737004- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:01:19.747099- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:01:19.748807- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:01:19.785131- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:01:19.791508- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:01:19.792158- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:01:19.898327- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:01:19.909498- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:01:19.910565- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:01:19.912361- INFO - [32mlectura
+ [35m2024-06-11 14:01:19.941353- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:01:19.945385- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:01:19.946094- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:01:19.946722- INFO - [32mlectura
+ [35m2024-06-11 14:01:19.984165- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:01:20.032844- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:01:20.033198- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:03:51.403295- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.403758- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.403966- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.424055- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.428652- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.429146- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.429958- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.460930- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.521294- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.522815- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.533703- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.538484- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.538587- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.549377- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.613347- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.621463- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.650078- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.652052- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.653984- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.660593- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:03:51.660753- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:03:51.664842- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.674508- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.690825- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.705799- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.706627- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.706797- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.707561- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:51.716636- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.719742- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:51.739814- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.739924- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.776511- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.779702- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.779803- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.781225- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:51.781321- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.504184- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.504473- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.504614- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.520947- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.523258- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.523487- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.523773- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.545752- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.624369- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.626374- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.647930- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.658593- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.658814- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.676368- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.774847- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.787781- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.825427- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.827484- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.829634- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.841128- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:03:54.841249- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:03:54.845291- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.857053- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.875277- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.892208- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.892821- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.892923- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.893662- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:03:54.904551- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.907227- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:03:54.928917- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:54.929021- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:55.009365- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:55.023052- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:55.023372- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:55.027051- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:55.027367- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:03:57.407654- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:03:57.414251- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:03:57.414664- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:03:57.463381- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:03:57.468416- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:03:57.469560- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:03:57.508909- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:03:57.518864- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:03:57.519613- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:03:57.520261- INFO - [32mlectura
+ [35m2024-06-11 14:03:57.557939- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:03:57.567259- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:03:57.567813- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:03:57.568242- INFO - [32mlectura
+ [35m2024-06-11 14:03:57.605733- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:03:57.653141- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:03:57.653513- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:04:36.031215- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:04:36.035816- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:04:36.036252- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:04:36.069374- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:04:36.073292- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:04:36.074382- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:04:36.098263- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:04:36.106311- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:04:36.107225- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:04:36.110095- INFO - [32mlectura
+ [35m2024-06-11 14:04:36.135523- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:04:36.145564- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:04:36.145931- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:04:36.146219- INFO - [32mlectura
+ [35m2024-06-11 14:04:36.189954- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:04:36.243349- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:04:36.244646- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:09:04.502956- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.503379- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.503634- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.531848- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.534502- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.534617- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.534918- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.563819- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.640994- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.644528- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.658626- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.665350- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.665484- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.681097- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.786374- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.801838- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.857992- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.867509- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.880453- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.893994- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:04.894240- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:04.901013- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.915641- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:04.941513- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.961745- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.963387- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.963684- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.964606- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:04.976799- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:04.980454- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:05.016728- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.016989- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.068509- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.075354- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.075841- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.080244- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:05.080770- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.067786- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.067972- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.068068- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.082778- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.084972- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.085084- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.085272- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.107040- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.184719- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.186913- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.209249- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.218346- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.219014- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.243386- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.407480- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.429161- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.468187- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.470263- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.472246- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.479223- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:09.479336- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:09.483496- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.493098- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.507877- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.518776- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.519388- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.519505- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.520344- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:09.533243- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.536924- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:09.558128- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.558234- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.619077- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.623856- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.624011- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.626039- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:09.626147- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.515635- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.515862- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.515967- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.540046- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.543268- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.543387- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.543571- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.573636- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.648364- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.650207- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.668006- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.674871- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.675066- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.691365- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.784879- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.797948- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.834023- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.836405- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.838791- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.846070- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:39.846168- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:39.850271- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.860610- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.875921- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.887352- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.888081- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.888228- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.889120- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:39.903135- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.907712- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:39.934287- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.934408- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.973900- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.977656- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.977795- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.979078- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:39.979174- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:53.382363- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.382642- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.382986- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.433285- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.444273- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:53.445499- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.446314- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:53.506393- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:53.628873- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:53.634028- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.663128- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.684391- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.685392- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.729476- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.953017- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:53.977655- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.023248- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.026194- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.029202- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.039804- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:54.040372- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:54.045938- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.059771- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.101530- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:54.126473- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:54.133033- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:54.133765- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:54.140012- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:54.165520- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:54.175324- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:54.218279- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.218517- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.276967- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.281531- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.281635- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.283212- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:54.283305- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.246450- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.247023- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.247398- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.270017- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.274681- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.275180- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.279486- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.316388- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.366381- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.368950- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.380957- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.385183- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.385302- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.395501- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.446083- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.457355- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.498227- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.500047- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.503031- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.509970- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:58.510213- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:09:58.514322- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.524865- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.538903- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.549735- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.550413- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.550626- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.551321- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:09:58.560823- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.563738- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:09:58.583163- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.583264- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.619243- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.622754- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.622860- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.624523- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:09:58.624698- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:00.783368- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.783735- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.783935- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.811638- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.815084- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:00.815345- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.815697- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:00.848551- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:00.938146- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:00.941852- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.963229- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.971435- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.972052- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:00.992973- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.091205- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.100858- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.144400- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.147017- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.149443- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.159236- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:01.159383- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:01.165691- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.179702- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.197959- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.212599- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.213285- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:01.213393- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.214223- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:01.228614- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:01.232077- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:01.257138- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.257402- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.301468- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.307291- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.307447- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.309624- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:01.309754- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:05.700349- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.700551- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.700649- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.721259- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.725002- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:05.725148- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.725328- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:05.747594- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:05.822823- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:05.825165- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.840215- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.846523- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.846886- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.863686- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.931280- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:05.943694- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:05.988459- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:05.992170- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:05.995287- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.005885- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:06.006170- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:06.013159- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.028903- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.046932- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:06.061027- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:06.061785- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:06.061914- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:06.062620- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:06.073599- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:06.077427- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:06.104026- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.104394- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.151865- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.159208- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.159368- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.162271- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:06.162386- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.496630- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.496859- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.496958- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.514929- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.517144- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.517368- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.517675- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.544485- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.633473- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.637591- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.659583- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.667049- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.667474- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.690171- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.771420- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.779839- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.813278- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.815320- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.817977- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.827811- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:10.827936- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:10.831917- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.841956- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.860793- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.871938- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.872627- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.872784- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.873651- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:10.882368- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.884868- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:10.903513- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.903615- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.938371- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.941607- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.941708- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.942987- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:10.943110- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.268437- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.268778- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.268941- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.290810- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.293032- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.293135- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.293334- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.310801- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.361915- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.364184- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.385851- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.395688- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.396028- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.413284- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.468117- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.476610- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.519067- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.521257- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.523432- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.530582- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:51.530701- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:10:51.534999- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.545280- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.560970- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.571845- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.572398- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.572507- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.573368- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:10:51.581797- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.584499- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:10:51.603419- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.603522- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.639202- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.642427- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.642527- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.643779- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:10:51.643873- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.075395- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.075712- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.075902- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.094002- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.096213- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.096421- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.096753- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.132750- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.212706- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.214730- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.240869- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.248052- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.248209- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.268011- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.335577- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.346771- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.378187- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.380064- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.382352- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.389095- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:11:27.389227- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:11:27.393073- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.404034- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.418806- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.431955- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.432701- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.432821- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.433807- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:27.451879- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.455757- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:27.494853- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.495007- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.560025- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.563895- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.564029- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.565522- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:27.565751- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.030078- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.030337- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.030429- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.051082- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.054854- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.054996- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.055188- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.086158- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.157324- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.159219- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.178530- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.185733- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.185973- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.202082- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.279722- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.295206- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.362168- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.367334- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.372233- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.386694- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:11:58.388202- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:11:58.401216- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.421603- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.453009- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.495602- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.505445- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.510109- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.513023- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:11:58.545465- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.553511- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:11:58.595498- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.596475- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.829050- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.850668- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.850820- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.860966- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:11:58.861254- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.261107- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.261305- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.261406- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.275462- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.277847- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.277955- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.278158- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.295206- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.341464- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.342835- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.355316- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.359314- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.359419- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.369505- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.428738- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.437126- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.464936- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.466752- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.468574- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.475404- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:12:00.475520- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:12:00.482427- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.493441- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.512490- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.533818- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.534674- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.534807- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.535699- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:12:00.548555- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.551331- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:12:00.578298- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.578444- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.622346- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.626422- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.626540- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.627895- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:00.628000- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:12:08.010656- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:12:08.018479- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:12:08.019612- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:12:08.057244- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:12:08.067655- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:12:08.068838- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:12:08.105094- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:12:08.117334- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:12:08.118652- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:12:08.120520- INFO - [32mlectura
+ [35m2024-06-11 14:12:08.160739- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:12:08.166133- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:12:08.168202- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:12:08.168815- INFO - [32mlectura
+ [35m2024-06-11 14:12:08.202565- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:12:08.237796- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:12:08.238174- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:25.919560- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:25.932717- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:25.933195- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:25.984055- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:25.994587- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:17:25.995181- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:26.034982- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:26.045437- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:17:26.046306- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:26.046936- INFO - [32mlectura
+ [35m2024-06-11 14:17:26.091071- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:26.101898- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:26.102345- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:26.102620- INFO - [32mlectura
+ [35m2024-06-11 14:17:26.144657- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:26.225901- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:26.228749- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.086788- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.091173- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:32.091520- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.132138- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.138990- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:17:32.139630- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.181518- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.188909- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:17:32.189493- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.190192- INFO - [32mlectura
+ [35m2024-06-11 14:17:32.226478- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.233627- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:32.234767- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.235359- INFO - [32mlectura
+ [35m2024-06-11 14:17:32.277094- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.309763- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:32.310053- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.819293- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.823987- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:32.824365- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.860376- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.869567- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:17:32.870025- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.894408- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.901596- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:17:32.902245- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.903237- INFO - [32mlectura
+ [35m2024-06-11 14:17:32.931856- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:32.935938- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:32.936462- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:32.936814- INFO - [32mlectura
+ [35m2024-06-11 14:17:32.974993- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.017959- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:33.018686- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:33.582247- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.590010- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:33.590413- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:33.616873- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.621002- INFO - [32mid genernerado con exito 
+ [35m2024-06-11 14:17:33.621767- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:33.669929- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.679147- INFO - [32mse ecncontraron (7) de pedidos  en la sede cfm del cliente 1170 .....!
+ [35m2024-06-11 14:17:33.679548- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:33.679942- INFO - [32mlectura
+ [35m2024-06-11 14:17:33.732494- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.736361- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:33.736968- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:17:33.737400- INFO - [32mlectura
+ [35m2024-06-11 14:17:33.774706- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-11 14:17:33.842246- INFO - [32mcliente leido con exito
+ [35m2024-06-11 14:17:33.842558- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-11 14:20:00.455257- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.455451- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.455550- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.468767- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.471112- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.471304- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.471570- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.489390- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.536554- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.537938- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.548230- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.552721- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.552937- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.563300- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.613099- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.621284- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.649605- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.651407- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.653277- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.659837- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:20:00.660105- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-11 14:20:00.664176- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.673114- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.687169- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.698229- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.698853- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.698992- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.699750- INFO - [32mnew implement IPagos
+ [35m2024-06-11 14:20:00.708186- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.710850- INFO - [32mnew implement IOrdenes
+ [35m2024-06-11 14:20:00.729671- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.729772- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.765693- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.768966- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.769079- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.770369- INFO - [32mnew implement IClientes
+ [35m2024-06-11 14:20:00.770465- INFO - [32mnew implement IClientes
