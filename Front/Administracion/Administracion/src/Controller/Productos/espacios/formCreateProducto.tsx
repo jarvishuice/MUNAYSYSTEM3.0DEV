@@ -20,7 +20,7 @@ export function FormCreateProduct() {
                 alert("Error al crear el producto ")}
             else{
                 alert(" Producto creado con exito !!!" );
-            window.location.reload();    
+            //window.location.reload();    
             } 
             
             

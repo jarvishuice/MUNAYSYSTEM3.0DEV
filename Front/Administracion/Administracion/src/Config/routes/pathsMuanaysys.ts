@@ -6,9 +6,9 @@
  */
 export class PATHMUNAYSYSY {
   // datos de conexion del API 
-  private ipAPI = '127.0.0.1'//'191.97.17.26'; //Ip primaria 
-  private ipAPIRespaldo ='127.0.0.1'//'190.94.248.62'; //IP de respaldo
-  private PortAPI = '8090'; //puerto de escucha del  api 
+  private ipAPI = '191.97.17.26'; //Ip primaria 
+  private ipAPIRespaldo ='190.94.248.62'; //IP de respaldo
+  private PortAPI = '8011'; //puerto de escucha del  api 
 
   private CompanyName = 'nest';
 
