@@ -113,6 +113,28 @@ export function SideBar(props: any): any {
                 </AccordionGroup>
               </ListItem>
               <ListItem>
+                <AccordionGroup  onClick={()=>(setOpen(false))}  className="itemsLista">
+                  <Link  to="facturas">
+                 <Accordion >
+                <ListItemButton 
+                className="itemsLista"
+                  selected={index === 0}
+                  color={index === 0 ? 'primary' : undefined}
+                  onClick={() => setIndex(0)}
+                >
+                  <ListItemDecorator>
+                    <AnalyticsIcon/>
+                  </ListItemDecorator>
+                  <ListItemContent>FACTURA</ListItemContent>
+           
+                </ListItemButton>
+                
+                </Accordion>
+                </Link>
+                </AccordionGroup>
+              </ListItem>
+
+              <ListItem>
                 <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
                 <Link to="clientes">
                  <Accordion >
@@ -196,6 +218,7 @@ export function SideBar(props: any): any {
                 </Link >
                 </AccordionGroup>
               </ListItem>
+              
               <ListItem>
                 <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
                 <a href='http://190.94.248.62:8051/index.html' onClick={()=>localStorage.clear()}>
@@ -217,6 +240,7 @@ export function SideBar(props: any): any {
                 </a>
                 </AccordionGroup>
               </ListItem>
+
             </List>
 
 

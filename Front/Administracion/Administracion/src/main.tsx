@@ -23,15 +23,27 @@ import { ReportesEspaciosScreen } from './screens/reportesEspaciosScreen.tsx';
 import { ReportesGerenciaScreen } from './screens/ReportesGerenciaScreen.tsx';
 import { RecargaWalletCoffeScreen } from './screens/recargaWalletCoffeScreen.tsx';
 import { VisitantesScreen } from './screens/visitasScreen.tsx';
+import { FacturasScreen } from './screens/Facturas.tsx';
+import { ProductosEspaciosScreen } from './screens/ProductosEspaciosScreen.tsx';
+import { ProductosCoffeScreen } from './screens/ProductosCoffeScreen.tsx';
 
 const router = createBrowserRouter([
   {
     path: "/administracion/index.html",
-    
+
     element: <App />,
     errorElement: <PageError></PageError>,
 
-    children: [
+    children: [{path: "productos/Coffe",
+      element:<ProductosCoffeScreen></ProductosCoffeScreen>
+     },
+      {path: "productos/espacios",
+       element:<ProductosEspaciosScreen></ProductosEspaciosScreen>
+      },
+      {
+        path:"facturas",
+        element:<FacturasScreen></FacturasScreen>
+      },
       {
         path: "dashboard",
         element: <Dashboard />
@@ -99,11 +111,11 @@ const router = createBrowserRouter([
 
     ]
   },
-  
+
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <RouterProvider  router={router}  />
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )

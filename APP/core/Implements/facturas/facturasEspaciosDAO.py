@@ -1,3 +1,4 @@
+from core.utils.facturas.plantillaHTMLFactura import PlantillaHTMLFactura
 from core.Implements.clientes.deudaClientesEspaciosDAO import DeudaCientesEspaciosDAO
 from core.Entities.facturas.facturaEntity import FacturaEntity, FacturaEncabezadoEntity, FacturaContenidoEntity
 from core.Entities.facturas.clientDeatilFActuraEntity import ClientDetailFacturaEntity
@@ -5,15 +6,23 @@ from config.Logs.LogsActivity import Logs
 from core.config.ResponseInternal import ResponseInternal
 from config.Db.conectionsPsqlInterface import ConectionsPsqlInterface
 from core.Interface.facturas.IFacturas import IFactura
-
+import pdfkit
 
 class FacturasEspaciosDAO(ConectionsPsqlInterface, IFactura):
     __deudasCore = DeudaCientesEspaciosDAO()
     __tasa:float = 0.00
+    OPTIONS = {
+                      'page-size': 'Letter', 
+      'margin-top': '0.75in',
+      'margin-right': '0.75in',
+      'margin-bottom': '0.75in', 
+      'margin-left': '0.75in'
+                    }
     
     def __init__(self) -> None:
         super().__init__()
         self.__tasa = self.__obtenerTaza['response']
+        self.plantillaHtml = PlantillaHTMLFactura()
         print(self.__tasa)
             
     
@@ -48,7 +57,7 @@ class FacturasEspaciosDAO(ConectionsPsqlInterface, IFactura):
         """
         
     def __generator_code(self,number):
-        code = str(number).zfill(8)
+        code = str(number).zfill(7)
         return code
     
     """           
@@ -418,3 +427,88 @@ class FacturasEspaciosDAO(ConectionsPsqlInterface, IFactura):
             return ResponseInternal.responseInternal(False, "ERROR EN LA BASE DE DATOS", None)
         finally:
             self.disconnect()
+            
+            
+    def actualizarFactura(self,encabezado:FacturaEncabezadoEntity,sede:str):
+        try: 
+            conexion = self.connect()
+            if conexion['status']==False:
+                return ResponseInternal.responseInternal(status=False,
+                                                         mesagge="ERROR DE CONEXION A LA BASE DE DATOS...",
+                                                         response=None)
+            with self.conn.cursor() as cur:
+                cur.execute(f"""
+                            UPDATE public.facturas_espacios_{sede} SET n_factura='{encabezado.nFactura}', 
+                            ci_cliente='{encabezado.ci}', nombre_cliente='{encabezado.nombre.upper()}',
+                            status={encabezado.status}, direccion_fiscal='{encabezado.direcion.upper()}' 
+                            WHERE id_table={encabezado.id};
+                            """)
+                self.conn.commit()
+                #cur.close()
+                return ResponseInternal.responseInternal(status=True,
+                                                         mesagge="factura actualizada con exito",
+                                                         response=True)
+        except self.INTERFACE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(
+                f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False, "ERROR EN LA BASE DE DATOS", None)
+        finally:
+            self.disconnect()
+    
+   
+   
+    def generarPdfFactura(self,sede,id):
+        factura = None
+        factura = self.getFacturaById(id,sede)
+        if factura['status'] != True:
+            return ResponseInternal.responseInternal(status=False,mesgge= "Factura no encontrada")
+        html = self.plantillaHtml.getHtml(factura['response'])  
+        output_path = f"assets/Facturas/{sede}/{id}.pdf"
+        pdf = pdfkit.from_string(html,output_path,options=self.OPTIONS)
+        return ResponseInternal.responseInternal(True,"generandopdf",True)
+    def getHtmlFactura(self,sede,id):
+        factura = None
+        factura = self.getFacturaById(id,sede)
+        if factura['status'] != True:
+            return ResponseInternal.responseInternal(status=False,mesagge= "Factura no encontrada", response=False)
+        html = self.plantillaHtml.getHtml(factura['response'])  
+        output_path = f"assets/Facturas/{sede}/{id}.pdf"
+     
+        return ResponseInternal.responseInternal(True,"generando html",html) 
+    
+    
+      
+    def getAllFacturas(self,sede):
+        data =[]
+        try: 
+            conexion= self.connect()
+            if conexion['status']==False:
+                return ResponseInternal.responseInternal(status=False,
+                                                         mesagge="ERROR DE CONEXION A LA BASE DE DATOS...",
+                                                         response=data)
+            with self.conn.cursor() as cur:
+                cur.execute(f"""
+                            select id_table from facturas_espacios_{sede} where status <> 0 
+                            order by fecha desc;
+                            """)
+                count = cur.rowcount
+                if count <=0:
+                    return ResponseInternal.responseInternal(True,f"no se ha encontrado ninguna factura en la sede {sede}",data)
+                for i in cur :
+                    data.append(self.getFacturaById(int(i[0]),sede)['response'])
+                cur.close()
+            return ResponseInternal.responseInternal(True,"facturas flitradas con exito",data)
+                
+                    
+        except self.INTERFACE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(
+                f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False, "ERROR EN LA BASE DE DATOS", None)
+        finally:
+            self.disconnect()   

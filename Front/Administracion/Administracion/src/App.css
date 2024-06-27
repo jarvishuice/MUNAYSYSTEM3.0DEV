@@ -472,6 +472,12 @@ box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
 border-radius: 10px;
 border: 0px solid #000000;
 }
+.containerFormCreateProduct{
+width: 500px;
+height: 90%;
+
+
+}
 @media (max-width: 650px) {
   .containerCardMethodPayToday{
 

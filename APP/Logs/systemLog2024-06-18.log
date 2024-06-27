@@ -1,0 +1,154 @@
+ [35m2024-06-18 12:41:34.040467- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:34.040703- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:34.040795- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:34.049387- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:34.049526- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:34.521151- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:41:34.632992- INFO - [32mtasa obtenida con exito
+ [35m2024-06-18 12:41:34.633344- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:41:34.959514- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:41:35.067522- INFO - [32mtasa obtenida con exito
+ [35m2024-06-18 12:41:35.067822- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:41:35.304608- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:41:35.421711- INFO - [32mtasa obtenida con exito
+ [35m2024-06-18 12:41:35.422250- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:41:35.747430- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:41:35.820186- INFO - [32mtasa obtenida con exito
+ [35m2024-06-18 12:41:35.820470- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:41:35.830382- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:35.834441- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:35.834561- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:35.834754- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:35.870942- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:35.936564- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:35.937973- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:35.948559- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:35.960614- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.045700- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.071609- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.084260- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.089840- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.093737- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.103292- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-18 12:41:36.103399- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-06-18 12:41:36.108483- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.121502- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.137449- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.150648- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.152205- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:36.152506- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.154690- INFO - [32mnew implement IPagos
+ [35m2024-06-18 12:41:36.171789- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:36.174646- INFO - [32mnew implement IOrdenes
+ [35m2024-06-18 12:41:36.195540- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.195652- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.229869- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.234182- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.234270- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.236960- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:41:36.237042- INFO - [32mnew implement IClientes
+ [35m2024-06-18 12:42:51.840667- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:52.039583- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:52.102785- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:52.103249- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:52.421826- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:52.480710- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:52.481094- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:52.481398- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:52.815310- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:52.872988- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:52.873271- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:53.099811- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:53.239813- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:53.240626- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:53.241105- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:54.005232- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:54.049247- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:54.049749- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:54.364443- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:54.496281- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:54.497031- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:54.497573- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:54.712990- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:54.805511- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:54.805797- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:54.854231- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:54.870408- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:54.870790- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:54.870958- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:55.007431- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.035486- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:55.036192- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.196996- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.228373- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:55.229203- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.229849- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:55.335261- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.361311- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:55.361601- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.451029- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.462217- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:55.462472- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.462660- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:55.495343- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.500427- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:42:55.500755- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.594803- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:42:55.630580- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:42:55.631396- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:42:55.631891- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:42:55.632341- INFO - [32mfacturas flitradas con exito
+ [35m2024-06-18 12:42:55.632636- INFO - [32m[0;33m no tiene conexion aperturada en estos monetos 
+ [35m2024-06-18 12:43:34.191774- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:43:34.254793- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:43:34.255091- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:43:34.622040- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:43:34.632284- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:43:34.633896- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:43:34.635161- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:43:34.637753- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:43:44.787890- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:43:44.838206- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:43:44.838566- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:43:45.133222- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:43:45.179721- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:43:45.180186- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:43:45.180463- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:43:45.181224- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:44:18.946846- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:19.012674- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:44:19.013517- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:19.461610- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:19.539053- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:44:19.539885- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:19.540951- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:44:19.546804- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:44:26.714441- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:26.769130- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:44:26.769451- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:26.884788- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:26.919188- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:44:26.920074- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:26.920589- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:44:26.923698- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:44:32.170169- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:32.234644- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:44:32.235471- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:32.382083- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:32.429228- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:44:32.429548- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:32.429784- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:44:32.430889- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:44:45.208708- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:45.327051- INFO - [32mdeatlles de orden extraido con exito
+ [35m2024-06-18 12:44:45.327958- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:45.762560- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:44:45.920096- INFO - [32mencabezado de factura extraido con exito
+ [35m2024-06-18 12:44:45.921341- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-06-18 12:44:45.922525- INFO - [32mexitor al extraer la factura
+ [35m2024-06-18 12:44:45.929429- INFO - [32mgenerandopdf
+ [35m2024-06-18 12:46:54.290291- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-06-18 12:46:54.328379- INFO - [32m[0;31m error en la base de datos detailpermiso denegado a la tabla facturas_espacios_jalisco
+
+ [35m2024-06-18 12:46:54.329165- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-06-18 12:46:54.329878- INFO - [32mDesconexión exitosa de la base de datos

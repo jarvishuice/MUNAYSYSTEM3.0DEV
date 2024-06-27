@@ -10,6 +10,7 @@ class ConectionsPsqlInterface(ConectionDbInterface):
     DATABASE_ERROR=psycopg2.DatabaseError
     INTEGRIDAD_ERROR=psycopg2.IntegrityError
     INTERFACE_ERROR=psycopg2.InternalError
+  
     @override   
     def connect(self):
         try:
@@ -28,5 +29,5 @@ class ConectionsPsqlInterface(ConectionDbInterface):
             self.conn.close()
             Logs.WirterTask("Desconexión exitosa de la base de datos")
             self.conn = None
-        else:Logs.WirterTask(f"{self.NOTE}no tiene conexion aperturada en estos monetos ")
+        else:Logs.WirterTask(f"{self.NOTE} no tiene conexion aperturada en estos monetos ")
     

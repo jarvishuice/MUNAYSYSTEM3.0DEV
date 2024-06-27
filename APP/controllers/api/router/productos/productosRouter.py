@@ -43,6 +43,21 @@ async def FiltroCategorias(categoria,sede) -> list[ProductosEntity]:
        return respuesta
     else:
        raise HTTPException(400,trigger['mesagge'])
-       
-
+    
+@Productos.put('/update/{sede}')    
+async def Updateproduct(sede:str,producto:ProductosEntity):
+   trigger = core.updateProducto(producto=producto,sede=sede)
+   if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+   else:
+       raise HTTPException(400,trigger['mesagge'])
+@Productos.get("/all/{sede}")
+async def getAllProductosBYsede(sede):
+    trigger = core.getAllProductosBYsede(sede)
+    if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+    else:
+       raise HTTPException(400,trigger['mesagge'])
 

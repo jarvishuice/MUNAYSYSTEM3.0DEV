@@ -1,3 +1,8 @@
+from fastapi.responses import HTMLResponse
+from core.Implements.facturas.facturaCoffeDAO import FacturasCoffeDAO
+from core.Entities.facturas.facturaEntity import FacturaEntity
+from core.utils.facturas.plantillaHTMLFactura import PlantillaHTMLFactura
+from core.Entities.facturas.facturaEncabezadoEntity import FacturaEncabezadoEntity
 from core.Implements.facturas.facturasEspaciosDAO import FacturasEspaciosDAO
 from core.Implements.auth.authDAO import AuthDAO
 from fastapi import APIRouter,Request,HTTPException,UploadFile,File,Response,Depends
@@ -6,6 +11,7 @@ from core.ROOM.userAccion.registerAccion import AccionUserEntity,RegisterAccion
 
 
 core= FacturasEspaciosDAO()
+coreCoffe= FacturasCoffeDAO()
 ROOM=RegisterAccion()
 security = HTTPBearer()
 validator=AuthDAO()
@@ -22,10 +28,35 @@ def aut(credendentials:HTTPAuthorizationCredentials= Depends(security)):
 
 
 
-   
+@FACTURAS_ESPACIOS.get("/generar/pdf/{sede}/{id}")
+async def generarPDF(sede, id):
+    trigger = core.generarPdfFactura(sede,id)
+    if trigger['status'] ==True:
+        respuesta= trigger['response']
+        return respuesta
+    else:
+        raise HTTPException(400,trigger['mesagge'])
+@FACTURAS_ESPACIOS.get("/generar/coffe/pdf/{sede}/{id}")
+async def generarPDF(sede, id):
+    trigger = coreCoffe.generarPdfFactura(sede,id)
+    if trigger['status'] ==True:
+        respuesta= trigger['response']
+        return respuesta
+    else:
+        raise HTTPException(400,trigger['mesagge'])
 @FACTURAS_ESPACIOS.get("/generar/{sede}/{idCliente}/")
 async def generar(sede,idCliente,): 
    trigger = core.generarFactura(idCliente=idCliente,sede=sede)   
+   if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+   else:
+       raise HTTPException(400,trigger['mesagge'])
+   
+   
+@FACTURAS_ESPACIOS.get('/generar/coffe/{sede}/{idCliente}')   
+async def generarCoffe(sede,idCliente):
+   trigger = coreCoffe.generarFactura(idCliente=idCliente,sede=sede)   
    if trigger['status'] ==True:
        respuesta= trigger['response']
        return respuesta
@@ -48,3 +79,25 @@ async def filterStatus(status:int,sede:str):
        return respuesta
    else:
        raise HTTPException(400,trigger['mesagge'])
+@FACTURAS_ESPACIOS.put("/actualizar/{sede}")
+async def actualizarFactura(factura:FacturaEncabezadoEntity,sede:str):
+    trigger = core.actualizarFactura(factura,sede)
+    if trigger['status'] ==True:
+        respuesta= trigger['response']
+        return respuesta
+    else:
+        raise HTTPException(400,trigger['mesagge'])
+
+@FACTURAS_ESPACIOS.post("/test/html/",response_class=HTMLResponse)
+async def generarHtml(factura:FacturaEntity):
+    html = PlantillaHTMLFactura()
+    
+    return html.getHtml(factura)
+
+
+
+""" 
+*********************
+Core de facturas DAO*
+*********************
+"""

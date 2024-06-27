@@ -3,6 +3,7 @@ from typing import Annotated
 from fastapi import FastAPI,Depends
 from fastapi.security import OAuth2PasswordBearer
 from fastapi.middleware.cors import CORSMiddleware
+from controllers.api.router.facturas.facturasRouter import FACTURAS
 from controllers.api.router.facturas.facturasEspaciosRouter import FACTURAS_ESPACIOS
 from controllers.api.router.Ordenes.OrdenesRouter import Ordenes
 from controllers.api.router.clientes.clientesRouter import Clientes
@@ -42,6 +43,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.include_router(FACTURAS)
 app.include_router(FACTURAS_ESPACIOS)
 app.include_router(ReportClientConsumo)
 app.include_router(GERENCIA)

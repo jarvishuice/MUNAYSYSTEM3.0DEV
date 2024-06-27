@@ -1,3 +1,4 @@
+from datetime import datetime
 from core.Entities.productos.productosEntity import ProductosEntity
 from core.Interface.productos.Iproductos import IProductos
 from core.config.ResponseInternal import ResponseInternal
@@ -11,8 +12,10 @@ class ProductosEspaciosDAO(IProductos,ConectionsPsqlInterface,):
     def __init__(self):
         super().__init__()
     
-        return super().registrarProducto()
-    @override
+    
+      
+            
+   
     def registrarProducto(self,productoData: ProductosEntity) -> ProductosEntity:
         """
         Este método registra un nuevo producto en la base de datos.
@@ -29,13 +32,14 @@ class ProductosEspaciosDAO(IProductos,ConectionsPsqlInterface,):
             DATABASE_ERROR: Se lanza cuando hay un error en la base de datos.
 
         """
+      
         try:
             conexion=self.connect()
        
             if conexion['status'] == True:
               with self.conn.cursor() as cur :
                   
-                    cur.execute(f"""INSERT INTO public.productos_espacios (id, nombre, urlimagen, precio, cantidad, tipo, almacen) VALUES((select id from productos_espacios p order by p.id  desc limit 1 )+1, 
+                    cur.execute(f"""INSERT INTO public.productos_espacios (id, nombre, urlimagen, precio, cantidad, tipo, almacen) VALUES((select max(id)+1 from public.productos_espacios), 
                                 '{productoData.nombre}', 'https://d1279ybbfotmtl.cloudfront.net/public/img/nofound.png', {productoData.precio}, {productoData.cantidad}, '{productoData.tipo}', '{productoData.almacen}');
           
                 """)
@@ -127,6 +131,76 @@ class ProductosEspaciosDAO(IProductos,ConectionsPsqlInterface,):
         finally:
             self.disconnect()
             Logs.WirterTask("Finalizada la busqueda de productos por categoria ")
+    
+    
+    
+
+    def getProductosBySede(self,sede):
+        data=[]
+        try:  
+            
+            conexion=self.connect()
+       
+            if conexion['status'] == True:
+              with self.conn.cursor() as cur :
                   
+                    cur.execute(f"""
+                                select * from productos_espacios where almacen = '{sede}' order by nombre asc;
+                                """)
+                    self.conn.commit()
+                    count= cur.rowcount
+                    if count > 0 : 
+                        for i in cur :
+                          data.append(ProductosEntity(id=int(i[0]),nombre=str(i[1]),urlimagen=str(i[2]),precio=float(i[3]),cantidad=int(i[4]),tipo=str(i[5]),almacen=str(i[6]),))
+                        return  ResponseInternal.responseInternal(True,f"Busqueda de producto de la sede  ({sede}) se encontraron ({count}) coincidencias",data)
+                    else:
+                        
+                        return ResponseInternal.responseInternal(True, f"{self.NOTE} no se encontraron coincidencas para el producto enla sede ({sede}) ",None)
+            else:
+                   return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)
+      
+        except self.INTERFACE_ERROR as e :
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False,"ERROR de interface en la base de datos ",None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
+        finally:
+            self.disconnect()
+            Logs.WirterTask("Finalizada la busqueda de productos por categoria ")
+    
+    
+    def updateProducto(self,producto:ProductosEntity):
+     
+        try:  
+            
+            conexion=self.connect()
+       
+            if conexion['status'] == True:
+              with self.conn.cursor() as cur :
+                  
+                    cur.execute(f"""
+                                UPDATE public.productos_espacios SET nombre='{producto.nombre.upper()}', urlimagen='{producto.urlimagen}', precio={producto.precio}, cantidad='{producto.cantidad}', tipo='{producto.tipo}', almacen='{producto.almacen}' WHERE id={producto.id};
+                                """)
+                    self.conn.commit()
+                    cur.close()
+                   
+                    return  ResponseInternal.responseInternal(True,f"actualizacion  de producto  espacios de la sede  ({producto.almacen}) ->[{producto}]",True)
+                   
+            else:
+                   return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)
+      
+        except self.INTERFACE_ERROR as e :
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False,"ERROR de interface en la base de datos ",None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
+        finally:
+            self.disconnect()
+            Logs.WirterTask("Finalizada la busqueda de productos por categoria ")
+    
+        
+      
     
      
