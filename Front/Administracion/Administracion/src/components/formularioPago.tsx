@@ -29,12 +29,12 @@ const sede = localStorage.getItem("sede") ?? "sede";
 export function FormularioPago(props: any): any {
   //consulta abono 
   const [cargando, setCargando] = useState(false)
-  const [abono, setAbono] = useState<number>(props.cliente.abono);
+  const [abono, setAbono] = useState<number>((props.cliente.abono).toFixed(2));
   async function fecthWallet() {
     try {
       const controladorAbonos = new AbonosDAO();
       const data = await controladorAbonos.consultasaldoAbono(props.cliente.idCliente);
-      setAbono(data);
+      setAbono((data).toFixed(2));
     } catch (error) {
       console.error(error);
     }
@@ -182,7 +182,7 @@ export function FormularioPago(props: any): any {
 
       <Divider />
       <Typography sx={{ fontWeight: 'bold' }} key={"walletCard"} noWrap={true} color="neutral" level="body-xs" >
-        ABONOS:{abono}$
+        ABONOS:{Number(abono).toFixed(2)}$ //TODO
       </Typography>
       <Typography sx={{ fontWeight: 'bold' }} key={"tasaBCV"} noWrap={true} color="neutral" level="body-xs" >
         BCV:{tasa}$
