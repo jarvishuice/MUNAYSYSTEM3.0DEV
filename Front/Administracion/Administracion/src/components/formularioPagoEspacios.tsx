@@ -191,7 +191,7 @@ export function FormularioPagoEspacios(props: any): any {
         BCV:{tasa}$
       </Typography>
       <Typography sx={{ fontWeight: 'bold' }} key={"total "} noWrap={true} color="neutral" level="body-xs" >
-        TOTAL:{props.cliente.deuda}$
+        TOTAL:{Number(props.cliente.deuda).toFixed(2)}$
       </Typography>
       <Typography sx={{ fontWeight: 'bold' }} key={"total a pagar "} noWrap={true} color="neutral" level="body-xs" >
         TOTAL A PAGAR:{Number(props.cliente.deuda - abono).toFixed(2)}$
@@ -210,7 +210,7 @@ export function FormularioPagoEspacios(props: any): any {
           <TextField inputProps={{
             min: 0.1, // Valor mínimo
             // Valor máximo
-          }} size="small" sx={{ mt: 1, ml: 1, width: "97%" }} id="outlined-basic" onChange={cambioIMonto} value={iMonto} type="number" label="MONTO" placeholder={"0.1"} color="primary" />
+          }} size="small" sx={{ mt: 1, ml: 1, width: "97%" }} id="outlined-basic" onChange={cambioIMonto} value={(iMonto===0?null:iMonto)} type="number" label="MONTO" placeholder={`${Number(props.cliente.deuda - abono).toFixed(2)}`} color="primary" />
 
           <Select
             labelId="demo-simple-select-helper-label"
