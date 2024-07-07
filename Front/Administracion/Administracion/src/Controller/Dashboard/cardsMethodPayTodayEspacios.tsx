@@ -30,7 +30,7 @@ export function CardsMethodPayTodayEspacios(){
            setPunto(res.resumen.Punto)
            setZelle(res.resumen.zelle)
            setTotal(res.resumen.total)
-           alert(data)
+           //alert(data)
            console.log(data)
  
            
@@ -38,7 +38,7 @@ export function CardsMethodPayTodayEspacios(){
         
         }
         catch (error) {
-          alert(error);
+          console.log(error);
          
         }
         // console.log(controlador);

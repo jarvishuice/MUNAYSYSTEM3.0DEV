@@ -29,7 +29,7 @@ import { ProductosCoffeScreen } from './screens/ProductosCoffeScreen.tsx';
 
 const router = createBrowserRouter([
   {
-    path: "/MUNAY/nest/VIEWS/administracion/index.html",
+    path: "/administracion/index.html",
 
     element: <App />,
     errorElement: <PageError></PageError>,

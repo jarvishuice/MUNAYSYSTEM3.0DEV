@@ -37,8 +37,8 @@ export function GraficoBarraPayEspacios() {
 
     }
     catch (error) {
-      alert(error);
-
+    //  alert(error);
+      alert("No hemos encontrados pagos resgistrados ");
     }
     // console.log(controlador);
     // alert("este es el json:  "+typeof(pagoData)+ JSON.stringify(pagoData))

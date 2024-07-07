@@ -1119,3 +1119,126 @@
  [35m2024-07-06 11:19:13.230220- INFO - [32mnew implement IClientes
  [35m2024-07-06 11:19:13.231599- INFO - [32mnew implement IClientes
  [35m2024-07-06 11:19:13.231686- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:31.851916- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:31.854695- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:31.854799- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:31.859955- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:31.860052- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:33.194856- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:39:33.376460- INFO - [32mtasa obtenida con exito
+ [35m2024-07-06 12:39:33.377544- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:39:34.193619- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:39:34.382052- INFO - [32mtasa obtenida con exito
+ [35m2024-07-06 12:39:34.382371- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:39:35.199632- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:39:35.402991- INFO - [32mtasa obtenida con exito
+ [35m2024-07-06 12:39:35.403340- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:39:36.081544- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:39:36.273916- INFO - [32mtasa obtenida con exito
+ [35m2024-07-06 12:39:36.275349- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:39:36.310432- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.319917- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.320092- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.320373- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.354317- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.434439- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.435860- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.446377- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.458894- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.564173- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.573864- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.591367- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.595191- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.599103- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.610794- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-06 12:39:36.610928- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-06 12:39:36.617144- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.631795- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.653733- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.672138- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.673059- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.673200- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.674451- INFO - [32mnew implement IPagos
+ [35m2024-07-06 12:39:36.693149- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.696873- INFO - [32mnew implement IOrdenes
+ [35m2024-07-06 12:39:36.732612- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.732707- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.770280- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.774513- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.774608- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.777877- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:39:36.777953- INFO - [32mnew implement IClientes
+ [35m2024-07-06 12:45:56.530120- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:45:56.389662- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:45:56.390862- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:45:57.053638- INFO - [32mtoken validado con exito!!!
+ [35m2024-07-06 12:45:57.147865- INFO - [32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m2024-07-06 12:45:57.148711- INFO - [32mtoken validado con exito!!!
+ [35m2024-07-06 12:45:57.150550- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:45:57.152609- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:45:57.153915- INFO - [32mNo se encontraron registros de pagos el dia de hoy
+ [35m2024-07-06 12:45:57.154462- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:45:57.155581- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:45:58.221212- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:45:58.739621- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-07-06 12:45:58.741671- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:45:58.742632- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:45:59.551410- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:45:59.920796- INFO - [32mBusqueda de plan de cuentas en la sede cfm se encontraron (11) coincidencias
+ [35m2024-07-06 12:45:59.921654- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:45:59.921946- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:46:00.707053- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:00.707869- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:00.900031- INFO - [32mtoken validado con exito!!!
+ [35m2024-07-06 12:46:00.901050- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:46:00.988099- INFO - [32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m2024-07-06 12:46:00.988436- INFO - [32mNo se encontraron registros de pagos el dia de hoy
+ [35m2024-07-06 12:46:00.988691- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:46:00.989393- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:46:01.784190- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:02.009492- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-07-06 12:46:02.009602- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:46:02.009859- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:46:02.715039- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:02.770695- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:02.910039- INFO - [32mtoken validado con exito!!!
+ [35m2024-07-06 12:46:02.910464- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:46:03.051364- INFO - [32mlectura de ventas por productos diarias realizado con exito
+ [35m2024-07-06 12:46:03.051545- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:46:03.051935- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:46:03.789583- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:46:03.992563- INFO - [32mOrdnees del dia abiertas extraidas con exito
+ [35m2024-07-06 12:46:03.992845- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:46:03.994072- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:22.305870- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:22.592531- INFO - [32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m2024-07-06 12:57:22.592645- INFO - [32mNo se encontraron registros de pagos el dia de hoy
+ [35m2024-07-06 12:57:22.592711- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:57:22.592953- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:23.309355- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:23.654281- INFO - [32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m2024-07-06 12:57:23.654442- INFO - [32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m2024-07-06 12:57:23.654523- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:57:23.654785- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:24.368720- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:24.792351- INFO - [32m[0;33m no se enmcontraron registros de los pagos de l dia  
+ [35m2024-07-06 12:57:24.792463- INFO - [32mNo se encontraron registros de pagos el dia de hoy
+ [35m2024-07-06 12:57:24.792527- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:57:24.792747- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:25.697091- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:26.010974- INFO - [32m[0;33m se leyeron las ordnes pero on encontramos ninguna  
+ [35m2024-07-06 12:57:26.011077- INFO - [32m{s              elf.NOTE} Las ordnes se leyeron de manera correctapero no conseguimos nada ...  
+ [35m2024-07-06 12:57:26.011155- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:57:26.011421- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:26.821491- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:27.109747- INFO - [32m[0;33m Error al leer ventas por producto  no se encontraron registros de ventas  
+ [35m2024-07-06 12:57:27.109866- INFO - [32merror al leer las ventas por producto  
+ [35m2024-07-06 12:57:27.109938- INFO - [32mFinalizada la ejecucion de registros de productos 
+ [35m2024-07-06 12:57:27.110161- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:44.338567- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:44.950177- INFO - [32mBusqueda de producto de la categoria  (cafe) se encontraron (14) coincidencias
+ [35m2024-07-06 12:57:44.950479- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-06 12:57:44.950582- INFO - [32mFinalizada la busqueda de productos por categoria 
+ [35m2024-07-06 12:57:45.673799- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-06 12:57:45.872457- INFO - [32mConsulta de saldo exitosa del cliente (0) su saldo es 0
+ [35m2024-07-06 12:57:45.874446- INFO - [32mDesconexión exitosa de la base de datos
