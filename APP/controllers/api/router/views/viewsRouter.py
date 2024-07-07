@@ -6,7 +6,7 @@ from core.Implements.auth.authDAO import AuthDAO
 from fastapi.responses import HTMLResponse,FileResponse
 
 urlBase = "/MUNAY/nest"
-VIEWS=APIRouter(prefix=f"{urlBase}/VIEWS", tags=["VIEWS"])
+VIEWS=APIRouter(prefix=f"/v3.0", tags=["VIEWS"])
    
 
 @VIEWS.get("/{perfilType}/{nameFile}")

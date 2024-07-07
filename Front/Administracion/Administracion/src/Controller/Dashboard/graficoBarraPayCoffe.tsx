@@ -37,11 +37,10 @@ export function GraficoBarraPayCoffe() {
 
     }
     catch (error) {
-      alert(error);
+      console.log(error);
 
     }
-    // console.log(controlador);
-    // alert("este es el json:  "+typeof(pagoData)+ JSON.stringify(pagoData))
+    
   }
   React.useEffect(() => {
     GEtPAY();

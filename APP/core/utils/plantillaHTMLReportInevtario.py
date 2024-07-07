@@ -5,15 +5,18 @@ from core.Entities.reports.inventario.ItemsInventarioEntity import ItemsInventar
 class PlantillaHTMLReportInventario():
     def __init__(self):
         pass
-    def getHTML(self,datos:ItemsInventarioEntity,sede) :
-     self.productos=''
-     self.TotalProductos=0
-     for i in datos:
-        #self.productos +=f"""<tr><th>{i.tipo}</th><td>{i.nombre[0:13]}</td><td>{i.precio}</td> <td>{i.cantidad}</td><td>{round((i.cantidad*i.precio),2)}</td><td></td><td></td><td></td> <td></td></tr>"""
-         self.productos +=f"""<tr><th class="categorias">{i.tipo}</th><td class="categorias">{i.nombre[0:13]}</td><td>{i.precio}</td> <td>{i.cantidad}</td><td></td><td></td><td></td> <td></td></tr>"""
-         self.TotalProductos +=i.cantidad*i.precio
-     
-     self.style="""<style>
+
+    def getHTML(self, datos: ItemsInventarioEntity, sede):
+        self.productos = ''
+        self.TotalProductos = 0
+        self.nProductos=0
+        for i in datos:
+            # self.productos +=f"""<tr><th>{i.tipo}</th><td>{i.nombre[0:13]}</td><td>{i.precio}</td> <td>{i.cantidad}</td><td>{round((i.cantidad*i.precio),2)}</td><td></td><td></td><td></td> <td></td></tr>"""
+            self.productos += f"""<tr><th class="categorias">{i.tipo}</th><td class="categorias">{i.nombre.upper()}</td><td>{i.precio}</td> <td>{i.cantidad}</td><td></td><td></td><td></td> <td></td></tr>"""
+            self.TotalProductos += i.cantidad*i.precio
+            self.nProductos+= i.cantidad
+
+        self.style = """<style>
     body {
       font-family: Arial, sans-serif;
     }
@@ -46,7 +49,7 @@ th {
         }
 
 </style>"""
-     html =f"""
+        html = f"""
         <!DOCTYPE html>
 <html>
 <head>
@@ -74,10 +77,15 @@ th {
      <center> <th> Semana 4</th></center>
     </tr>
     {self.productos}
-
+    <tr> 
+    <th></th> 
+    <th></th>
+    <th>{self.TotalProductos}</th> 
+    <th>{self.nProductos}</th>
+    </tr>
   </table>
 </div>
 </body>
 </html>
-        """   
-     return html     
+        """
+        return html

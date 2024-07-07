@@ -32,11 +32,11 @@ class ReportInventarioDAO(ConectionsPsqlInterface,IInventario):
                   
                     cur.execute(f"""
                            SELECT id,nombre, precio, cantidad, tipo as categoria
-FROM inventario{sede} i
-WHERE nombre NOT ILIKE '%cafe%' and tipo NOT ILIKE '%cafe%'  order by tipo ;
-                                """);
-              
-             
+                           FROM inventario{sede} i
+                           WHERE nombre NOT ILIKE '%cafe%' and nombre NOT ILIKE '%kit%' 
+                           and nombre NOT ILIKE '%SERVICIO DE ANFITRION%'  
+                           and tipo NOT ILIKE '%cafe%'  order by tipo ;
+                                """)
                     self.conn.commit()
                     count= cur.rowcount
                     if count > 0 :
@@ -69,10 +69,16 @@ WHERE nombre NOT ILIKE '%cafe%' and tipo NOT ILIKE '%cafe%'  order by tipo ;
                 return ResponseInternal.responseInternal(True,"reporte de inventario generado con exito",output_path)
             else:
                 Logs.WirterTask(f'{self.ERROR} error al extraer los datos del inventario')
-                return ResponseInternal.responseInternal(False,"error al extraer los datos del inventario",None)
-                
-                
-            
-            
+                return ResponseInternal.responseInternal(False,"error al extraer los datos del inventario",None)   
         finally:        
                 Logs.WirterTask(f"finalizado el reporte de inventario de la sede {sede}")
+                
+    def generarIFrame(self,sede:str):
+        html=''
+        datos=self.__extraerInventario__(sede)
+        if datos['status'] ==True:
+            html=self.plantilla.getHTML(datos['response'],sede)
+            return ResponseInternal.responseInternal(True,"reporte de inventario generado con exito",html)
+        else:
+            Logs.WirterTask(f'{self.ERROR} error al extraer los datos del inventario')
+            return ResponseInternal.responseInternal(False,"error al extraer los datos del inventario",None)   

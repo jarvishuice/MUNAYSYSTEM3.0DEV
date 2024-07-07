@@ -18,3 +18,11 @@ async def reporteInventario(sede):
         return FileResponse(path=archivo,media_type='application/pdf', filename=f'ReporteInventario{sede}.pdf')
      else:
          raise HTTPException(400,f"{trigger['mesagge']}")
+@InventarioReport.get("/iframe/{sede}")
+async def reporteInventarioHTML(sede):
+    trigger=core.generarIFrame(sede)
+   
+    if trigger['status']==True:
+        return Response(trigger['response'], media_type='text/html')
+    else:
+         raise HTTPException(400,f"{trigger['mesagge']}")

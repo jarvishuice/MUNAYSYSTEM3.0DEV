@@ -36,11 +36,11 @@ export function CardsMethodPayToday(){
         
         }
         catch (error) {
-          alert(error);
+          alert("No se han encontrado registros de actividad en el coffe");
+          console.log(error)
          
         }
-        // console.log(controlador);
-        // alert("este es el json:  "+typeof(pagoData)+ JSON.stringify(pagoData))
+        
       }
     React.useEffect(() => {
         GEtPAY();

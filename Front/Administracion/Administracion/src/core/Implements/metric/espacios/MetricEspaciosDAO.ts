@@ -29,7 +29,7 @@ export class MetricEspaciosDAO implements IMetricCoffeshop{
                 return null;
               }
               if(response.status== 400){
-                alert(response.statusText)
+                //alert(response.statusText)
                 return null;
               }if(response.status == 401){
                 localStorage.clear()

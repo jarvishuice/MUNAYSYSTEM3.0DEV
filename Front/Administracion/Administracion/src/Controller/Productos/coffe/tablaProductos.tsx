@@ -7,6 +7,7 @@ import { ButtonUpdateProducto } from "./buttonUpdateProducto";
 import { ProductosDAO } from "../../../core/Implements/productos/productosDAO";
 import ModalAggProducto from "./modalAggProducto";
 import { Avatar } from "@mui/joy";
+import { ButtonDownloadInventory } from "./ButtonDownloadInventory";
 
 
 
@@ -179,8 +180,9 @@ export function TablaProductos() {
                 pageSizeOptions={[10]}
 
                 disableRowSelectionOnClick />
-<ModalAggProducto/>
 
+<ModalAggProducto/>
+<ButtonDownloadInventory/>
 
         </Box>)
 

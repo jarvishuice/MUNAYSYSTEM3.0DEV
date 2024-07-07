@@ -57,7 +57,7 @@ export class MetricCoffeshopDAO implements IMetricCoffeshop{
             return null;
           }
           if(response.status== 400){
-            alert(response.statusText)
+            //alert(response.statusText)
             return null;
           }if(response.status == 401){
             localStorage.clear()
@@ -82,11 +82,11 @@ async VentasProductos(sede:string):Promise<VentasProductosEntity[]|[]>{
         console.log(data)
         return data as VentasProductosEntity[];
       } if(response.status== 404){
-        alert("No se ha podido conectar con el servidor ")
+        //alert("No se ha podido conectar con el servidor ")
         return [];
       }
       if(response.status== 400){
-        alert(response.statusText)
+        //alert(response.statusText)
         return [];
       }if(response.status == 401){
         localStorage.clear()
