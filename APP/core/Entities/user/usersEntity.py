@@ -14,3 +14,5 @@ class UsersEntity(BaseModel):
     status:str
     tipoUsuario:Optional[int]
     urlImagen:Optional[str]
+    ultimaSesion:Optional[str]
+    creado:Optional[str]

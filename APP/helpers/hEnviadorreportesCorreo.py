@@ -1,6 +1,6 @@
 import threading
 from PaqEnviadoEmail.Extractor import ExtarctorPDF
-from PaqEnviadoEmail.Correo import Correo
+from Correo import send_email
 import datetime
 import time
 import schedule
@@ -13,7 +13,7 @@ CORREOS = {
 
 def extarctorJalisco():
     route = ''
-    correo = Correo()
+  
     extractor = ExtarctorPDF()
     trigger = extractor.downloadPDF('jalisco')
     if trigger['status'] == True:
@@ -22,20 +22,20 @@ def extarctorJalisco():
         print(route)
         time.sleep(20)
         print("enviando el reporte")
-        correo.EnviarPDF(CORREOS['jalisco'], route, f"reporte  cierre de jornada jalisco {datetime.date.today()}", f"reporte de pre cierre  dejornada jalisco {datetime.date.today()}")
+        send_email(CORREOS['jalisco'],"reporte cierre de jornada jalisco ","<html> <h1> cierre de jornada <h1><html>" ,route, f"reporte de cierre de jornada  jalisco {datetime.date.today()}")
     else:
         print('error al descargar el pdf')
 
 def extarctorCfm():
     route = ''
-    correo = Correo()
+
     extractor = ExtarctorPDF()
     trigger = extractor.downloadPDF('cfm')
     if trigger['status'] == True:
         route = trigger['response']
         time.sleep(20)
         print("enviando el reporte")
-        correo.EnviarPDF(CORREOS['cfm'], route, f"reporte de cierre de jornada  cfm {datetime.date.today()}", f"reporte de pre cierre de jornada cfm {datetime.date.today()}")
+        send_email(CORREOS['cfm'],"reporte cierre de jornada cfm ","<html> <h1> cierre de jornada <h1><html>" ,route, f"reporte de cierre de jornada  cfm {datetime.date.today()}")
     else:
         print('error al descargar el pdf')
 
@@ -51,7 +51,7 @@ def ejecutar_tareas():
 def programar_tareas():
     print("iniciando el software ")
     #schedule.every().day.at("18:30").do(ejecutar_tareas)
-    schedule.every().day.at("10:40").do(ejecutar_tareas)
+    schedule.every().day.at("10:07:00").do(ejecutar_tareas)
 
 def main():
     programar_tareas()
@@ -59,5 +59,6 @@ def main():
         schedule.run_pending()
         
         time.sleep(1)
+        print("correo enviado....")
 
 main()

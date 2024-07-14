@@ -5,7 +5,14 @@ core= UserDAO()
 
 urlBase = "/MUNAY/nest"
 usuarios=APIRouter(prefix=f"{urlBase}/User", tags=["User"])
-
+@usuarios.get("/all")
+async def getAllUsers():
+    trigger=core.getAllUsers
+    if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+    else:
+       raise HTTPException(400,trigger['mesagge'])
 @usuarios.post("/")
 async def crearUsuario(User:UsersEntity):
 
