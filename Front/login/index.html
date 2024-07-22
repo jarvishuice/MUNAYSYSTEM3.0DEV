@@ -132,8 +132,11 @@ button{
                     localStorage.setItem('user',JSON.stringify({id:data.id,nombre:data.nombre,apellido:data.apellido,ci:data.ci,nombreusuario:data.nombreusuario,password:data.password,token:data.token,status:data.status,tiposUsuario:data.tiposUsuario,urlImagen:data.urlImagen}));
                     localStorage.setItem('token',data.token);
                     
-                    if((data.tipoUsuario == 3) || (data.tipoUsuario == '3')){
-                    window.location.href = 'http://localhost:8091/administracion/index.html';}
+                    if((data.tipoUsuario == 2) || (data.tipoUsuario == '3')){
+                    window.location.href = 'http://191.97.17.26:8011/v3.0/administracion/index.html';}
+                   /* else if(data.tipoUsuario == 3) {
+                        window.location.href = 'http://191.97.17.26:8011/v3.0/gerencia/index.html';
+                    } */
                     else{
                     window.location.href = 'http://192.168.12.222:8051/coffe/index.html';}
 
@@ -148,7 +151,7 @@ button{
             const usuario = document.getElementById('username').value;
             const password = document.getElementById('password').value;
             const sede = document.getElementById('sede').value;
-
+            alert("hiso login ....")
             if (usuario === '' || password === '') {
                 alert('Debe llenar todos los campos');
                 return;
@@ -162,7 +165,7 @@ button{
 <body>
     <div class="background">
          </div>
-    <form action="scriptinicio()" accept-charset="UTF-8">
+    <form accept-charset="UTF-8">
   <center>    <img src="https://nestvzla.com/sistema/assets/nest.png" width="50%" alt=""></center>
         
       <h3>Inicio de sesion</h3>
