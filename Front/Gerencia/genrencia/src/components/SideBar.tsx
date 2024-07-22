@@ -24,7 +24,7 @@ import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { Outlet, Link } from "react-router-dom";
 import SettingsAccessibilityIcon from '@mui/icons-material/SettingsAccessibility';
 import AssignmentIndIcon from '@mui/icons-material/AssignmentInd';
-import logoNest from '../assets/logonest.png';
+
 const drawerWidth = 230;
 
 
@@ -72,7 +72,7 @@ export function SideBar(props: any): any {
         >
 
           <ModalClose id="close-icon" sx={{ position: 'initial' }} onClick={() => setOpen(false)} />
-          <Toolbar> <img src={logoNest} className='Logo-Sidebar' alt="" /> </Toolbar>
+          <Toolbar> <img src="http://nestvzla.com/sistema/assets/logonest.png" className='Logo-Sidebar' alt="" /> </Toolbar>
           <Divider className='divider'></Divider>
           <UsuarioInfoCard
             usuario={FotoPerfil.nombreusuario ?? "nest"} imagenPerfil={FotoPerfil.urlImagen}>

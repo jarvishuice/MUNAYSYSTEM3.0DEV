@@ -11,8 +11,8 @@
 <body>
     <form id="form">
         <div class="form">
-            <img src="https://nestvzla.com/sistema/assets/nest.png" width="50%" alt=""/>
-            <h1>Inicio sesión</h1>
+           <center> <img src="http://191.97.17.26:8011/v3.0/login/nest.png" width="50%" alt=""/></center>
+            <h1>Inicio de sesión</h1>
             <div class="grupo">
                 <input type="text" name="usuario" id="usuario" required><span class="barra"></span>
                 <label for="usuario">Usuario</label>
@@ -24,8 +24,8 @@
             </div>
             <label for="sede">Sede</label>
             <div class="grupo">
-                <select name="sede" id="sede" class="barra">
-                    <option value="None"><em value="None">Selecciona una sede</em></option>
+                <select name="sede" required  id="sede" class="barra">
+                    <option value="No hay sede"><em value="None">Selecciona una sede</em></option>
                     <option value="cfm">CFM</option>
                     <option value="jalisco">Jalisco</option> 
                 </select>
@@ -47,7 +47,11 @@
                 password: PASSWORD,
                 token: SEDE
             };
-
+            if (SEDE === "No hay sede"){
+                alert("selecione una sede por favor  ")
+                window.Location.reload();
+            }
+else{
             fetch(url, {
                 method: 'POST',
                 headers: {
@@ -82,7 +86,7 @@
             .catch(error => {
                 console.error('Error al realizar la solicitud:', error);
             });
-        });
+        }});
     </script>
 </body>
 </html>
