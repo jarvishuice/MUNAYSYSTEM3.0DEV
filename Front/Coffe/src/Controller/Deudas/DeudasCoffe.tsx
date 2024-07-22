@@ -57,7 +57,7 @@ export function DeudasCoffe(){
                                    titulo={item.nombre} 
                                    cedula={item.ci}
                                    cantidad={item.cantidadOrdenes} 
-                                   precio={item.deuda-item.abono}
+                                   precio={(item.deuda-item.abono).toFixed(2)}
                                    id={item.idCliente}
                                    data={item}
                                
