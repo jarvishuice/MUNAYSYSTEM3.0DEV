@@ -9,4 +9,4 @@ class Cypher:
     
 if __name__ == "__main__":
     t = Cypher()
-    t.encriptar("123456789")
+    t.encriptar("29577316")

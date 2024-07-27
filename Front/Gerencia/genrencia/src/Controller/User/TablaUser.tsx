@@ -100,7 +100,7 @@ export function TablaUser() {
             width: 100,
             editable: false,
             renderCell: (params) => {
-             const color = params.row.status=="conectado"?"green":"gray";
+             const color = params.row.status=="CONECTADO"?"green":"gray";
                 return (
                                     
                  <Avatar  sx={{width:50,height:50,borderColor:{color},borderStyle:"solid",borderWidth:"2px"}} src={params.row.urlImagen}/>
