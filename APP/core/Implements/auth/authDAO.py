@@ -18,7 +18,7 @@ class AuthDAO(ConectionsPsqlInterface,IAuth):
             
             if conexion['status'] == True:
                     with self.conn.cursor() as cur :
-                        cur.execute(f"""select *  from usuarios where token = '{token}' and status='conectado' """)
+                        cur.execute(f"""select *  from usuarios where token = '{token}' and status='CONECTADO' """)
                         count= cur.rowcount
                         if count > 0:
                                                 
