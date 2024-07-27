@@ -1,3 +1,4 @@
+from core.utils.security.cipher import Cypher
 from core.Entities.user.usersEntity import UsersEntity
 from core.Interface.User.Iuser import IUser
 from core.config.ResponseInternal import ResponseInternal
@@ -13,19 +14,18 @@ class UserDAO(ConectionsPsqlInterface, IUser):
         super().__init__()
 
     def crearUser(self, usuario: UsersEntity) -> UsersEntity:
-
+        cifrate = Cypher()
         try:
          idUsuario = self.___ContarUsuarios__()
          if idUsuario['status'] == True:
 
             conexion = self.connect()
-            usuario.password = generate_password_hash(
-                usuario.password, "pbkdf2:sha256:30", 12)
+            usuario.password = cifrate.encriptar(usuario.password)
             if conexion['status'] == True:
                     with self.conn.cursor() as cur:
-                        cur.execute(f"""insert into usuarios(id,nombre,apellido,ci,nombreusuario,password,token,tipouser,urlimg,status) values({idUsuario['response']},'{usuario.nombre}'
-                                    ,'{usuario.apellido}','{usuario.ci}','{usuario.nombreusuario}','{usuario.password}',
-                                    '{usuario.password}','{usuario.tipoUsuario}','{usuario.urlImagen}','activo')""")
+                        cur.execute(f"""insert into usuarios(id,nombre,apellido,ci,nombreusuario,password,token,tipouser,urlimg,status) values({idUsuario['response']},'{usuario.nombre.upper()}'
+                                    ,'{usuario.apellido.upper()}','{usuario.ci}','{usuario.nombreusuario.upper()}','{usuario.password}',
+                                    'NO POSEE TOKEN ACTIVO','{usuario.tipoUsuario}','{usuario.urlImagen}','activo')""")
                         self.conn.commit()
                         return ResponseInternal.responseInternal(True, f"usuario registrado con exito detail[{dict(usuario)}]", usuario)
             else:
