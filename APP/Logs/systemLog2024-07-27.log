@@ -804,3 +804,175 @@
  [35m2024-07-27 12:15:55.267823- INFO - [32mnew implement IClientes
  [35m2024-07-27 12:15:55.270272- INFO - [32mnew implement IClientes
  [35m2024-07-27 12:15:55.270375- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:20:47.694633- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.694806- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.694880- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.697933- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.698026- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.726918- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:20:47.732125- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:20:47.732554- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:20:47.779256- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:20:47.784437- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:20:47.784835- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:20:47.850631- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:20:47.855645- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:20:47.856439- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:20:47.904182- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:20:47.910303- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:20:47.913672- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:20:47.932897- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.940529- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:20:47.941523- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:20:47.942631- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:20:48.032902- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:49.741529- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:49.741761- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:49.741857- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:49.746176- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:49.746321- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:49.777886- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:25:49.781652- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:25:49.781905- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:25:49.809698- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:25:49.813563- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:25:49.814150- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:25:49.892198- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:25:49.899015- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:25:49.899357- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:25:49.936145- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:25:49.943993- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:25:49.946748- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:25:49.995554- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.003368- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.003938- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.004583- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.090390- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.162358- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.165175- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.177784- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.199728- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.313285- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.321995- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.349260- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.352867- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.357706- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.370294- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:25:50.370422- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:25:50.376667- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.391841- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.418900- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.437775- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.438857- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.439276- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.440357- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:25:50.462980- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.467562- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:25:50.515815- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.516680- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.623448- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.628335- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.628735- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.630360- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:25:50.630467- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:10.885081- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:10.890567- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:10.890731- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:10.919138- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:10.919250- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:11.000204- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:30:11.003606- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:30:11.003957- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:30:11.030167- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:30:11.033805- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:30:11.034671- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:30:11.120157- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:30:11.124930- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:30:11.125320- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:30:11.165500- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:30:11.171798- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:30:11.190663- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:30:11.277806- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:11.288624- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:11.289122- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:11.289791- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:11.381734- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:11.890717- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:11.905501- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:11.932445- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:12.001244- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:12.758819- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:12.808617- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:12.874551- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:12.889967- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:12.896636- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:12.957625- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:30:12.957823- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:30:12.988521- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.021032- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.083562- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:13.138333- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:13.143715- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:13.143866- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:13.146842- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:30:13.189642- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:13.203447- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:30:13.282782- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.283182- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.398065- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.427183- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.427286- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.438424- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:30:13.438819- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.246732- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.247286- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.247492- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.253272- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.253378- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.282760- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:33:31.286060- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:33:31.286303- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:33:31.321492- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:33:31.329578- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:33:31.329948- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:33:31.383500- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:33:31.391453- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:33:31.393599- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:33:31.422369- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:33:31.428497- INFO - [32mtasa obtenida con exito
+ [35m2024-07-27 12:33:31.430580- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-07-27 12:33:31.452132- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.466400- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.466606- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.466949- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.544170- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.704092- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.707494- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.718147- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.737369- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.858049- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.868319- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.883738- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.890270- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.894524- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.906634- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:33:31.906884- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-07-27 12:33:31.914559- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.929358- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:31.950579- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.966903- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.967755- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.967848- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.969827- INFO - [32mnew implement IPagos
+ [35m2024-07-27 12:33:31.991030- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:31.995225- INFO - [32mnew implement IOrdenes
+ [35m2024-07-27 12:33:32.031594- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.031989- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.127222- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.133078- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.133711- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.139020- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:33:32.139129- INFO - [32mnew implement IClientes
+ [35m2024-07-27 12:35:31.064078- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-07-27 12:35:31.136685- INFO - [32musuario <built-in function id> ha cerrado sesion de manera correcta  !!!
+ [35m2024-07-27 12:35:31.138754- INFO - [32mDesconexión exitosa de la base de datos

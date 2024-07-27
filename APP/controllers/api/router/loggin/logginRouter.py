@@ -37,3 +37,13 @@ async def IniciarSeccion(Loggin:LoginEntity):
        return respuesta
     else:
        raise HTTPException(400,trigger['mesagge'])
+@Loggin.post("/2/logout/{idUser}")
+async def Cerrar(idUser:int):
+    core2 = LoginDao2()
+    trigger=core2.logout(idUser= idUser)
+    
+    if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+    else:
+       raise HTTPException(400,trigger['mesagge'])

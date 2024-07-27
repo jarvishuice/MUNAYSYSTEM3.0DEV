@@ -10,8 +10,7 @@ class LoginDao2(ConectionsPsqlInterface):
     def __init__(self):
         print("inicio de unidad de inicio de sesion ... ")
     def login(self, username, password):
-        print(f"inicio de sesion {username}")
-        print(f"password {password}")
+
         conexion =  self.connect()
         result = None
         encipt = Cypher()
@@ -43,6 +42,32 @@ class LoginDao2(ConectionsPsqlInterface):
                 Logs.WirterTask(
                 f"{self.ERROR} error de integridad en la base de datos {e}")
                 return ResponseInternal.responseInternal(False, f"error de bido a que ya existe un usuario con las mismas caracteristicas {username} ", None)
+            except self.INTERFACE_ERROR as e:
+                Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+                return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
+            except self.DATABASE_ERROR as e:
+                Logs.WirterTask(
+                f"{self.ERROR} error en la base de datos detail{e}")
+                return ResponseInternal.responseInternal(False, "ERROR EN LA BASE DE DATOS", None)
+            finally:
+                self.disconnect()
+    def logout(self,idUser:int):
+        print(f"inicio de sesion {idUser}")
+        result =False
+        conexion =  self.connect()
+       
+   
+        if conexion['status'] == True:
+            try:
+                with self.conn.cursor() as cur:
+                    print("Busqueda de usuario ")
+                    cur.execute(f"update usuarios set token ='NO POSEE TOKEN ACTIVO',status='ACTIVO' where id ={idUser}")
+                    
+                    self.conn.commit()
+                    result = True
+                    return ResponseInternal.responseInternal(True, f"usuario {id} ha cerrado sesion de manera correcta  !!!", result)
+                    
+          
             except self.INTERFACE_ERROR as e:
                 Logs.WirterTask(f"{self.ERROR} error de interface {e}")
                 return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
