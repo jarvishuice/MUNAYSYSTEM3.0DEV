@@ -23,6 +23,7 @@ import SummarizeIcon from '@mui/icons-material/Summarize';
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { Outlet,Link } from "react-router-dom";
 import SettingsAccessibilityIcon from '@mui/icons-material/SettingsAccessibility';
+import { logginDAO } from '../core/Implements/loggin/logginDAO';
 
 const drawerWidth = 230;
 
@@ -221,7 +222,7 @@ export function SideBar(props: any): any {
               
               <ListItem>
                 <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
-                <a href='http://190.94.248.62:8051/index.html' onClick={()=>localStorage.clear()}>
+                <a onClick={()=>salir()}>
                  <Accordion >
                 <ListItemButton 
                 className="itemsLista"
@@ -251,4 +252,20 @@ export function SideBar(props: any): any {
         </main>
       </div></>
   );
+}
+async function salir (){
+  try {
+    const contorlador = new logginDAO();
+    const data = await contorlador.logout();
+    if (data != false ){
+       alert(`ha serrado sesion de foimra satisfactoria`);
+      //window.location.reload();
+    }
+    
+  } catch (error) {
+    console.error(error);
+  }
+
+
+
 }

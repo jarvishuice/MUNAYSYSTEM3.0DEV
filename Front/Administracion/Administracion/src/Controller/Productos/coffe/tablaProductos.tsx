@@ -3,7 +3,7 @@ import { DataGrid, GridColDef, GridToolbarContainer, GridToolbarExport } from "@
 import { Cargando } from "../../../screens/Cargando";
 import React from "react";
 import { ProductosEntity } from "../../../core/Entities/productos/productos";
-import { ButtonUpdateProducto } from "./buttonUpdateProducto";
+
 import { ProductosDAO } from "../../../core/Implements/productos/productosDAO";
 import ModalAggProducto from "./modalAggProducto";
 import { Avatar } from "@mui/joy";
@@ -29,7 +29,7 @@ function CustomToolbar() {
 export function TablaProductos() {
     const [load, setload] = React.useState<Boolean>(true);
     const [productos, setProductos] = React.useState<ProductosEntity[] | []>([]);
-    const [refresh, setRefresh] = React.useState<number>(0);
+  
     async function getProductos() {
         try {
             const controlador = new ProductosDAO();
@@ -49,7 +49,7 @@ export function TablaProductos() {
     }
     React.useEffect(() => {
         getProductos();
-    }, [refresh]);
+    }, []);
     const rows = productos;
     const columns: GridColDef[] = [
         {
@@ -63,13 +63,13 @@ export function TablaProductos() {
             field: 'nombre',
             headerName: 'Nombre',
             width: 250,
-            editable: true,
+            editable: false,
             type: 'text',
         },
         {
             field: 'urlimagen',
             headerName: 'Imagen',
-            editable: true,
+            editable: false,
             width: 200,
         },
         {
@@ -92,7 +92,7 @@ export function TablaProductos() {
             field: 'precio',
             headerName: 'Precio',
             width: 120,
-            editable: true,
+            editable: false,
             type: 'number',
             valueFormatter: (params) => {
                 const formattedValue = params.value.toFixed(2);
@@ -103,7 +103,7 @@ export function TablaProductos() {
             field: 'cantidad',
             headerName: 'Cantidad',
             width: 120,
-            editable: true,
+            editable: false,
             type: 'number',
         },
         {
@@ -116,48 +116,14 @@ export function TablaProductos() {
             headerName:'Categoria',
             type: 'singleSelect',
             valueOptions: ['alimentos', 'bebidas', 'cafe', 'snack'],
-            editable: true,
+            editable: false,
             
             width: 150,
         },
-        {
-            field: 'almacen',
-            headerName: 'Sede',
-            width: 150,
-            editable: false,
-            type: 'number',
-        },
-        {
-            field: 'guardarCambios',
-
-            width: 150,
-            editable: false,
-            renderCell: (params) => {
-
-               
-                return (
-                    <ButtonUpdateProducto producto={JSON.stringify({
-                        'id': parseInt(params.row.id),
-                        'nombre': params.row.nombre,
-                        'urlimagen': params.row.urlimagen,
-                        'precio': parseFloat(params.row.precio),
-                        'cantidad': parseInt(params.row.cantidad),
-                        'tipo': params.row.tipo,
-                        'almacen': "str",
-                    })} reload={setRefresh} />
-                )
-            }
-
-        },
        
-          
-
-
-
-
-
-
-
+       
+       
+        
     ]
     if (load === true) {
         return <Cargando></Cargando>
