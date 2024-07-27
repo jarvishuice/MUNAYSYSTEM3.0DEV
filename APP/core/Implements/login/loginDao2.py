@@ -42,7 +42,7 @@ class LoginDao2(ConectionsPsqlInterface):
             except self.INTEGRIDAD_ERROR as e:
                 Logs.WirterTask(
                 f"{self.ERROR} error de integridad en la base de datos {e}")
-                return ResponseInternal.responseInternal(False, f"error de bido a que ya existe un usuario con las mismas caracteristicas {usuario} ", None)
+                return ResponseInternal.responseInternal(False, f"error de bido a que ya existe un usuario con las mismas caracteristicas {username} ", None)
             except self.INTERFACE_ERROR as e:
                 Logs.WirterTask(f"{self.ERROR} error de interface {e}")
                 return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)

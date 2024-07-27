@@ -93,10 +93,7 @@ class UserDAO(ConectionsPsqlInterface, IUser):
                             return ResponseInternal.responseInternal(False, "NO se ha encontrado ningun  usuario ({username})", None)
             else:
                    return ResponseInternal.responseInternal(False, "ERROR DE CONEXION A LA BASE DE DATOS...", None)
-        except self.INTEGRIDAD_ERROR as e:
-            Logs.WirterTask(
-                f"{self.ERROR} error de integridad en la base de datos {e}")
-            return ResponseInternal.responseInternal(False, f"error de bido a que ya existe un usuario con las mismas caracteristicas {usuario} ", None)
+        
         except self.INTERFACE_ERROR as e:
             Logs.WirterTask(f"{self.ERROR} error de interface {e}")
             return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
@@ -122,10 +119,7 @@ class UserDAO(ConectionsPsqlInterface, IUser):
 
             else:
                    return ResponseInternal.responseInternal(False, "ERROR DE CONEXION A LA BASE DE DATOS...", None)
-        except self.INTEGRIDAD_ERROR as e:
-            Logs.WirterTask(
-                f"{self.ERROR} error de integridad en la base de datos {e}")
-            return ResponseInternal.responseInternal(False, f"error de bido a que ya existe un usuario con las mismas caracteristicas {usuario} ", None)
+       
         except self.INTERFACE_ERROR as e:
             Logs.WirterTask(f"{self.ERROR} error de interface {e}")
             return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
