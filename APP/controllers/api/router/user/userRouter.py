@@ -40,4 +40,14 @@ async def ActualizarStatusUser(status,credential:UsersEntity):
        return respuesta
    else:
        raise HTTPException(400,trigger['mesagge'])
+
+
+@usuarios.put("/update/password/{idUser}/{password}")
+async def ActualizarPassword(idUser,password)-> bool:
+   trigger=core.ActualizarPassword(idUser,password)
+   if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+   else:
+       raise HTTPException(400,trigger['mesagge'])
    
