@@ -56,7 +56,7 @@ async def ActualizarPassword(idUser,password)-> bool:
 @usuarios.post("/upImageProfile/{idUser}")
 async def upload_image(idUser:int,image: UploadFile = File(...)):
    try: 
-      save_path = f"views/img/{image.filename}"
+      save_path = f"views/img/assets/{image.filename}"
       UrlFile=f"http://191.97.17.26:8011/v3.0/assets/img/{image.filename}"
       with open(save_path, "wb") as buffer:
          shutil.copyfileobj(image.file, buffer) 
