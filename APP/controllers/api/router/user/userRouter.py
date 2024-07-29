@@ -1,4 +1,6 @@
+import shutil
 from fastapi import APIRouter,Request,HTTPException,UploadFile,File,Response
+from core.Interface.User.Iuser import IUser
 from core.Implements.user.userDAO import UserDAO
 from core.Entities.user.usersEntity import UsersEntity
 core= UserDAO()
@@ -50,4 +52,19 @@ async def ActualizarPassword(idUser,password)-> bool:
        return respuesta
    else:
        raise HTTPException(400,trigger['mesagge'])
-   
+
+@usuarios.post("/upImageProfile/{idUser}")
+async def upload_image(idUser:int,image: UploadFile = File(...)):
+   try: 
+      save_path = f"views/img/{image.filename}"
+      UrlFile=f"http://191.97.17.26:8011/v3.0/assets/img/{image.filename}"
+      with open(save_path, "wb") as buffer:
+         shutil.copyfileobj(image.file, buffer) 
+      print("imagen guardada")
+      trigger=core.actualizarImageProfile(idUser=idUser,path=UrlFile)
+   except Exception as e:
+         raise HTTPException(400,"error en la subida de la imagen")
+
+   return True
+      
+      
