@@ -13,7 +13,7 @@ class AuthDAO(ConectionsPsqlInterface,IAuth):
         
     def validarToken(self, token) -> bool:
         try:
-             
+            Logs.WirterTask(f"validando el token - > {token}") 
             conexion=self.connect()
             
             if conexion['status'] == True:
@@ -21,9 +21,10 @@ class AuthDAO(ConectionsPsqlInterface,IAuth):
                         cur.execute(f"""select *  from usuarios where token = '{token}' and status='CONECTADO' """)
                         count= cur.rowcount
                         if count > 0:
-                                                
+                            Logs.WirterTask(f"Token -> {token} validado con exito")          
                             return ResponseInternal.responseInternal(True,f"token validado con exito!!!",True)                                       
                         else : 
+                            Logs.WirterTask(f"Token -> {token} en invalido ")     
                             return ResponseInternal.responseInternal(False,f"{self.ERROR } ALERTA ESTAN INGRESANDO UN TOKEN ERRONEO POSIBLE  CYBER ATAQUE",False)
             else:       
                    return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)
