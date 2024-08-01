@@ -233,7 +233,36 @@ class UserDAO(ConectionsPsqlInterface, IUser):
 
                     self.conn.commit()
                     res = True
-                    return ResponseInternal.responseInternal(True, f"password del usuario -> {idUser} actualizada con exito", result)
+                    return ResponseInternal.responseInternal(True, f"AGREGANDO IMAGEN del usuario -> {idUser} actualizada con exito", result)
+            else:
+                return ResponseInternal.responseInternal(False, "ERROR DE CONEXION A LA BASE DE DATOS...", None)
+        except self.INTERFACE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False, "ERROR de interface en la base de datos ", None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(
+                f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False, "ERROR EN LA BASE DE DATOS", None)
+        finally:
+            self.disconnect()
+            
+    def actualizarUsuario(self,User:UsersEntity):
+        result = False
+        try:
+
+            conexion = self.connect()
+            if conexion['status'] == True:
+                with self.conn.cursor() as cur:
+                    cur.execute(f"""
+                                   update usuarios set nombre='{User.nombre.upper()}',
+                                   apellido='{User.apellido.upper()}',ci='{User.ci.upper()}',
+                                    nombreusuario='{User.nombreusuario.upper()}',
+                                    tipouser={User.tipoUsuario} where id = {User.id}                                        
+                                    """)
+
+                    self.conn.commit()
+                    result = True
+                    return ResponseInternal.responseInternal(True, f"Usuario  -> {User.id} actualizado con exito", result)
             else:
                 return ResponseInternal.responseInternal(False, "ERROR DE CONEXION A LA BASE DE DATOS...", None)
         except self.INTERFACE_ERROR as e:

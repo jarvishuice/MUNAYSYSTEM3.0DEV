@@ -1,0 +1,328 @@
+ [35m2024-08-01 15:47:43.754780- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:43.754986- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:43.755072- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:43.764970- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:43.765107- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:45.129835- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:47:45.324953- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:47:45.325282- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:47:46.219019- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:47:46.525081- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:47:46.525388- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:47:47.328100- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:47:47.660011- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:47:47.660317- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:47:48.373051- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:47:48.682536- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:47:48.682813- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:47:48.691323- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.695120- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:48.695221- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.695397- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:48.726957- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:48.806871- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:48.808979- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.818666- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.831611- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.930333- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:48.937415- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.948469- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.952298- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.955572- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.965177- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:47:48.965252- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:47:48.969950- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.979259- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:48.992584- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:49.003812- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:49.004551- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:49.004617- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:49.005826- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:47:49.018267- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:49.020802- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:47:49.041155- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.041227- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.082062- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.087038- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.087132- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.091947- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:47:49.092035- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:48:54.898159- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:48:54.898774- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:48:54.898932- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:48:54.902544- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:48:54.902660- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:48:56.003253- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:48:56.363830- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:48:56.364132- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:48:57.386970- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:48:57.805832- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:48:57.806597- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:48:59.233508- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:48:59.579221- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:48:59.579551- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:01.280766- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:49:01.590200- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:49:01.590877- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:01.600314- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.603941- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:01.604341- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.604875- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:01.644322- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:01.713796- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:01.715769- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.728830- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.745180- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.884163- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:01.902510- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:01.954606- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:01.959226- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:01.967123- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:01.988956- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:49:01.989514- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:49:02.010417- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.062906- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.095278- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:02.127462- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:02.129662- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:02.130788- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:02.133169- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:02.169711- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:02.177511- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:02.227779- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.228209- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.319143- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.324914- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.325561- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.328022- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:02.328655- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:23.146359- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:23.147151- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:23.147480- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:23.155000- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:23.155482- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:24.273367- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:49:24.475055- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:49:24.475348- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:25.344336- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:49:25.759117- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:49:25.759536- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:26.592239- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:49:26.880677- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:49:26.882065- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:27.790745- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:49:28.108571- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:49:28.109836- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:49:28.136257- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.148502- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.149531- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.151060- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.196200- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.310810- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.314876- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.360708- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.398495- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.548494- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.562916- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.588585- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.591488- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.595704- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.610166- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:49:28.610294- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:49:28.616993- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.633248- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.658991- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.677814- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.678472- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.678566- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.679308- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:49:28.702201- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.706127- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:49:28.735737- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.735856- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.811702- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.816484- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.816590- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.818355- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:49:28.818464- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:35.633362- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:35.633610- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:35.633712- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:35.637256- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:35.637359- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:36.800370- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:52:37.032387- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:52:37.032853- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:52:38.264057- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:52:39.085559- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:52:39.085849- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:52:40.278414- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:52:40.900434- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:52:40.900723- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:52:42.672692- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:52:43.082735- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:52:43.083015- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:52:43.087754- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.090617- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.090732- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.090940- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.116672- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.183932- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.185866- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.195726- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.208862- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.280091- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.285450- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.295156- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.296873- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.298642- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.304478- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:52:43.304574- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:52:43.308301- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.316313- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.329142- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.339803- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.340375- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.340480- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.341063- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:52:43.353405- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.355638- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:52:43.372093- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.372201- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.412718- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.415794- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.415892- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.417172- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:52:43.417279- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:41.817753- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:41.817938- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:41.818012- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:41.821027- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:41.821120- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:45.765090- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:55:47.183555- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:55:47.184215- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:55:49.752713- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:55:50.994617- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:55:50.995176- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:55:52.418276- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:55:52.614428- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:55:52.615149- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:55:59.283754- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:55:59.477037- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 15:55:59.477283- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:55:59.484948- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.489184- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.489914- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.490776- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.547521- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.607366- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.610231- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.626732- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.648126- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.737510- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.744899- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.754701- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.756544- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.758591- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.765151- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:55:59.765259- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 15:55:59.769004- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.779742- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.796533- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.809353- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.809937- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.810022- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.810647- INFO - [32mnew implement IPagos
+ [35m2024-08-01 15:55:59.823070- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.825207- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 15:55:59.843089- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.843223- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.907105- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.913169- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.913323- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.915592- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:55:59.915734- INFO - [32mnew implement IClientes
+ [35m2024-08-01 15:56:52.839946- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:56:59.173717- INFO - [32musuario registrado con exito detail[[UsersEntity(id=21, nombre='YOSNEY', apellido='Varela', ci='27467544', nombreusuario='BETANIA', password='54787139f7a430c5512dfe9af626f192a4ddf59df24761f2b763848fba93dc65', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=3, urlImagen='data:image/jpeg;base64,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', ultimaSesion='2024-07-13', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=8, nombre='NEST', apellido='NEST', ci='NEST', nombreusuario='NEST', password='0aef649ee9cb25df22e95b36ef754627ac0274a76c50452d2849fce89745914c', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=1, urlImagen=None, ultimaSesion='2024-07-13', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=2, nombre='JESUS', apellido='Pacheco', ci='16301730', nombreusuario='JESUS', password='ffa5d54d13e5926da2673308df46f08f4c60bc74a1a9ca2c59f06946a08d9ad8', token='1722520508.6969874', status='CONECTADO', tipoUsuario=3, urlImagen=None, ultimaSesion='2024-08-01', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=17, nombre='ALEJANDRO', apellido='Gil', ci='29983385', nombreusuario='ALEJANDRO', password='015ef3a1c7a1e44546c152d40f8c4d880c0e7121325c19fb608658516ee392ed', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=3, urlImagen='https://i.pinimg.com/280x280_RS/14/5a/76/145a76ec90ec2f4b1d91c213771c1cba.jpg', ultimaSesion='2024-07-13', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=22, nombre='AIXA', apellido='oropeza', ci='15098384', nombreusuario='AIXA', password='8e502f00102b79c71b2cfd53c3de33db687a03ac7174df52b14bcf584bd7ce88', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=3, urlImagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxwQTH9qFp9D4VAF1U0JPy9e6KGTCdXIf6w&usqp=CAU', ultimaSesion='2024-07-13', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=19, nombre='GABRIELA', apellido='Rojas', ci='10472768', nombreusuario='GABRIELA', password='bef6a44fb147a8671b1590362848658585e0040b456f2822bbbd1a066103b4fb', token='1722538735.4819922', status='CONECTADO', tipoUsuario=3, urlImagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedlY4q65v9buRhz-4F7SA7mmugmcYQAqIXQ&usqp=CAU', ultimaSesion='2024-08-01', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=15, nombre='MAILIN', apellido='GONZALEZ', ci='26235152', nombreusuario='MAILIN', password='4bec5b94b400b1c803f6f04708dd7e7ec9de1e7a651e7f7f48517482888683f8', token='1722540873.2173529', status='CONECTADO', tipoUsuario=3, urlImagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB__rs7T7CqQxR6RVoiBs4gwySl-1N4Bp-MlBKzqdw7w&s', ultimaSesion='2024-08-01', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=6, nombre='DANIEL', apellido='Casanova', ci='13379048', nombreusuario='DANIEL', password='612abbd51a208cebae160329ef40d291b3006ad7bf75a807693c810238665143', token='1722264499.4044254', status='CONECTADO', tipoUsuario=2, urlImagen='https://i.pinimg.com/474x/be/be/21/bebe21f58ceca8ccfcffb30678d703e3.jpg', ultimaSesion='2024-07-29', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=4, nombre='ARACELIS', apellido='Quintero', ci='13202726', nombreusuario='ARACELIS', password='3fccb84fb2afd6a733b1543e2a3e28897a909590ab81ac27da029f778e7f5a0b', token='1722270588.3338323', status='CONECTADO', tipoUsuario=1, urlImagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxwQTH9qFp9D4VAF1U0JPy9e6KGTCdXIf6w&usqp=CAU', ultimaSesion='2024-07-29', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=1, nombre='JARVIS', apellido='HUICE', ci='27475074', nombreusuario='JARVIS', password='15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', token='1722276658.7231014', status='CONECTADO', tipoUsuario=3, urlImagen='http://191.97.17.26:8011/v3.0/assets/img/jarvishuice.jpg', ultimaSesion='2024-07-29', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=23, nombre='FABRICIO', apellido='MEDINA', ci='27053580', nombreusuario='FABRICIO', password='8526760f819119d9558ded3d8cafdb97b246e53e35f4ea2092123402a6f1d18e', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=2, urlImagen='https://www.google.com/url?sa=i&url=https%3A%2F%2Felpitazo.net%2Fpolitica%2Fmaduro-declaro-las-motopiruetas-como-deporte-nacional%2F&psig=AOvVaw3AMv0tVMlidWShx-fmw3Uh&ust=1722193920307000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjF97r2x4cDFQAAAAAdAAAAABAE', ultimaSesion='2024-07-27', creado='2024-07-27 15:05:07.121558'), UsersEntity(id=3, nombre='DEIMIS', apellido='Mendez', ci='13945682', nombreusuario='DEIMIS', password='27d85acdd7da70fde6ff438cd7ce3a7c87ef27aaac53918f7760f1c97b4eab1e', token='NO POSEE TOKEN ACTIVO', status='ACTIVO', tipoUsuario=1, urlImagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24BKca2HY3g6ucFa_d7NrxkwPtKSDlM_-_g&usqp=CAU', ultimaSesion='2024-07-13', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=20, nombre='GABRIEL', apellido='Moncada', ci='21071620', nombreusuario='GABRIEL', password='7b895c435ead862918903b0620a53699ec0cc5ea49a7a3e22925f5a419e7e250', token='1722515919.6261373', status='CONECTADO', tipoUsuario=3, urlImagen=None, ultimaSesion='2024-08-01', creado='2024-07-13 13:25:19.976176'), UsersEntity(id=18, nombre='JULIETTE', apellido='LOZANO', ci='29577316', nombreusuario='JULIETTE', password='841a0cd5481c4e39cd807529518880e7d463080974c4ab99d52bc1c7ac55e608', token='1722516956.6017056', status='CONECTADO', tipoUsuario=3, urlImagen=None, ultimaSesion='2024-08-01', creado='2024-07-13 13:25:19.976176')]]
+ [35m2024-08-01 15:56:59.174592- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:57:39.028164- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:57:39.937694- INFO - [32musuario jarvis ha iniciado session de manera correcta  !!!
+ [35m2024-08-01 15:57:39.938566- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:59:40.179838- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:59:40.897861- INFO - [32mtoken validado con exito!!!
+ [35m2024-08-01 15:59:40.898122- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 15:59:41.575149- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 15:59:41.764132- INFO - [32m[0;31m error en la base de datos detailerror de sintaxis en o cerca de «'HUICI'»
+LINE 3:                                    'HUICI',ci='29990994',
+                                           ^
+
+ [35m2024-08-01 15:59:41.764332- INFO - [32mERROR EN LA BASE DE DATOS
+ [35m2024-08-01 15:59:41.764772- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:38.518903- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:38.519562- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:38.519675- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:38.528194- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:38.528323- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:39.261120- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:39.452351- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 16:02:39.453223- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:40.492886- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:40.686004- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 16:02:40.686783- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:41.420081- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:41.615232- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 16:02:41.615543- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:42.718949- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:42.949270- INFO - [32mtasa obtenida con exito
+ [35m2024-08-01 16:02:42.949920- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:42.966625- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:42.975327- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:42.976036- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:42.976846- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.026891- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.100991- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.103168- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.117279- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.133179- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.249252- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.258992- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.279177- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.283732- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.287487- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.301343- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 16:02:43.302116- INFO - [32mnew implement IMectricCoffeshop
+ [35m2024-08-01 16:02:43.311864- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.333671- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.390574- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.411086- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.411951- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.412064- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.413383- INFO - [32mnew implement IPagos
+ [35m2024-08-01 16:02:43.435244- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.438162- INFO - [32mnew implement IOrdenes
+ [35m2024-08-01 16:02:43.475948- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.476444- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.547933- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.553098- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.553187- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.555922- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:43.556024- INFO - [32mnew implement IClientes
+ [35m2024-08-01 16:02:45.354879- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:45.611694- INFO - [32mtoken validado con exito!!!
+ [35m2024-08-01 16:02:45.612575- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:02:46.743426- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:02:47.759171- INFO - [32mUsuario  -> 1 actualizado con exito
+ [35m2024-08-01 16:02:47.759443- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:04:06.012069- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:04:06.205845- INFO - [32mtoken validado con exito!!!
+ [35m2024-08-01 16:04:06.206172- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:04:07.225414- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:04:07.738999- INFO - [32mUsuario  -> 1 actualizado con exito
+ [35m2024-08-01 16:04:07.739290- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:05:13.923208- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:05:14.400857- INFO - [32mtoken validado con exito!!!
+ [35m2024-08-01 16:05:14.401148- INFO - [32mDesconexión exitosa de la base de datos
+ [35m2024-08-01 16:05:15.621189- INFO - [32mConexión exitosa a la base de datos
+ [35m2024-08-01 16:05:16.139877- INFO - [32mUsuario  -> 1 actualizado con exito
+ [35m2024-08-01 16:05:16.140201- INFO - [32mDesconexión exitosa de la base de datos

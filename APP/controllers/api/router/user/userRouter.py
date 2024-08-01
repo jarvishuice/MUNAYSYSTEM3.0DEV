@@ -1,12 +1,23 @@
 import shutil
-from fastapi import APIRouter,Request,HTTPException,UploadFile,File,Response
+from fastapi import APIRouter, Depends,Request,HTTPException,UploadFile,File,Response
+from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
+from core.Implements.auth.authDAO import AuthDAO
 from core.Interface.User.Iuser import IUser
 from core.Implements.user.userDAO import UserDAO
 from core.Entities.user.usersEntity import UsersEntity
 core= UserDAO()
-
+security = HTTPBearer()
+validator=AuthDAO()
 urlBase = "/MUNAY/nest"
 usuarios=APIRouter(prefix=f"{urlBase}/User", tags=["User"])
+
+def aut(credendentials:HTTPAuthorizationCredentials= Depends(security)):
+   token= credendentials.credentials
+   validacion=validator.validarToken(token)
+   if validacion['response']  == True:
+      return True
+   else:
+     raise HTTPException(401,detail="acceso denengado token no valido  ")
 @usuarios.get("/all")
 async def getAllUsers():
     trigger=core.getAllUsers
@@ -45,7 +56,7 @@ async def ActualizarStatusUser(status,credential:UsersEntity):
 
 
 @usuarios.put("/update/password/{idUser}/{password}")
-async def ActualizarPassword(idUser,password)-> bool:
+async def ActualizarPassword(idUser,password,auten:str=Depends(aut))-> bool:
    trigger=core.ActualizarPassword(idUser,password)
    if trigger['status'] ==True:
        respuesta= trigger['response']
@@ -67,5 +78,18 @@ async def upload_image(idUser:int,image: UploadFile = File(...)):
          raise HTTPException(400,e)
 
    return True
+
       
+
+@usuarios.put("/")
+async def updateUser(user:UsersEntity,auten:str=Depends(aut)) ->bool:
+   trigger=core.actualizarUsuario(user)
+   if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+   else:
+       raise HTTPException(400,trigger['mesagge'])
       
+
+      
+ 
