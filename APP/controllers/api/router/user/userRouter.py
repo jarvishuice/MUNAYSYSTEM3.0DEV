@@ -55,15 +55,16 @@ async def ActualizarPassword(idUser,password)-> bool:
 
 @usuarios.post("/upImageProfile/{idUser}")
 async def upload_image(idUser:int,image: UploadFile = File(...)):
-   try: 
+   try:
+      print(f"iniciando la carga de la imagen de perfil del usuario -> {idUser}") 
       save_path = f"views/img/assets/{image.filename}"
       UrlFile=f"http://191.97.17.26:8011/v3.0/assets/img/{image.filename}"
       with open(save_path, "wb") as buffer:
          shutil.copyfileobj(image.file, buffer) 
-      print("imagen guardada")
+      print(f"imagen guardada en ->{save_path}")
       trigger=core.actualizarImageProfile(idUser=idUser,path=UrlFile)
    except Exception as e:
-         raise HTTPException(400,"error en la subida de la imagen")
+         raise HTTPException(400,e)
 
    return True
       
