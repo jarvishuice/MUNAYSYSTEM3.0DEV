@@ -9,6 +9,7 @@ import { Avatar } from "@mui/joy";
 import { RolUser } from "./RolUser";
 import { Cargando } from "../../screens/Cargando";
 import ModalAggUsuario from "./ModalAggUsuario";
+import { ButtonUpdateUser } from "./ButtonUpdateUser";
 
 
 
@@ -30,9 +31,22 @@ function CustomToolbar() {
 export function TablaUser() {
     const [load, setload] = React.useState<Boolean>(true);
     const [user, setUser] = React.useState<UsersEntity[] | []>([]);
+    const [refresh,setRefresh] = React.useState<boolean>(false);
     // const [refresh, setRefresh] = React.useState<number>(0);
+const act =(i:number) =>{
+    
+    if (refresh === true) {
+        setRefresh(false);
+    }
+    else{
+        setRefresh(true);
+    }
+    console.warn(`refrescando.....${i}`);
+};
+
     async function getProductos() {
         try {
+            setload(true);
             const controlador = new UserDAO();
             const data = await controlador.getAllUsers();
             setUser(data)
@@ -50,7 +64,7 @@ export function TablaUser() {
     }
     React.useEffect(() => {
         getProductos();
-    }, []);
+    }, [refresh]);
     const rows = user;
     const columns: GridColDef[] = [
         
@@ -66,14 +80,14 @@ export function TablaUser() {
             field: 'nombre',
             headerName: 'Nombre',
             width: 150,
-            editable: false,
+            editable: true,
             type: 'string',
 
         },
         {
             field: 'apellido',
             headerName: 'Apellidos',
-            editable: false,
+            editable: true,
             width: 100,
             type: 'string',
         },
@@ -81,7 +95,7 @@ export function TablaUser() {
             field: 'ci',
             headerName: 'Cedula',
             width: 100,
-            editable: false,
+            editable: true,
             type: 'string',
 
         },
@@ -89,7 +103,7 @@ export function TablaUser() {
             field: 'nombreusuario',
             headerName: 'Usuario',
             width: 120,
-            editable: false,
+            editable: true,
             type: 'string',
 
         },
@@ -138,7 +152,7 @@ export function TablaUser() {
         {
             field: 'urlImagen',
 
-            width: 150,
+            width: 100,
             editable: false,
             type: 'string',
 
@@ -149,7 +163,47 @@ export function TablaUser() {
         editable: false,
         type:'string',
 
-      }
+      },
+      
+      
+      {
+        field: 'guardar',
+
+        width: 70,
+        editable: false,
+        renderCell: (params) => {
+
+           
+            return (
+                <ButtonUpdateUser user={{
+                    'id': parseInt(params.row.id),
+                    'nombre': params.row.nombre,
+                    'apellido': params.row.apellido,
+                    'ci': params.row.ci,
+                    'nombreusuario': params.row.nombreusuario,
+                    'password': 'xxx',
+                    'token': params.row.token,
+                    'status':params.row.status,
+                    'tipoUsuario': parseInt(params.row.tipoUsuario),
+                    'urlImagen':"la imagen de perfil se actualiza desde otro servicio desde donde se carga la imagen",
+                    'ultimaSesion':null,
+                    'creado':null
+                    
+                }} reload={act} />
+            )
+        }
+
+    }
+    ,
+    {
+        field: 'token',
+        headerName: 'llave',
+        width: 1,
+        editable: false,
+        type: 'string',
+
+    },
+
 
 
 

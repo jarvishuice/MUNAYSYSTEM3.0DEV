@@ -86,8 +86,34 @@ export class UserDAO extends (IUser) {
 
     }
 
-    updateUser(User: UsersEntity): Promise<UsersEntity[]> {
-        throw new Error(JSON.stringify(User));
+     async updateUser(User: UsersEntity): Promise<boolean> {
+        try {
+            const response = await fetch(`${this.API}${this.prefijo}/`, { method: "PUT", headers: this.headers, body: JSON.stringify(User) });
+            if (response.ok) {
+
+                const data = await response.json();
+                console.log(data)
+                return data as boolean;
+            } if (response.status == 404) {
+                alert("No se ha podido conectar con el servidor ")
+                return false;
+            }
+            if (response.status == 400) {
+                alert(response.statusText)
+                return false;
+            }
+            if (response.status == 401) {
+                localStorage.clear()
+                window.location.href = "/index.html"
+                return false;
+            }
+            else {
+                throw new Error('Error en la solicitud');
+            }
+        } catch (error) {
+            console.error(error);
+            return false;
+        }
     }
 
 }

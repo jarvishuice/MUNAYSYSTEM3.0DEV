@@ -257,7 +257,8 @@ class UserDAO(ConectionsPsqlInterface, IUser):
                                    update usuarios set nombre='{User.nombre.upper()}',
                                    apellido='{User.apellido.upper()}',ci='{User.ci.upper()}',
                                     nombreusuario='{User.nombreusuario.upper()}',
-                                    tipouser={User.tipoUsuario} where id = {User.id}                                        
+                                    tipouser={User.tipoUsuario},status='{User.status.upper()}' 
+                                    where id = {User.id}                                        
                                     """)
 
                     self.conn.commit()
