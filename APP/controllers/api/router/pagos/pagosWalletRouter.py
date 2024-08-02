@@ -38,5 +38,12 @@ async def RecargaWallet(pago:PagosEntity,auten:str=Depends(aut))-> PagosEntity:
        return respuesta
    else:
        raise HTTPException(400,trigger['mesagge'])
-   
+@PagosWallet.post("/RecargaWalletEspacios")
+async def recargaWalletEspacios(Pago:PagosEntity,auten:str=Depends(aut)):
+   trigger= core.recargaWalletEspacios(Pago)
+   if trigger['status'] ==True:
+       respuesta= trigger['response']
+       return respuesta
+   else:
+       raise HTTPException(400,trigger['mesagge'])
 

@@ -49,6 +49,38 @@ class PagosWalletDAO(ConectionsPsqlInterface,IPagosWallet):
                  return ResponseInternal.responseInternal(False,f"error al procesar el pago detail [{pago['meagge']}]",None)            
          finally:
              Logs.WirterTask("finalizada  la recarga de wallet !!!")
-             
+    def recargaWalletEspacios(self,pagoData: PagosEntity):
+        tazaSql="select id from tazadollar t  order by id desc limit 1 "
+        conexion = self.connect()
+        pagoData.id = time.time()
+        try:
+           conexion = self.connect()
+           if conexion['status'] ==True:
+               with self.conn.cursor() as cur :
+                   cur.execute(f"""INSERT INTO public.pagos_espacios (id, idcliente, fechapago, motivo, idformadepago, 
+                              referencia, monto, idtaza, sede)
+                              VALUES('{pagoData.id}', '{pagoData.idcliente}', now(), 'recarga de wallet {pagoData.sede}',
+                              {pagoData.idformadepago}, '{pagoData.referencia}', {round(pagoData.monto,2)}, 
+                              ({tazaSql}), '{pagoData.sede}');""")
+                   self.conn.commit()
+                   cur.execute(f"""INSERT INTO public.wallet_espacios (idcliente, id, idpago, status, monto)
+                               VALUES({pagoData.idcliente}, '{pagoData.id}', '{pagoData.id}', 'aplicado', {round(pagoData.monto,2)});""")
+                   self.conn.commit()
+               return ResponseInternal.responseInternal(True,f"Recarga de ({pagoData.monto} $) al  wallet  espacios del cliente {pagoData.idcliente} realizada de manera satisfactoria",pagoData)
+           else:
+                return ResponseInternal.responseInternal(False,"ERROR DE CONEXION A LA BASE DE DATOS...",None)       
+        except self.INTEGRIDAD_ERROR as e :
+            Logs.WirterTask(f"{self.ERROR} error de integridad en la base de datos {e}")
+            return ResponseInternal.responseInternal(False,f"error de bido a que ya existe un PAGO con estdo datos {pagoData} ",None)
+        except self.INTERFACE_ERROR as e :
+            Logs.WirterTask(f"{self.ERROR} error de interface {e}")
+            return ResponseInternal.responseInternal(False,"ERROR de interface en la base de datos ",None)
+        except self.DATABASE_ERROR as e:
+            Logs.WirterTask(f"{self.ERROR} error en la base de datos detail{e}")
+            return ResponseInternal.responseInternal(False,"ERROR EN LA BASE DE DATOS",None)
+        finally:
+            self.disconnect()
+            Logs.WirterTask(f"finalizado el registro del wallet espacios -> {pagoData.id}")
+    
 
         
