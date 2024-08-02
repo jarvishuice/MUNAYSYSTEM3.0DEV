@@ -22,6 +22,7 @@ import { DeudasEspaciosScreen } from './screens/deudasEspaciosScreen.tsx';
 import { ReportesEspaciosScreen } from './screens/reportesEspaciosScreen.tsx';
 import { ReportesGerenciaScreen } from './screens/ReportesGerenciaScreen.tsx';
 import { RecargaWalletCoffeScreen } from './screens/recargaWalletCoffeScreen.tsx';
+import { ProfileScreen } from './screens/ProfileScreen.tsx';
 const router = createBrowserRouter([
   {
     path: "/v3.0/coffe/index.html",
@@ -29,6 +30,9 @@ const router = createBrowserRouter([
     errorElement:<PageError></PageError>,
    
     children:[
+      {path: "profile",
+        element:<ProfileScreen/>
+       },
       {
         path:"dashboard",
         element:<Dashboard/>

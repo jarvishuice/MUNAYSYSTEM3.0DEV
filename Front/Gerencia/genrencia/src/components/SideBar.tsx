@@ -25,7 +25,7 @@ import { Outlet, Link } from "react-router-dom";
 import SettingsAccessibilityIcon from '@mui/icons-material/SettingsAccessibility';
 import AssignmentIndIcon from '@mui/icons-material/AssignmentInd';
 import { logginDAO } from '../core/Implements/loggin/logginDAO';
-
+import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
 const drawerWidth = 230;
 
 
@@ -238,6 +238,27 @@ export function SideBar(props: any): any {
                           <AssignmentIndIcon />
                         </ListItemDecorator>
                         <ListItemContent>USUARIOS</ListItemContent>
+
+                      </ListItemButton>
+
+                    </Accordion>
+                  </Link>
+                </AccordionGroup>
+              </ListItem>
+              <ListItem>
+                <AccordionGroup onClick={() => (setOpen(false))} className="itemsLista">
+                  <Link to="profile">
+                    <Accordion >
+                      <ListItemButton
+                        className="itemsLista"
+                        selected={index === 19}
+                        color={index === 19 ? 'success' : undefined}
+                        onClick={() => setIndex(18)}
+                      >
+                        <ListItemDecorator>
+                          <ManageAccountsIcon />
+                        </ListItemDecorator>
+                        <ListItemContent>PERFIL</ListItemContent>
 
                       </ListItemButton>
 

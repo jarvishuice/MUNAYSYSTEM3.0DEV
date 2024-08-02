@@ -9,4 +9,6 @@ export interface UsersEntity {
     status:        string;
     tipoUsuario:   number;
     urlImagen:     string;
+    ultimaSesion: string|null;
+    creado:string|null;
 }

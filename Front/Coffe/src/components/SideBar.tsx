@@ -21,7 +21,7 @@ import ModalClose from '@mui/joy/ModalClose';
 import { Outlet, Link } from "react-router-dom";
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { logginDAO } from '../core/Implements/loggin/logginDAO';
-
+import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
 const drawerWidth = 230;
 
 
@@ -142,6 +142,27 @@ export function SideBar(props: any): any {
                 </ListItemButton>
               </ListItem>
               <Divider/>
+              <ListItem>
+                <AccordionGroup onClick={() => (setOpen(false))} className="itemsLista">
+                  <Link to="profile">
+                    <Accordion >
+                      <ListItemButton
+                        className="itemsLista"
+                        selected={index === 19}
+                        color={index === 19 ? 'success' : undefined}
+                        onClick={() => setIndex(18)}
+                      >
+                        <ListItemDecorator>
+                          <ManageAccountsIcon />
+                        </ListItemDecorator>
+                        <ListItemContent>PERFIL</ListItemContent>
+
+                      </ListItemButton>
+
+                    </Accordion>
+                  </Link>
+                </AccordionGroup>
+              </ListItem>
               <ListItem>
                 <AccordionGroup  onClick={()=>(setOpen(false))} className="itemsLista">
                 <a onClick={()=>salir()}>

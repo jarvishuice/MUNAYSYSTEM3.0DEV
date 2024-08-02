@@ -27,6 +27,7 @@ import { FacturasScreen } from './screens/Facturas.tsx';
 import { ProductosEspaciosScreen } from './screens/ProductosEspaciosScreen.tsx';
 import { ProductosCoffeScreen } from './screens/ProductosCoffeScreen.tsx';
 import { UserScreen } from './screens/UserScreen.tsx';
+import { ProfileScreen } from './screens/ProfileScreen.tsx';
 
 const router = createBrowserRouter([
   {
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
     errorElement: <PageError></PageError>,
 
     children: [{path:"users",element: <UserScreen></UserScreen>},
+      {path: "profile",
+        element:<ProfileScreen/>
+       }
+      ,
       {path: "productos/Coffe",
       element:<ProductosCoffeScreen></ProductosCoffeScreen>
      },
