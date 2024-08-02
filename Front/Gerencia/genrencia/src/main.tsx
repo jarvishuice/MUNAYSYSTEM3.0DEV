@@ -28,6 +28,7 @@ import { ProductosEspaciosScreen } from './screens/ProductosEspaciosScreen.tsx';
 import { ProductosCoffeScreen } from './screens/ProductosCoffeScreen.tsx';
 import { UserScreen } from './screens/UserScreen.tsx';
 import { ProfileScreen } from './screens/ProfileScreen.tsx';
+import { RecargaWalletEspaciosScreen } from './screens/recargaWalletEspaciosScreen.tsx';
 
 const router = createBrowserRouter([
   {
@@ -110,6 +111,11 @@ const router = createBrowserRouter([
         path: "wallet/coffe",
         element: <RecargaWalletCoffeScreen />
       },
+      {
+        path: "wallet/espacios",
+        element: <RecargaWalletEspaciosScreen/>
+      },
+
       {
         path: "visitantes",
         element: <VisitantesScreen />

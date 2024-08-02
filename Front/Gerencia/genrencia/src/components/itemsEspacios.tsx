@@ -2,7 +2,7 @@
 import { ItemOnlySideBar } from "./itemOnlySideBar"
 import AddBusinessIcon from '@mui/icons-material/AddBusiness';
 import { ItemsSideBar } from './itemsSideBar';
-
+import AccountBalanceWalletIcon from '@mui/icons-material/AccountBalanceWallet';
 import RequestQuoteIcon from '@mui/icons-material/RequestQuote';
 import CreditCardOffIcon from '@mui/icons-material/CreditCardOff';
 import SavingsIcon from '@mui/icons-material/Savings';
@@ -26,6 +26,9 @@ function DEUDAS(){
 function REPORTES(){
     return(<ItemOnlySideBar ruta='reporte/espacios' key="ReportesSpace" icon={<ReceiptIcon/>} Nombre ="REPORTES"></ItemOnlySideBar>)
 }
+function WALLET(){
+    return (<ItemOnlySideBar ruta='wallet/espacios' key="WALLET-espacios" icon={<AccountBalanceWalletIcon/>} Nombre ="WALLET"> </ItemOnlySideBar>)
+    }
 function PRODUCTOS(){
     return(<ItemOnlySideBar ruta='productos/espacios' key="ProductosSpace" icon={<ProductionQuantityLimitsIcon/>} Nombre ="PRODUCTOS"></ItemOnlySideBar>)
 }
@@ -40,7 +43,7 @@ function PRODUCTOS(){
  */
 export function ItemsEspacios(): any{
 
-    return (<ItemsSideBar Nombre="ESPACIOS" icon={<HomeWorkIcon/>} childs={[<POS/>,<ORDENES/>,<PAGOS/>,<DEUDAS/>,<REPORTES/>,<PRODUCTOS/>]}/>)
+    return (<ItemsSideBar Nombre="ESPACIOS" icon={<HomeWorkIcon/>} childs={[<POS/>,<ORDENES/>,<PAGOS/>,<DEUDAS/>,<REPORTES/>,<WALLET/>,<PRODUCTOS/>]}/>)
 
     
 }
