@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { ClientesEntity } from "../core/Entities/clients/clients";
 import { VisitantesDAO } from "../core/Implements/visitantes/visitantesDAO";
+
+import { Button } from "@mui/joy";
 /**
  * React component that handles the search functionality for a visitor.
  *
@@ -11,24 +13,30 @@ export function BusquedaVisitante(props : any) {
   const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setInputValue(event.target.value);
   };
+  const  [loading,setLoading] = useState(false);
 
   const [nombre, setNombre] = useState("contado");
   const buscarCliente = (valor: string | any) => {
     setNombre(valor);
   };
   const [clientes, setClientes] = useState<ClientesEntity[] | undefined>(undefined);
+  
   useEffect(() => {
     async function fetchCliente() {
+
       try {
+        setLoading(true);
         const controladorVisistante = new VisitantesDAO();
         const data = await controladorVisistante.buscarVisitante(nombre);
         setClientes(data);
         if (data.length === 0) {
-          alert("El visitante no se encuentra registrado");
+         props.modal(true);
         }
+        
       } catch (error) {
         console.error(error);
       }
+      finally{setLoading(false);}
     }
     fetchCliente();
   }, [nombre]);
@@ -40,8 +48,9 @@ export function BusquedaVisitante(props : any) {
 
   return (
     <div>
+      <label> Cedula visitante</label>
       <input type="text" className="form-control me-2" onChange={handleInputChange} placeholder="Cedula" value={inputValue} />
-      <button className="btn btn-outline-success" onClick={() => { buscarCliente(inputValue); trigger(true) }}>Search</button>
+      <Button loading={loading?true:false} color="success" onClick={async() => { await buscarCliente(inputValue); trigger(true) }}>Buscar Visistante</Button>
       <div>
         {mostrar ? (
           <center>

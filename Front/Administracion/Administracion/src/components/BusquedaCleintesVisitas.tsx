@@ -32,6 +32,7 @@ const buscarCliente = (valor: string | any) => {
 
     return (
         <div>
+            <label> Cliente</label>
              <input className="form-control me-2" type="text" onChange={handleInputChange} value={inputValue} />
       <button className="btn btn-outline-success" onClick={()=>{buscarCliente(inputValue);trigger(true)}}>Buscar</button>
         <div> 

@@ -29,6 +29,7 @@ import { ProductosCoffeScreen } from './screens/ProductosCoffeScreen.tsx';
 import { ProfileScreen } from './screens/ProfileScreen.tsx';
 
 import { RecargaWalletEspaciosScreen } from './screens/recargaWalletEspaciosScreen.tsx';
+import { FormRegistroVisita } from './Controller/Visitas/formRegistroVisitas.tsx';
 
 const router = createBrowserRouter([
   {
@@ -116,6 +117,10 @@ const router = createBrowserRouter([
       {
         path: "visitantes",
         element: <VisitantesScreen />
+      },
+      {
+        path: "testing",
+        element: <FormRegistroVisita />
       }
 
 
